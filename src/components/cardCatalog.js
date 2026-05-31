@@ -81,7 +81,9 @@ export const renderCardCatalog = ({ cards, state }) => {
 const renderProductCard = (card, state) => `
   <article class="product-card">
     <button class="product-image" data-card-id="${card.id}">
-      <img src="${card.image}" alt="${escapeHtml(card.name)}" />
+      <span class="card-visual">
+        <img src="${card.image}" alt="${escapeHtml(card.name)}" />
+      </span>
     </button>
     <div class="product-body">
       <div class="product-title-row">

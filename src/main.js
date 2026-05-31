@@ -19,7 +19,7 @@ const state = {
   cardView: "grid",
   promotionCategory: "all",
   promotionStatus: "all",
-  selectedCompareIds: ["cashback-online", "cashback-360"],
+  selectedCompareIds: ["bidv-visa-cashback-online", "bidv-visa-cashback-360"],
   selectedSegmentId: "online-shopper",
   selectedCardId: null,
   modalTab: "overview",

@@ -4,7 +4,9 @@ import { renderChips } from "../utils/dom.js";
 export const renderDashboard = ({ cards, promotions, segments }) => {
   const activePromotions = promotions.filter((promotion) => daysBetween(promotion.endDate) >= 0);
   const endingPromotions = activePromotions.filter((promotion) => daysBetween(promotion.endDate) <= 7);
-  const priorityCards = cards.filter((card) => ["cashback-online", "cashback-360", "mastercard-travel", "visa-flexi"].includes(card.id));
+  const priorityCards = cards.filter((card) =>
+    ["bidv-visa-cashback-online", "bidv-visa-cashback-360", "bidv-mastercard-world-travel", "bidv-jcb-hybrid"].includes(card.id),
+  );
   const networks = [...new Set(cards.map((card) => card.network))];
 
   return `
