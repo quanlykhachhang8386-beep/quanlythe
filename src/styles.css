@@ -161,13 +161,42 @@ a {
 }
 
 .page-header.compact {
-  min-height: auto;
+  position: relative;
+  min-height: 255px;
   align-items: center;
+  overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(0, 91, 80, 0.96), rgba(9, 68, 59, 0.92)),
-    url("../public/assets/cards/mastercard-travel.png");
-  background-size: cover;
-  background-position: center;
+    radial-gradient(circle at 88% 28%, rgba(211, 176, 106, 0.18), transparent 20%),
+    linear-gradient(110deg, #f7fbf8 0 54%, rgba(0, 107, 95, 0.96) 54% 100%);
+  color: #073f39;
+}
+
+.page-header.compact::before {
+  position: absolute;
+  top: -34%;
+  right: -7%;
+  width: 48%;
+  aspect-ratio: 1;
+  content: "";
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.16), transparent 3%),
+    repeating-radial-gradient(circle at 50% 50%, rgba(211, 176, 106, 0.22) 0 1px, transparent 1px 13px),
+    radial-gradient(circle at 50% 50%, #008678, #00584f 66%, #00453e);
+  opacity: 0.9;
+}
+
+.page-header.compact::after {
+  position: absolute;
+  top: 34px;
+  right: 9%;
+  width: 150px;
+  aspect-ratio: 1;
+  content: "";
+  border: 2px solid rgba(211, 176, 106, 0.95);
+  border-radius: 56% 44% 58% 42%;
+  transform: rotate(34deg);
+  box-shadow: 0 0 40px rgba(211, 176, 106, 0.22);
 }
 
 .page-header h1 {
@@ -179,7 +208,18 @@ a {
 }
 
 .page-header.compact h1 {
-  font-size: clamp(28px, 4vw, 42px);
+  display: grid;
+  gap: 0;
+  font-size: clamp(42px, 7vw, 82px);
+  text-transform: uppercase;
+}
+
+.page-header.compact h1 span:last-child {
+  color: #c69c54;
+}
+
+.page-header.compact p {
+  color: #174d46;
 }
 
 .page-header p {
@@ -435,14 +475,19 @@ select:focus {
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 22px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 24px;
 }
 
 .product-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: 78px minmax(0, 1fr) minmax(340px, 42%);
+  align-items: center;
+  min-height: 318px;
   overflow: hidden;
   border: 1px solid rgba(16, 70, 62, 0.12);
-  border-radius: 18px;
+  border-radius: 24px;
   background:
     radial-gradient(circle at 78% 8%, rgba(0, 107, 95, 0.09), transparent 32%),
     linear-gradient(145deg, #f8fbf9 0%, #eef5f1 100%);
@@ -451,10 +496,54 @@ select:focus {
     0 22px 55px rgba(20, 48, 42, 0.11);
 }
 
+.product-card:nth-child(even) {
+  grid-template-columns: minmax(340px, 42%) minmax(0, 1fr) 78px;
+}
+
+.product-card:nth-child(even) .product-index {
+  order: 3;
+}
+
+.product-card:nth-child(even) .product-body {
+  order: 2;
+}
+
+.product-card:nth-child(even) .product-showcase {
+  order: 1;
+}
+
+.product-index {
+  align-self: stretch;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 12px;
+  min-width: 78px;
+  background: linear-gradient(180deg, #006b5f, #004d45);
+  color: #fff;
+  box-shadow: 14px 0 28px rgba(0, 75, 67, 0.16);
+}
+
+.product-card:nth-child(even) .product-index {
+  box-shadow: -14px 0 28px rgba(0, 75, 67, 0.16);
+}
+
+.product-index strong {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.product-index span {
+  color: #d3b06a;
+  font-size: 25px;
+}
+
 .product-showcase {
   position: relative;
+  align-self: stretch;
   width: 100%;
-  min-height: 315px;
+  height: 318px;
+  min-height: 318px;
   overflow: hidden;
   border: 0;
   background:
@@ -468,7 +557,7 @@ select:focus {
 .product-showcase::after {
   position: absolute;
   right: 8%;
-  bottom: 18px;
+  bottom: 34px;
   left: 10%;
   height: 24px;
   content: "";
@@ -514,10 +603,10 @@ select:focus {
 }
 
 .card-render-portrait {
-  bottom: 38px;
-  left: 8%;
+  bottom: 52px;
+  left: 7%;
   z-index: 2;
-  width: 32%;
+  width: 30%;
   aspect-ratio: 1 / 1.58;
   transform: rotateX(5deg) rotateY(12deg) rotateZ(-2deg);
 }
@@ -532,10 +621,10 @@ select:focus {
 }
 
 .card-render-landscape {
-  right: 8%;
-  bottom: 60px;
+  right: 6%;
+  bottom: 74px;
   z-index: 1;
-  width: 58%;
+  width: 61%;
   aspect-ratio: 1.58 / 1;
   transform: rotateX(6deg) rotateY(-8deg) rotateZ(1deg) translateZ(-12px);
 }
@@ -552,8 +641,10 @@ select:focus {
 
 .product-body {
   display: grid;
-  gap: 16px;
-  padding: 0 34px 34px;
+  align-content: center;
+  gap: 12px;
+  min-height: 318px;
+  padding: 26px 30px;
 }
 
 .product-body p,
@@ -573,22 +664,30 @@ select:focus {
 
 .product-meta-row {
   align-items: center;
+  min-height: 28px;
 }
 
 .product-body h2 {
   margin: 0;
   color: #123f39;
-  font-size: clamp(30px, 3.6vw, 52px);
-  line-height: 0.98;
+  font-size: clamp(28px, 3vw, 42px);
+  line-height: 1.02;
   letter-spacing: 0;
+  min-height: 86px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .product-audience {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 14px;
+  min-height: 30px;
+  overflow: hidden;
   color: #254d47;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -598,17 +697,19 @@ select:focus {
 
 .benefit-list {
   display: grid;
-  gap: 10px;
+  gap: 9px;
+  min-height: 207px;
 }
 
 .benefit-row {
   display: grid;
-  grid-template-columns: 44px minmax(84px, auto) 1fr;
-  gap: 14px;
+  grid-template-columns: 38px minmax(72px, 96px) minmax(0, 1fr);
+  gap: 12px;
   align-items: center;
-  min-height: 60px;
-  border-radius: 18px;
-  padding: 9px 16px;
+  height: 63px;
+  min-height: 63px;
+  border-radius: 16px;
+  padding: 8px 14px;
   background: rgba(255, 255, 255, 0.76);
   box-shadow:
     0 10px 24px rgba(19, 44, 39, 0.08),
@@ -618,8 +719,8 @@ select:focus {
 .benefit-icon {
   display: grid;
   place-items: center;
-  width: 40px;
-  height: 40px;
+  width: 34px;
+  height: 34px;
   border-radius: 999px;
   background: #006b5f;
   color: #fff;
@@ -630,15 +731,22 @@ select:focus {
 
 .benefit-row strong {
   color: #123f39;
-  font-size: clamp(28px, 3.3vw, 48px);
+  overflow: hidden;
+  font-size: clamp(22px, 2.3vw, 34px);
   line-height: 1;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .benefit-row span:last-child {
   color: #123f39;
-  font-size: 16px;
+  overflow: hidden;
+  display: -webkit-box;
+  font-size: 14px;
   font-weight: 800;
-  line-height: 1.24;
+  line-height: 1.28;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .card-badge,
@@ -1071,9 +1179,27 @@ dd {
 }
 
 @media (max-width: 1180px) {
-  .metric-grid,
-  .card-grid {
+  .metric-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .product-card,
+  .product-card:nth-child(even) {
+    grid-template-columns: 68px minmax(0, 1fr) minmax(300px, 38%);
+  }
+
+  .product-index {
+    min-width: 68px;
+  }
+
+  .product-showcase,
+  .product-body,
+  .product-card {
+    min-height: 300px;
+  }
+
+  .product-showcase {
+    height: 300px;
   }
 
   .dashboard-grid,
@@ -1157,6 +1283,49 @@ dd {
     grid-template-columns: 1fr;
   }
 
+  .product-card,
+  .product-card:nth-child(even) {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+
+  .product-card:nth-child(even) .product-index,
+  .product-card:nth-child(even) .product-body,
+  .product-card:nth-child(even) .product-showcase {
+    order: initial;
+  }
+
+  .product-index {
+    display: flex;
+    justify-content: space-between;
+    min-width: 0;
+    min-height: 64px;
+    padding: 0 20px;
+  }
+
+  .product-index strong {
+    font-size: 34px;
+  }
+
+  .product-showcase {
+    height: 280px;
+    min-height: 280px;
+  }
+
+  .product-body {
+    min-height: auto;
+    padding: 24px;
+  }
+
+  .product-body h2 {
+    min-height: auto;
+    font-size: 32px;
+  }
+
+  .benefit-list {
+    min-height: auto;
+  }
+
   .priority-card,
   .modal-hero {
     grid-template-columns: 1fr;
@@ -1180,5 +1349,24 @@ dd {
 
   .compare-picker {
     grid-template-columns: 1fr;
+  }
+
+  .product-showcase {
+    height: 230px;
+    min-height: 230px;
+  }
+
+  .product-audience {
+    font-size: 16px;
+  }
+
+  .benefit-row {
+    grid-template-columns: 34px minmax(56px, 78px) minmax(0, 1fr);
+    gap: 8px;
+    padding: 8px 10px;
+  }
+
+  .benefit-row strong {
+    font-size: 22px;
   }
 }

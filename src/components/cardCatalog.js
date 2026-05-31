@@ -32,7 +32,7 @@ export const renderCardCatalog = ({ cards, state }) => {
       <header class="page-header compact">
         <div>
           <p class="eyebrow">Kho sản phẩm</p>
-          <h1>Danh mục thẻ BIDV</h1>
+          <h1><span>Danh mục</span><span>Thẻ BIDV</span></h1>
           <p>Tra cứu theo tên thẻ, mạng thẻ, hạng thẻ, loại thẻ, phí và nhóm khách hàng phù hợp.</p>
         </div>
       </header>
@@ -71,24 +71,18 @@ export const renderCardCatalog = ({ cards, state }) => {
       ${
         state.cardView === "table"
           ? renderCardTable(filteredCards)
-          : `<div class="card-grid">${filteredCards.map((card) => renderProductCard(card, state)).join("")}</div>`
+          : `<div class="card-grid">${filteredCards.map((card, index) => renderProductCard(card, state, index)).join("")}</div>`
       }
     </section>
   `;
 };
 
-const renderProductCard = (card, state) => `
+const renderProductCard = (card, state, index) => `
   <article class="product-card">
-    <button class="product-showcase" data-card-id="${card.id}" aria-label="Xem chi tiết ${escapeHtml(card.name)}">
-      <span class="card-pair" aria-hidden="true">
-        <span class="card-render card-render-portrait">
-          <img src="${card.image}" alt="" />
-        </span>
-        <span class="card-render card-render-landscape">
-          <img src="${card.image}" alt="" />
-        </span>
-      </span>
-    </button>
+    <div class="product-index">
+      <strong>${String(index + 1).padStart(2, "0")}</strong>
+      <span aria-hidden="true">✤</span>
+    </div>
     <div class="product-body">
       <div class="product-meta-row">
         <span class="card-badge">${escapeHtml(card.badge)}</span>
@@ -102,6 +96,16 @@ const renderProductCard = (card, state) => `
       <div class="benefit-list">${renderBenefitRows(card)}</div>
       <button class="secondary-action" data-card-id="${card.id}">Xem chi tiết</button>
     </div>
+    <button class="product-showcase" data-card-id="${card.id}" aria-label="Xem chi tiết ${escapeHtml(card.name)}">
+      <span class="card-pair" aria-hidden="true">
+        <span class="card-render card-render-portrait">
+          <img src="${card.image}" alt="" />
+        </span>
+        <span class="card-render card-render-landscape">
+          <img src="${card.image}" alt="" />
+        </span>
+      </span>
+    </button>
   </article>
 `;
 
