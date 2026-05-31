@@ -1,5 +1,4 @@
 import { daysBetween, escapeHtml, formatDate, promotionStatusLabel } from "../utils/format.js";
-import { renderChips } from "../utils/dom.js";
 
 export const renderDashboard = ({ cards, promotions, segments }) => {
   const activePromotions = promotions.filter((promotion) => daysBetween(promotion.endDate) >= 0);
@@ -54,18 +53,7 @@ export const renderDashboard = ({ cards, promotions, segments }) => {
           </div>
           <div class="priority-list">
             ${priorityCards
-              .map(
-                (card) => `
-                  <button class="priority-card" data-card-id="${card.id}">
-                    <img src="${card.image}" alt="${escapeHtml(card.name)}" />
-                    <div>
-                      <strong>${escapeHtml(card.name)}</strong>
-                      <span>${escapeHtml(card.audience)}</span>
-                      <div>${renderChips(card.highlights.slice(0, 3))}</div>
-                    </div>
-                  </button>
-                `,
-              )
+              .map((card, index) => renderPriorityCard(card, index))
               .join("")}
           </div>
         </article>
@@ -118,3 +106,27 @@ export const renderDashboard = ({ cards, promotions, segments }) => {
     </section>
   `;
 };
+
+const renderPriorityCard = (card, index) => `
+  <button class="priority-card" data-card-id="${card.id}">
+    <span class="priority-index">${String(index + 1).padStart(2, "0")}</span>
+    <span class="priority-copy">
+      <small>${escapeHtml(card.badge)}</small>
+      <strong>${escapeHtml(card.name)}</strong>
+      <span>${renderAudience(card.audience)}</span>
+      <em>${escapeHtml(card.highlights[0] || card.limit)}</em>
+    </span>
+    <span class="priority-visual" aria-hidden="true">
+      <img src="${card.image}" alt="" />
+    </span>
+  </button>
+`;
+
+const renderAudience = (audience) =>
+  audience
+    .split("/")
+    .map((item) => item.trim())
+    .filter(Boolean)
+    .slice(0, 3)
+    .map(escapeHtml)
+    .join(" | ");
