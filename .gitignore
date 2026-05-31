@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Source design archives and editable artwork are kept locally.
+Design thẻ BIDV/
+Design thẻ BIDV/
+Design thẻ BIDV-*.zip
+Design thẻ BIDV-*.zip
+*.ai
+
