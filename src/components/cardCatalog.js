@@ -1,5 +1,4 @@
 import { escapeHtml, normalizeText } from "../utils/format.js";
-import { renderChips } from "../utils/dom.js";
 
 export const filterCards = (cards, state) => {
   const query = normalizeText(state.search);
@@ -80,32 +79,64 @@ export const renderCardCatalog = ({ cards, state }) => {
 
 const renderProductCard = (card, state) => `
   <article class="product-card">
-    <button class="product-image" data-card-id="${card.id}">
-      <span class="card-visual">
-        <img src="${card.image}" alt="${escapeHtml(card.name)}" />
+    <button class="product-showcase" data-card-id="${card.id}" aria-label="Xem chi tiết ${escapeHtml(card.name)}">
+      <span class="card-pair" aria-hidden="true">
+        <span class="card-render card-render-portrait">
+          <img src="${card.image}" alt="" />
+        </span>
+        <span class="card-render card-render-landscape">
+          <img src="${card.image}" alt="" />
+        </span>
       </span>
     </button>
     <div class="product-body">
-      <div class="product-title-row">
-        <div>
-          <span class="card-badge">${escapeHtml(card.badge)}</span>
-          <h2>${escapeHtml(card.name)}</h2>
-        </div>
+      <div class="product-meta-row">
+        <span class="card-badge">${escapeHtml(card.badge)}</span>
         <label class="compare-check">
           <input type="checkbox" data-compare-toggle="${card.id}" ${state.selectedCompareIds.includes(card.id) ? "checked" : ""} />
           So sánh
         </label>
       </div>
-      <p>${escapeHtml(card.audience)}</p>
-      <div class="info-strip">
-        <span>${escapeHtml(card.annualFee)}</span>
-        <span>${escapeHtml(card.limit)}</span>
-      </div>
-      <div class="chip-row">${renderChips(card.highlights.slice(0, 4))}</div>
+      <h2>${escapeHtml(card.name)}</h2>
+      <p class="product-audience">${renderAudience(card.audience)}</p>
+      <div class="benefit-list">${renderBenefitRows(card)}</div>
       <button class="secondary-action" data-card-id="${card.id}">Xem chi tiết</button>
     </div>
   </article>
 `;
+
+const renderAudience = (audience) =>
+  audience
+    .split("/")
+    .map((item) => item.trim())
+    .filter(Boolean)
+    .slice(0, 4)
+    .map(escapeHtml)
+    .join("<span>|</span>");
+
+const renderBenefitRows = (card) => {
+  const rows = card.highlights.slice(0, 3);
+  const fallbackRows = [card.limit, card.annualFee, card.interest].filter(Boolean);
+  return (rows.length ? rows : fallbackRows)
+    .slice(0, 3)
+    .map((benefit, index) => renderBenefitRow(benefit, index))
+    .join("");
+};
+
+const renderBenefitRow = (benefit, index) => {
+  const cleaned = benefit.replace(/\s+/g, " ").trim();
+  const valueMatch = cleaned.match(/(\d+(?:[,.]\d+)?\s*%|0%\s*phí|không giới hạn|miễn phí|tối đa\s*[\d,.]+\s*(?:đ|vnđ|điểm)?)/i);
+  const value = valueMatch?.[0] || ["01", "02", "03"][index];
+  const description = valueMatch ? cleaned.replace(valueMatch[0], "").replace(/^[:—–\-\s]+/, "").trim() : cleaned;
+
+  return `
+    <div class="benefit-row">
+      <span class="benefit-icon">${index + 1}</span>
+      <strong>${escapeHtml(value)}</strong>
+      <span>${escapeHtml(description || cleaned)}</span>
+    </div>
+  `;
+};
 
 const renderCardTable = (cards) => `
   <div class="table-wrap">
