@@ -117,7 +117,12 @@ const renderPriorityCard = (card, index) => `
       <em>${escapeHtml(card.highlights[0] || card.limit)}</em>
     </span>
     <span class="priority-visual" aria-hidden="true">
-      <img src="${card.image}" alt="" />
+      <span class="priority-card-mini priority-card-mini-portrait">
+        <img src="${card.image}" alt="" />
+      </span>
+      <span class="priority-card-mini priority-card-mini-landscape">
+        <img src="${card.image}" alt="" />
+      </span>
     </span>
   </button>
 `;
