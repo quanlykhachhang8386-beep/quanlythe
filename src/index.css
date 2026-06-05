@@ -51,6 +51,25 @@
     @apply inline-flex min-h-8 items-center rounded-full bg-bidv-teal/10 px-3 text-xs font-bold text-bidv-deep;
   }
 
+  .tab-button {
+    @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl px-4 text-sm font-black text-slate-500 transition duration-300 hover:bg-bidv-teal/10 hover:text-bidv-deep;
+  }
+
+  .tab-button-active {
+    @apply bg-bidv-deep text-white shadow-lg shadow-bidv-deep/15 hover:bg-bidv-deep hover:text-white;
+  }
+
+  .portrait-card-img {
+    width: 17.5rem;
+    max-width: none;
+    transform: rotate(90deg);
+    filter: drop-shadow(0 24px 34px rgba(0, 47, 56, 0.24));
+  }
+
+  .group:hover .portrait-card-img {
+    transform: rotate(90deg) scale(1.04);
+  }
+
   .warning-chip {
     @apply inline-flex min-h-8 items-center gap-1 rounded-full bg-amber-100 px-3 text-xs font-bold text-amber-800;
   }

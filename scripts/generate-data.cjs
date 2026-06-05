@@ -411,6 +411,67 @@ for (const promo of promotions) {
   }
 }
 
+function handbookFor(card) {
+  const info = card.thongTinPhanLoai || {};
+  const details = card.chiTietThe || {};
+  const typeText = normalize(`${info.loaiThe || ""} ${info.hangThe || ""} ${info.mangThe || ""} ${card.tenThe}`);
+  const isCredit = typeText.includes("tin dung") || typeText.includes("credit");
+  const isDebit = typeText.includes("ghi no") || typeText.includes("debit");
+  const isBusiness = typeText.includes("doanh nghiep") || typeText.includes("business");
+  const isPremium = ["private", "infinite", "premier", "ultimate", "world"].some((word) => typeText.includes(word));
+  const isDomestic = typeText.includes("noi dia") || typeText.includes("napas");
+
+  const productModel = isDomestic
+    ? "Thẻ nội địa sử dụng BIN do NHNN cấp, phục vụ giao dịch tại ATM/POS/đơn vị chấp nhận thẻ thuộc mạng NAPAS và các ngân hàng liên kết."
+    : "Thẻ quốc tế sử dụng BIN do tổ chức thẻ quốc tế cấp, có thể giao dịch trong nước và nước ngoài tại điểm chấp nhận thẻ/ATM có biểu tượng tương ứng.";
+
+  const operatingSystem = isDomestic
+    ? "Theo cẩm nang, nhóm thẻ ghi nợ nội địa được quản lý trên Core Profile/Cortex."
+    : isCredit
+      ? "Theo cẩm nang, nhóm thẻ tín dụng quốc tế được quản lý trên hệ thống Way4."
+      : "Theo cẩm nang, nhóm thẻ ghi nợ quốc tế được quản lý trên hệ thống Way4.";
+
+  const advisoryFocus = [
+    isPremium
+      ? "Ưu tiên tư vấn đặc quyền phong cách sống, du lịch, phòng chờ, golf/spa/fast track và trải nghiệm dịch vụ cao cấp."
+      : "Ưu tiên tư vấn theo nhu cầu chi tiêu chính, hạn mức/biểu phí, nhóm ưu đãi đang có hiệu lực và thói quen sử dụng thẻ.",
+    isBusiness
+      ? "Với khách hàng doanh nghiệp, cần làm rõ mục đích thanh toán công tác phí, kiểm soát chi tiêu, người dùng thẻ và quy trình phê duyệt nội bộ."
+      : "Với khách hàng cá nhân, cần làm rõ thu nhập, tần suất chi tiêu, kênh chi tiêu online/offline và kỳ vọng hoàn tiền/tích điểm.",
+    "Luôn đối chiếu biểu phí, điều kiện phát hành, hạn mức giao dịch và thể lệ ưu đãi theo thông báo BIDV từng thời kỳ."
+  ];
+
+  const valueAddedServices = [
+    isCredit ? "Mua hàng trả góp: chuyển đổi giao dịch mua sắm hợp lệ thành giao dịch trả góp theo kỳ hạn và giá trị tối thiểu BIDV quy định." : "Liên kết thẻ với tài khoản thanh toán để chi tiêu và rút tiền trong phạm vi số dư/hạn mức khả dụng.",
+    "Tokenization: liên kết thẻ với ví/thiết bị thanh toán để giảm rủi ro lộ thông tin thẻ khi giao dịch số.",
+    "Apple Pay: thanh toán bằng thiết bị Apple tại POS, ứng dụng/website hỗ trợ, sau khi liên kết thẻ thành công.",
+    isCredit ? "QR VNPAY từ nguồn thẻ tín dụng: hỗ trợ thanh toán QR theo phạm vi sản phẩm BIDV triển khai." : "SmartBanking: hỗ trợ quản lý, kích hoạt, khóa/mở và theo dõi giao dịch thẻ trên kênh số.",
+    "ePIN và dịch vụ hỗ trợ thẻ giúp khách hàng chủ động quản lý PIN, trạng thái thẻ và yêu cầu hỗ trợ."
+  ];
+
+  const securityNotes = [
+    "Thẻ BIDV có công nghệ chip và có thể hỗ trợ giao dịch tiếp xúc hoặc không tiếp xúc tùy sản phẩm.",
+    "3D-Secure bổ sung lớp xác thực cho giao dịch thương mại điện tử qua Verified by Visa, Mastercard SecureCode hoặc J/Secure.",
+    "Không chia sẻ số thẻ, CVV, PIN, OTP; chủ động khóa thẻ trên kênh số khi phát sinh nghi ngờ rủi ro.",
+    "Khi tư vấn phát hành, cần nhắc khách đăng ký đúng phạm vi giao dịch thẻ và kênh thông báo biến động."
+  ];
+
+  return {
+    source: "Cẩm nang sản phẩm dịch vụ thẻ BIDV",
+    productModel,
+    operatingSystem,
+    advisoryFocus,
+    valueAddedServices,
+    securityNotes,
+    implementationNotes: [
+      "Kiểm tra điều kiện phát hành, hồ sơ khách hàng và hạn mức trước khi đề xuất sản phẩm.",
+      "Đối chiếu phí thường niên, lãi suất, phí chuyển đổi trả góp và phí giao dịch theo biểu phí BIDV hiện hành.",
+      "Khi giới thiệu khuyến mại, cần nêu rõ thời hạn, merchant/đối tác áp dụng, điều kiện giao dịch hợp lệ và cơ chế hoàn/tặng thưởng.",
+      details.nguonThamChieu ? "Có thể mở nguồn tham chiếu để kiểm tra thêm thể lệ/slide cập nhật của từng dòng thẻ." : "Cập nhật thêm nguồn tham chiếu khi có thông báo sản phẩm mới."
+    ]
+  };
+}
+
 const cards = source.danhSachThe.map((card) => {
   const info = card.thongTinPhanLoai || {};
   const details = card.chiTietThe || {};
@@ -425,12 +486,14 @@ const cards = source.danhSachThe.map((card) => {
     positioning: info.nhanDien || "Chi tiêu thông minh",
     image: `/assets/ui-kit/cards/${imageSlug}-1200x760.webp`,
     fallbackImage: `/assets/cards/${encodeURIComponent(card.tenThe)}.png`,
+    portraitImage: `/assets/cards/${encodeURIComponent(card.tenThe)}.png`,
     annualFee: details.phiThuongNien || "Cần kiểm chứng theo biểu phí BIDV",
     interestRate: details.laiSuat || "Cần kiểm chứng theo biểu phí BIDV",
     rewardLimit: details.hanMucHoanTienTichDiem || "Đang cập nhật",
     highlights: card.tinhNangDacTrung || [],
     details: details.quyenLoiVaTinhNangKhac || [],
     cautions: details.dieuKienCanLuuY || [],
+    handbook: handbookFor(card),
     customerSegments: (card.khachHangTiemNang || []).map((item) => ({
       name: item.nhom,
       needs: item.nhuCau || [],

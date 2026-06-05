@@ -3,20 +3,24 @@ import { navigate } from "../utils/useHashRoute";
 
 export default function CardTile({ card, promotions, selected, onCompare }) {
   const activePromos = promotions.filter((promo) => card.promotionIds.includes(promo.id) && promo.status !== "ended");
+  const cardImage = card.portraitImage || card.fallbackImage || card.image;
 
   return (
     <article className="surface group overflow-hidden transition duration-500 hover:-translate-y-2 hover:border-bidv-teal/50 hover:shadow-2xl hover:shadow-bidv-deep/10">
-      <button className="relative block w-full overflow-hidden bg-gradient-to-br from-white via-bidv-teal/10 to-bidv-gold/20 p-5" type="button" onClick={() => navigate("cards", card.id)}>
+      <button className="relative block w-full overflow-hidden bg-[radial-gradient(circle_at_50%_10%,rgba(243,181,34,0.22),transparent_32%),linear-gradient(160deg,#ffffff,#e8f7f6_55%,#fff6d7)] p-5" type="button" onClick={() => navigate("cards", card.id)}>
         <div className="absolute left-6 top-6 rounded-full bg-white/70 px-3 py-1 text-xs font-black text-bidv-deep shadow-sm">{card.organization}</div>
         <div className="absolute -right-14 -top-14 h-36 w-36 rounded-full bg-bidv-teal/20 blur-2xl transition duration-500 group-hover:scale-125" />
-        <img
-          src={`.${card.image}`}
-          alt={card.name}
-          className="relative mx-auto aspect-[1.58] h-44 w-full object-contain drop-shadow-2xl transition duration-500 group-hover:-translate-y-2 group-hover:scale-[1.03]"
-          onError={(event) => {
-            event.currentTarget.src = `.${card.fallbackImage}`;
-          }}
-        />
+        <div className="relative mx-auto grid h-64 w-40 place-items-center rounded-[1.65rem] border border-white/70 bg-white/45 shadow-2xl shadow-bidv-deep/10 backdrop-blur-xl">
+          <div className="absolute inset-x-5 bottom-4 h-10 rounded-full bg-bidv-deep/20 blur-2xl" />
+          <img
+            src={`.${cardImage}`}
+            alt={card.name}
+            className="portrait-card-img relative transition duration-500"
+            onError={(event) => {
+              event.currentTarget.src = `.${card.image}`;
+            }}
+          />
+        </div>
       </button>
       <div className="grid gap-4 p-5">
         <div className="flex flex-wrap gap-2">
