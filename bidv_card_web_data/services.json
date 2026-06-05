@@ -1,0 +1,274 @@
+[
+  {
+    "service_id": "INSTALLMENT_TRA_GOP_LINH_HOAT",
+    "group": "installment",
+    "title": "Trả góp linh hoạt",
+    "inh_nghia": "Là dịch vụ trả góp dành cho Chủ thẻ tín dụng BIDV đăng ký trực tiếp với BIDV.",
+    "oi_tuong_va_hinh_thuc_ang_ky_dich_vu": "Chủ thẻ tín dụng BIDV chủ động lựa chọn và đăng ký trả góp trực tiếp với BIDV thông qua một trong các kênh:\nKênh Online: Ứng dụng Smartbanking\nGọi hotline TTCSKH BIDV.",
+    "oi_tuong_tra_phi_dich_vu_tra_gop_cho_bidv": "Chủ thẻ BIDV",
+    "thoi_han_thu_phi_dich_vu": "BIDV ghi nợ tài khoản thẻ tín dụng của Chủ thẻ vào kỳ sao kê ngay sau khi giao dịch được chuyển đổi trả góp"
+  },
+  {
+    "service_id": "INSTALLMENT_TRA_GOP_TAI_OI_TAC_LIEN_KET",
+    "group": "installment",
+    "title": "Trả góp tại đối tác liên kết",
+    "inh_nghia": "Là dịch vụ trả góp dành cho Chủ thẻ tín dụng BIDV đăng ký chuyển đổi trả góp thông qua các đối tác cung cấp hàng hóa/dịch vụ hoặc Trung gian thanh toán (gọi tắt là Đối tác liên kết – ĐTLK)",
+    "oi_tuong_va_hinh_thuc_ang_ky_dich_vu": "ĐTLK: Ký kết Hợp đồng hợp tác dịch vụ trả góp với BIDV; Tiếp nhận yêu cầu đăng ký trả góp của Chủ thẻ BIDV và gửi thông tin cho BIDV để chuyển đổi trả góp.\nChủ thẻ BIDV: giao dịch mua hàng tại ĐTLK và đăng ký chuyển đổi trả góp tại ĐTLK.",
+    "oi_tuong_tra_phi_dich_vu_tra_gop_cho_bidv": "ĐTLK",
+    "thoi_han_thu_phi_dich_vu": "ĐTLK và BIDV đối soát, thu phí dịch vụ hàng tháng."
+  },
+  {
+    "service_id": "INSTALLMENT_TRA_GOP_TAI_VCNTT",
+    "group": "installment",
+    "title": "Trả góp tại ĐVCNTT",
+    "inh_nghia": "Là dịch vụ BIDV cung cấp cho các ĐVCNTT và ĐTLK của BIDV để chuyển đổi giao dịch của chủ thẻ tín dụng BIDV và các Ngân hàng khác tại ĐVCNTT và ĐTLK đó thành khoản trả góp.",
+    "oi_tuong_va_hinh_thuc_ang_ky_dich_vu": "ĐVCNTT/ĐTLK: \n- Ký kết Hợp đồng dịch vụ trả góp tại ĐVCNTT với BIDV; Tiếp nhận yêu cầu đăng ký trả góp của Chủ thẻ và gửi thông tin cho BIDV để chuyển đổi trả góp cho Chủ thẻ.",
+    "oi_tuong_tra_phi_dich_vu_tra_gop_cho_bidv": "ĐVCNTT/ ĐTLK",
+    "thoi_han_thu_phi_dich_vu": "ĐVCNTT/ĐTLK và BIDV đối soát, thu phí dịch vụ hàng tháng."
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_GHI_NO",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ ghi nợ",
+    "description": "Cho phép Khách hàng đăng ký phát hành thẻ ghi nợ BIDV (thẻ vật lý/phi vật lý) trên kênh Smartbanking. Thẻ phát hành qua kênh online sẽ tự động kích hoạt và cho phép chi tiêu giao dịch trực tuyến, rút tiền QR. Khách hàng khi nhận thẻ vật lý chủ động kích hoạt thẻ vật lý để chi tiêu giao dịch tại POS/ATM",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_TRA_TRUOC",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ trả trước",
+    "description": "Cho phép Khách hàng đăng ký phát hành thẻ trả trước định danh BIDV (thẻ vật lý/phi vật lý) trên kênh Smartbanking. Thẻ phát hành qua kênh online sẽ tự động kích hoạt và cho phép chi tiêu giao dịch trực tuyến. Khách hàng khi nhận thẻ vật lý chủ động kích hoạt thẻ vật lý để chi tiêu giao dịch tại POS/ATM",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_TIN_DUNG_QUOC_TE_LUONG_THONG_THUONG",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ tín dụng quốc tế (luồng thông thường)",
+    "description": "Cho phép Khách hàng chưa từng có thẻ tín dụng tại BIDV chủ động đăng ký phát hành thẻ tín dụng (vật lý/phi vật lý) trên kênh Smartbanking. BIDV (TTCSKH/CN phát hành thẻ) sẽ liên hệ KH để tư vấn, bổ sung hồ sơ (nếu có) và phát hành thẻ theo nhu cầu KH.",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_TIN_DUNG_QUOC_TE_LUONG_QUICK_CARD",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ tín dụng quốc tế (luồng Quick card)",
+    "description": "Các KH trong danh sách chào bán sẽ được BIDV mời phát hành thẻ tín dụng với hạn mức tín dụng dự kiến thông qua OTT/App-push trên Smartbanking. \nThông tin đăng ký phát hành thẻ của KH sẽ được chi nhánh chào bán xử lý phê duyệt và phát hành thẻ sau đó.\nKH sẽ nhận được thông tin cập nhật về tình trạng xử lý cấp tín dụng và phát hành thẻ \nChi nhánh triển khai quy trình sản phẩm theo các quy định hiện hành (hiện ban hành theo Công văn 2683/BIDV-SPBL ngày 23/02/2024 v/v Mở rộng nghiệp vụ nghiệp vụ triển khai hệ thống RLOS",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_TIN_DUNG_QUOC_TE_LUONG_AUTO_CARD",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ tín dụng quốc tế (luồng auto card)",
+    "description": "Các KH trong danh sách chào bán sẽ được BIDV mời phát hành thẻ tín dụng với hạn mức tín dụng dự kiến thông qua OTT/App-push trên Smartbanking. \nNgay khi đăng ký thành công, hệ thống tự động xử lý cấp tín dụng và phát hành thẻ ngay thẻ cho Khách hàng.\nThẻ phát hành qua kênh online sẽ tự động kích hoạt và cho phép chi tiêu giao dịch trực tuyến, rút tiền QR, giao dịch tokenization. Khách hàng khi nhận thẻ vật lý chủ động kích hoạt thẻ vật lý để chi tiêu giao dịch tại POS/ATM\nChi nhánh triển khai quy trình sản phẩm theo các quy định hiện hành (hiện ban hành theo Công văn 2683/BIDV-SPBL ngày 23/02/2024 v/v Mở rộng nghiệp vụ nghiệp vụ triển khai hệ thống RLOS",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_THE_TIN_DUNG_QUOC_TE_LUONG_KHACH_HANG_A_UOC_CAP_HMTD",
+    "group": "smartbanking",
+    "title": "Phát hành thẻ tín dụng quốc tế (luồng Khách hàng đã được cấp HMTD)",
+    "description": "Cho phép khách hàng đã có thẻ tín dụng tại BIDV được chủ động phát hành thêm thẻ tín dụng khác tại BIDV. Thẻ phát hành qua kênh online sẽ tự động kích hoạt và cho phép chi tiêu giao dịch trực tuyến, rút tiền QR, giao dịch tokenization. Khách hàng khi nhận thẻ vật lý chủ động kích hoạt thẻ vật lý để chi tiêu giao dịch tại POS/ATM",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_INH_DANH_THE",
+    "group": "smartbanking",
+    "title": "Định danh thẻ",
+    "description": "Cho phép Khách hàng sử dụng chức năng quét QR để quét mã QR được in trên mặt sau thẻ, thực hiện xác thực sinh trắc học để gửi yêu cầu định danh thẻ với CIF KH. Dữ liệu đăng ký của KH sẽ được ghi nhận tại Backend để Cán bộ Trụ sở chính tác nghiệp tập trung.\n- Đối tượng áp dụng: Khách hàng đã mở CIF, tài khoản và có Smartbanking tại BIDV\n- Luồng cung cấp sản phẩm thẻ đến KH: Thẻ vật lý vô danh được cá thể hóa và gửi tới các Chi nhánh. Tại các sự kiện, điểm bán thẻ, CN hướng dẫn KH mở CIF, tài khoản, đăng ký SMB và hướng dẫn KH định danh thẻ qua chức năng Quét QR trên app Smartbanking",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_PHAT_HANH_LAI_THE_GNQT_TDQT",
+    "group": "smartbanking",
+    "title": "Phát hành lại thẻ GNQT/TDQT",
+    "description": "Cho phép chủ thẻ chủ động đăng ký phát hành lại thẻ GNQT/ TDQT trên SmartBanking. Sau khi đăng ký, yêu cầu phát hành lại thẻ của khách hàng được xử lý tập trung tại TTT&VH, thẻ vật lý phát hành lại được trả về địa chỉ theo đăng ký của Khách hàng.",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_GIA_HAN_THE_GNQT_TDQT",
+    "group": "smartbanking",
+    "title": "Gia hạn thẻ GNQT/ TDQT",
+    "description": "SmartBanking thông báo đến khách hàng trong trường hợp thẻ GNQT/ TDQT sắp hết hạn. Chủ thẻ có thể lựa chọn đăng ký gia hạn trên SmartBanking và cập nhật địa chỉ nhận thẻ gia hạn.",
+    "category": "Chức năng phát hành thẻ"
+  },
+  {
+    "service_id": "SMB_KICH_HOAT_THE",
+    "group": "smartbanking",
+    "title": "Kích hoạt thẻ",
+    "description": "Cho phép khách hàng sử dụng phương thức xác thực sinh trắc học để kích hoạt thẻ lần đầu.",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_KHOA_MO_KHOA_THE",
+    "group": "smartbanking",
+    "title": "Khoá/mở khóa thẻ",
+    "description": "Cho phép khách hàng thực hiện Khóa/ Mở khóa thẻ theo nhu cầu",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_KHOA_MO_CAC_LOAI_GIAO_DICH_ECOM_GIAO_DICH_TAI_POS_ATM_GIAO_DICH_TOKENIZATION",
+    "group": "smartbanking",
+    "title": "Khoá/Mở các loại giao dịch: Ecom, giao dịch tại POS/ATM, giao dịch tokenization",
+    "description": "Cho phép khách hàng thực hiện khóa hoặc mở khóa tính năng giao dịch: Ecom, giao dịch tại POS/ATM, giao dịch tokenization theo nhu cầu",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_OI_TAI_KHOAN_LIEN_KET_THE_GNN_GNQT",
+    "group": "smartbanking",
+    "title": "Đổi tài khoản liên kết thẻ GNNĐ/GNQT",
+    "description": "Cho phép khách hàng thực hiện việc thay đổi các tài khoản liên kết tới thẻ ghi nợ gồm liên kết thêm/bỏ liên kết tài khoản tới thẻ hoặc chuyển đổi tài khoản chính/phụ. Số lượng tài khoản liên kết tối đa theo quy định từng thời kỳ.",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_AT_PIN_MOI",
+    "group": "smartbanking",
+    "title": "Đặt PIN mới",
+    "description": "Cho phép chủ thẻ Ghi nợ và tín dụng quốc tế chủ động đặt mã PIN mới cho thẻ. Trạng thái thẻ cho phép thực hiện chức năng: Trạng thái Hoạt động",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_TRUY_VAN_THONG_TIN_THE",
+    "group": "smartbanking",
+    "title": "Truy vấn thông tin thẻ",
+    "description": "Cho phép khách hàng truy vấn các thông tin chi tiết của thẻ. Chủ thẻ chính được truy vấn thông tin đối với cả thẻ chính và thẻ phụ được phát hành gắn với CIF của chủ thẻ chính. Chủ thẻ phụ được phép truy vấn thông tin của thẻ phụ gắn với CIF của chủ thẻ phụ",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_CHAM_DUT_SU_DUNG_THE_GNN",
+    "group": "smartbanking",
+    "title": "Chấm dứt sử dụng thẻ GNNĐ",
+    "description": "Cho phép chủ thẻ Ghi nợ nội địa thực hiện chấm dứt sử dụng thẻ theo nhu cầu.",
+    "category": "Chức năng quản lý sử dụng thẻ"
+  },
+  {
+    "service_id": "SMB_LICH_SU_GIAO_DICH_GNQT_TDQT",
+    "group": "smartbanking",
+    "title": "Lịch sử giao dịch (GNQT + TDQT)",
+    "description": "Cho phép Khách hàng tra cứu lịch sử giao dịch qua thẻ trên Smartbanking trong khoảng thời gian tra cứu theo nhu cầu",
+    "category": "Sao kê, thu nợ, dư nợ"
+  },
+  {
+    "service_id": "SMB_SAO_KE_TDQT",
+    "group": "smartbanking",
+    "title": "Sao kê TDQT",
+    "description": "Cho phép Khách hàng tra cứu thông tin sao kê của từng thẻ tín dụng theo kỳ sao kê Khách hàng lựa chọn. Kết quả tra cứu tính năng gồm: Thông tin sao kê (số tiền chi tiêu trong kỳ, phí/lãi trong kỳ, số tiền thanh toán tối thiểu trong kỳ, ngày đến hạn thanh toán, ....) và Chi tiết giao dịch trong kỳ sao kê.",
+    "category": "Sao kê, thu nợ, dư nợ"
+  },
+  {
+    "service_id": "SMB_THANH_TOAN_DU_NO_THE_TIN_DUNG_CHO_CHINH_MINH",
+    "group": "smartbanking",
+    "title": "Thanh toán dư nợ thẻ tín dụng cho chính mình",
+    "description": "Cho phép Khách hàng lựa chọn thẻ tín dụng tại BIDV để thực hiện thanh toán dư nợ thẻ theo nhu cầu.",
+    "category": "Sao kê, thu nợ, dư nợ"
+  },
+  {
+    "service_id": "SMB_THANH_TOAN_DU_NO_THE_TIN_DUNG_CHO_NGUOI_KHAC",
+    "group": "smartbanking",
+    "title": "Thanh toán dư nợ thẻ tín dụng cho người khác",
+    "description": "Cho phép Khách hàng thực hiện thanh toán dư nợ thẻ tín dụng cho chủ thẻ tín dụng khác tại BIDV. Khách hàng nhập số tài khoản thẻ cần thanh toán dư nợ để thực hiện giao dịch.",
+    "category": "Sao kê, thu nợ, dư nợ"
+  },
+  {
+    "service_id": "SMB_ANG_KY_TRA_GOP",
+    "group": "smartbanking",
+    "title": "Đăng ký trả góp",
+    "description": "Tính năng cho phép khách hàng chuyển đổi giao dịch thanh toán mua hàng hợp lệ từ thẻ tín dụng BIDV sang hình thức trả góp thành nhiều kỳ hạn linh hoạt.",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_DICH_VU_THANH_TOAN_APPLEPAY",
+    "group": "smartbanking",
+    "title": "Dịch vụ thanh toán Applepay",
+    "description": "Apple Pay là một dịch vụ thanh toán di động và ví điện tử được phát triển bởi Apple, cho phép khách hàng sử dụng các thiết bị của Apple như iPhone, iPad, Apple Watch và MacBook để thanh toán một cách nhanh chóng, an toàn và tiện lợi.\nCác tính năng dịch vụ Apple Pay đối với thẻ BIDV trên app Smartbanking:\n1. Liên kết thẻ (thêm thẻ) vào Ví Apple Pay: Liên kết ví Apple Pay từ ứng dụng BIDV Smart Banking (Push Provisioning)\n2. Quản lý thẻ trên ứng dụng SmartBanking gồm: quản lý liên kết thẻ trên ví Apple pay; theo dõi lịch sử giao dịch thanh toán bằng Apple Pay\nHướng dẫn triển khai dịch vụ Apple pay theo công văn hướng dẫn dịch vụ từng thời kỳ (hiện ban hành theo Công văn số 15674/BIDV-TTT&VH Triển khai chính thức dịch vụ Apple Pay tại BIDV)",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_XAC_THUC_GIAO_DICH_THE_QUA_3DS",
+    "group": "smartbanking",
+    "title": "Xác thực giao dịch thẻ qua 3Ds",
+    "description": "Tính năng Cho phép Chủ thẻ xác thực giao dịch thẻ online 3Ds thông qua phương thức xác thực sinh trắc học (FaceID, TouchID của hệ điều hành) trên Smartbanking. Theo đó, Chủ thẻ đã cài đặt xác thực khuôn mặt (FaceID)/vân tay (Touch ID), bật xác thực giao dịch trên ứng dụng BIDV Smartbanking đang hoạt động, bật thông báo cho ứng dụng BIDV Smartbanking đang hoạt động trên thiết bị di động của Chủ thẻ, khi giao dịch trực tuyến 3Ds bằng thẻ quốc tế sẽ được phép chọn phương thức xác thực bằng Sinh trắc học.\nHướng dẫn triển khai dịch vụ xác thực giao dịch trực tuyến 3Ds theo công văn hướng dẫn dịch vụ từng thời kỳ (hiện ban hành theo Công văn số 14726/BIDV-TTT&VH ngày 8/9/2023)",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_RUT_TIEN_QR_TREN_ATM_CRM",
+    "group": "smartbanking",
+    "title": "Rút tiền QR trên ATM/CRM",
+    "description": "Cho phép chủ thẻ BIDV scan QR và thực hiện rút tiền trên ATM/CRM của BIDV, ATM/CRM Ngân hàng khác.",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_NOP_TIEN_QR_TREN_ATM_CRM",
+    "group": "smartbanking",
+    "title": "Nộp tiền QR trên ATM/CRM",
+    "description": "Cho phép KH scan QR và thực hiện nộp tiền trên các máy CRM của BIDV",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_THANH_TOAN_QR_NGUON_THE_TDQT",
+    "group": "smartbanking",
+    "title": "Thanh toán QR nguồn thẻ TDQT",
+    "description": "Cho phép khách hàng sử dụng thẻ tín dụng quốc tế là nguồn thanh toán khi quét mã QR do VNPAY phát triển, trong đó:\n1. Loại thẻ áp dụng: toàn bộ thẻ tín dụng quốc tế của BIDV (Visa, Mastercard, JCB);\n2. Trạng thái thẻ để thực hiện giao dịch: trạng thái hoạt động;\n3. Loại QR hỗ trợ: toàn bộ QR trong hệ sinh thái do VNPAY phát triển (gọi tắt là QR VNPAY).",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_LIEN_KET_THANH_TOAN_VIEN_PHI_TU_THE_GNN_GNQT_THE_Y_TE_PHI_VAT_LY",
+    "group": "smartbanking",
+    "title": "Liên kết thanh toán viện phí từ thẻ GNNĐ/GNQT (thẻ y tế phi vật lý)",
+    "description": "Chức năng cho phép Khách hàng sử dụng thẻ GNNĐ/GNQT BIDV tạo QR trên SMB và liên kết với mã bệnh nhân tại các Bệnh viện để thanh toán viện phí tại các bệnh viện.\nCác chức năng chính:\n1. Tạo mã QR chứa thông tin thẻ: Khách hàng có thể tạo mã QR trên SmartBanking chứa thông tin thẻ đã mã hóa để xuất trình cho bệnh viện khi liên kết với mã bệnh nhân.\n2.Quản lý liên kết thẻ với mã bệnh nhân: Khách hàng có thể xem danh sách bệnh viện, mã bệnh nhân đã liên kết với thẻ và hủy liên kết khi cần thiết\nChức năng áp dụng cho các bệnh viện có kết nối triển khai giải pháp thanh toán viện phí không dùng tiền mặt của BIDV và chấp nhận thanh toán bằng thẻ y tế phi vật lý, danh sách Bệnh viện kết nối được BIDV cập nhật theo từng thời kỳ",
+    "category": "Giao dịch thẻ"
+  },
+  {
+    "service_id": "SMB_AC_QUYEN_CHO_KHCC",
+    "group": "smartbanking",
+    "title": "Đặc quyền cho KHCC",
+    "description": "Chức năng cho phép Khách hàng cao cấp BIDV sở hữu thẻ Khách hàng cao cấp theo quy định BIDV được đặt và theo dõi tình trạng sử dụng đặc quyền KHCC của cá nhân. Chức năng chính:\n1. Truy vấn thông tin đặc quyền KHCC theo phân khúc hiện hữu \n2. Đặt đặc quyền trên Smartbanking\nTheo dõi lịch sử đặt và sử dụng đặc quyền\nThông tin về chính sách và thể lệ chương trình đặc quyền KHCC được BIDV cập nhật theo từng thời kỳ",
+    "category": "Ưu đãi gia tăng"
+  },
+  {
+    "service_id": "SMB_TICH_LUY_IEM_THUONG_VA_OI_QUA",
+    "group": "smartbanking",
+    "title": "Tích lũy điểm thưởng và đổi quà",
+    "description": "Chủ thẻ BIDV được tự động tạo tài khoản Membership Reward và tích lũy điểm B-point khi phát sinh giao dịch thẻ hợp lệ. \nChức năng chính của Membership Rewards:\n1. Truy vấn lịch sử giao dịch tích điểm, đổi điểm: Khách hàng có thể xem lại lịch sử tích điểm, đổi điểm của mình.\n2. Thực hiện đổi điểm thành tiền cashback/quà /dặm thưởng theo quy định\n3. Gửi yêu cầu tra soát: Khách hàng có thể gửi yêu cầu tra soát đối với các giao dịch đã thực hiện. Thông tin chi tiết về chính sách và thể lệ của chương trình Membership Rewards được BIDV cập nhật theo từng thời kỳ",
+    "category": "Ưu đãi gia tăng"
+  },
+  {
+    "service_id": "CARD_NUMBER_1",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Phú quý như ý",
+    "description": "Tối thiểu 2 chữ số cuối giống nhau"
+  },
+  {
+    "service_id": "CARD_NUMBER_2",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Lộc phát như ý",
+    "description": "Tối thiểu 2 chữ số cuối gồm số 6 và/hoặc 8 cạnh nhau (2 chữ số 66, 86, 368; 3 chữ số 668, 686, 3686…)"
+  },
+  {
+    "service_id": "CARD_NUMBER_3",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Thần tài như ý",
+    "description": "Tối thiểu 2 chữ số cuối gồm các cặp số 79 - thần tài lớn và/hoặc 39 - thần tài nhỏ (79, 7939, 397939…)"
+  },
+  {
+    "service_id": "CARD_NUMBER_4",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Thăng tiến như ý",
+    "description": "Tối thiểu 3 chữ số cuối là những chữ số tăng dần đều liên tiếp (1234, 4567,…) hoặc 6 chữ số là các bộ 2 chữ số trong đó giữ 1 chữ số hàng chục hoặc hàng đơn vị, số còn lại tăng dần đều liên tiếp (121314, 242628, 314151, 325272,…)"
+  },
+  {
+    "service_id": "CARD_NUMBER_5",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Lộc Kép như ý",
+    "description": "Tối thiểu 4 chữ số cuối là các bộ 2 chữ số giống nhau hoặc có 6 chữ số cuối là 2 bộ 3 chữ số giống nhau (224477, 333666, 2244…)"
+  },
+  {
+    "service_id": "CARD_NUMBER_6",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Soi gương như ý",
+    "description": "Tối thiểu 4 số cuối có bộ số đảo chiều liền nhau (123321, 6556,..) hoặc cách 1 chữ số ở giữa (22122, 8883888)"
+  },
+  {
+    "service_id": "CARD_NUMBER_7",
+    "group": "pretty_card_number",
+    "title": "Tài khoản Sánh đôi như ý",
+    "description": "Tối thiểu 4 chữ số cuối là các bộ từ 2 chữ số lặp lại tối thiểu 1 lần (1212, 123123, 155155,…)"
+  }
+]

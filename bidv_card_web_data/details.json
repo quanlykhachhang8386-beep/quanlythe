@@ -1,0 +1,406 @@
+[
+  {
+    "card_id": "BIDV_VISA_INFINITE",
+    "group": "feature",
+    "title": "Trải nghiệm Đặc quyền Thượng lưu",
+    "content": "- Lựa chọn linh hoạt 1 trong 2 gói: Gói Lifestyle (Phong cách sống) hoặc Gói Golfer. - Tặng đến 10 lượt chơi Golf miễn phí tại các sân hàng đầu Việt Nam. - Đặc quyền phòng chờ sân bay hạng thương gia quốc tế và quốc nội không giới hạn. - Tặng gói khám sức khỏe cao cấp, set menu ẩm thực Michelin và đêm nghỉ dưỡng Resort.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Đặc quyền cung cấp tùy thuộc vào hạn mức phí thường niên KH chọn.",
+    "content_items": [
+      "Lựa chọn linh hoạt 1 trong 2 gói: Gói Lifestyle (Phong cách sống) hoặc Gói Golfer.",
+      "Tặng đến 10 lượt chơi Golf miễn phí tại các sân hàng đầu Việt Nam.",
+      "Đặc quyền phòng chờ sân bay hạng thương gia quốc tế và quốc nội không giới hạn.",
+      "Tặng gói khám sức khỏe cao cấp, set menu ẩm thực Michelin và đêm nghỉ dưỡng Resort."
+    ],
+    "content_html": "- Lựa chọn linh hoạt 1 trong 2 gói: Gói Lifestyle (Phong cách sống) hoặc Gói Golfer.<br>- Tặng đến 10 lượt chơi Golf miễn phí tại các sân hàng đầu Việt Nam.<br>- Đặc quyền phòng chờ sân bay hạng thương gia quốc tế và quốc nội không giới hạn.<br>- Tặng gói khám sức khỏe cao cấp, set menu ẩm thực Michelin và đêm nghỉ dưỡng Resort."
+  },
+  {
+    "card_id": "BIDV_VISA_INFINITE",
+    "group": "policy",
+    "title": "Chính sách Loyalty & Tích điểm Dặm bay",
+    "content": "- Điểm thưởng BPoint tích lũy vào khay \"Điểm đổi dặm\". Tỷ lệ quy đổi: 200 điểm = 1 dặm thưởng Vietnam Airlines. - Lĩnh vực đặc quyền (Spa, Golf, Resort, Miễn thuế nước ngoài): Tích 60 điểm cho mỗi 1.000 VND chi tiêu (Tối đa 4.000.000 điểm/tháng). - Chi tiêu khác: Tích 1 điểm cho mỗi 1.000 VND chi tiêu (Tích lũy không giới hạn).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Điểm BPoint tra cứu và đổi trực tiếp trên SmartBanking.",
+    "content_items": [
+      "Điểm thưởng BPoint tích lũy vào khay \"Điểm đổi dặm\". Tỷ lệ quy đổi: 200 điểm = 1 dặm thưởng Vietnam Airlines.",
+      "Lĩnh vực đặc quyền (Spa, Golf, Resort, Miễn thuế nước ngoài): Tích 60 điểm cho mỗi 1.000 VND chi tiêu (Tối đa 4.000.000 điểm/tháng).",
+      "Chi tiêu khác: Tích 1 điểm cho mỗi 1.000 VND chi tiêu (Tích lũy không giới hạn)."
+    ],
+    "content_html": "- Điểm thưởng BPoint tích lũy vào khay \"Điểm đổi dặm\". Tỷ lệ quy đổi: 200 điểm = 1 dặm thưởng Vietnam Airlines.<br>- Lĩnh vực đặc quyền (Spa, Golf, Resort, Miễn thuế nước ngoài): Tích 60 điểm cho mỗi 1.000 VND chi tiêu (Tối đa 4.000.000 điểm/tháng).<br>- Chi tiêu khác: Tích 1 điểm cho mỗi 1.000 VND chi tiêu (Tích lũy không giới hạn)."
+  },
+  {
+    "card_id": "BIDV_VISA_INFINITE",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: Tùy chọn đóng 30.000.000 VND, 15.000.000 VND hoặc 5.000.000 VND/năm. - Phí thường niên thẻ phụ: 600.000 VND (Không kèm đặc quyền). - Lãi suất cực thấp: Chỉ 18%/năm. - Phí phạt chậm thanh toán: Miễn phí hoàn toàn. - Phí chuyển đổi ngoại tệ: 1%. Phí xử lý GD nước ngoài: 1,36%.",
+    "display_type": "list",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Lãi suất và cơ chế phạt ưu đãi nhất hệ thống.",
+    "content_items": [
+      "Phí thường niên thẻ chính: Tùy chọn đóng 30.000.000 VND, 15.000.000 VND hoặc 5.000.000 VND/năm.",
+      "Phí thường niên thẻ phụ: 600.000 VND (Không kèm đặc quyền).",
+      "Lãi suất cực thấp: Chỉ 18%/năm.",
+      "Phí phạt chậm thanh toán: Miễn phí hoàn toàn.",
+      "Phí chuyển đổi ngoại tệ: 1%. Phí xử lý GD nước ngoài: 1,36%."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: Tùy chọn đóng 30.000.000 VND, 15.000.000 VND hoặc 5.000.000 VND/năm.<br>- Phí thường niên thẻ phụ: 600.000 VND (Không kèm đặc quyền).<br>- Lãi suất cực thấp: Chỉ 18%/năm.<br>- Phí phạt chậm thanh toán: Miễn phí hoàn toàn.<br>- Phí chuyển đổi ngoại tệ: 1%. Phí xử lý GD nước ngoài: 1,36%."
+  },
+  {
+    "card_id": "BIDV_VISA_INFINITE",
+    "group": "condition",
+    "title": "Điều kiện Phát hành & Hạn mức",
+    "content": "- Cá nhân đủ 18 tuổi, năng lực hành vi dân sự đầy đủ. - Nằm trong tệp khách hàng Private hoặc Premier Elite theo quy định của BIDV. - Hạn mức thanh toán: Tối đa 19,99 tỷ VND/ngày. - Hạn mức rút tiền mặt: Tối đa 50% hạn mức tín dụng được cấp.",
+    "display_type": "list",
+    "order": 4,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Cá nhân đủ 18 tuổi, năng lực hành vi dân sự đầy đủ.",
+      "Nằm trong tệp khách hàng Private hoặc Premier Elite theo quy định của BIDV.",
+      "Hạn mức thanh toán: Tối đa 19,99 tỷ VND/ngày.",
+      "Hạn mức rút tiền mặt: Tối đa 50% hạn mức tín dụng được cấp."
+    ],
+    "content_html": "- Cá nhân đủ 18 tuổi, năng lực hành vi dân sự đầy đủ.<br>- Nằm trong tệp khách hàng Private hoặc Premier Elite theo quy định của BIDV.<br>- Hạn mức thanh toán: Tối đa 19,99 tỷ VND/ngày.<br>- Hạn mức rút tiền mặt: Tối đa 50% hạn mức tín dụng được cấp."
+  },
+  {
+    "card_id": "BIDV_JCB_ULTIMATE",
+    "group": "feature",
+    "title": "Đặc quyền JCB Premium Service",
+    "content": "- Tận hưởng dịch vụ đón tiễn ưu tiên Meet & Greet tại 5 sân bay quốc tế Việt Nam. - Miễn phí sử dụng phòng chờ sân bay quốc nội và quốc tế. - Ưu đãi giảm giá 1.000.000 VNĐ/lượt chơi tại 60 sân Golf Việt Nam & Nhật Bản. - Giảm trực tiếp 1.000.000 VNĐ tại chuỗi nhà hàng Nhật và Michelin. - Tặng 01 đêm nghỉ dưỡng khi đặt 2 đêm tại 40 Resort cao cấp.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Đặt dịch vụ trực tiếp thông qua Zalo Mini-app của JCB.",
+    "content_items": [
+      "Tận hưởng dịch vụ đón tiễn ưu tiên Meet & Greet tại 5 sân bay quốc tế Việt Nam.",
+      "Miễn phí sử dụng phòng chờ sân bay quốc nội và quốc tế.",
+      "Ưu đãi giảm giá 1.000.000 VNĐ/lượt chơi tại 60 sân Golf Việt Nam & Nhật Bản.",
+      "Giảm trực tiếp 1.000.000 VNĐ tại chuỗi nhà hàng Nhật và Michelin.",
+      "Tặng 01 đêm nghỉ dưỡng khi đặt 2 đêm tại 40 Resort cao cấp."
+    ],
+    "content_html": "- Tận hưởng dịch vụ đón tiễn ưu tiên Meet & Greet tại 5 sân bay quốc tế Việt Nam.<br>- Miễn phí sử dụng phòng chờ sân bay quốc nội và quốc tế.<br>- Ưu đãi giảm giá 1.000.000 VNĐ/lượt chơi tại 60 sân Golf Việt Nam & Nhật Bản.<br>- Giảm trực tiếp 1.000.000 VNĐ tại chuỗi nhà hàng Nhật và Michelin.<br>- Tặng 01 đêm nghỉ dưỡng khi đặt 2 đêm tại 40 Resort cao cấp."
+  },
+  {
+    "card_id": "BIDV_JCB_ULTIMATE",
+    "group": "policy",
+    "title": "Chính sách Hoàn tiền Đỉnh cao",
+    "content": "- Tích lũy vào khay \"Điểm hoàn tiền\" với giá trị 1 điểm = 1 VND. - Hoàn 20% (Tích 200 điểm/1.000 VND) chi tiêu ẩm thực tại Việt Nam trong tháng sinh nhật. - Hoàn 15% (Tích 150 điểm/1.000 VND) chi tiêu ẩm thực qua POS tại Nhật Bản. - Hoàn 10% (Tích 100 điểm/1.000 VND) chi tiêu ẩm thực nội địa các tháng khác. - Mức hoàn tiền tối đa: 800.000 VND/tháng.",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Tích lũy vào khay \"Điểm hoàn tiền\" với giá trị 1 điểm = 1 VND.",
+      "Hoàn 20% (Tích 200 điểm/1.000 VND) chi tiêu ẩm thực tại Việt Nam trong tháng sinh nhật.",
+      "Hoàn 15% (Tích 150 điểm/1.000 VND) chi tiêu ẩm thực qua POS tại Nhật Bản.",
+      "Hoàn 10% (Tích 100 điểm/1.000 VND) chi tiêu ẩm thực nội địa các tháng khác.",
+      "Mức hoàn tiền tối đa: 800.000 VND/tháng."
+    ],
+    "content_html": "- Tích lũy vào khay \"Điểm hoàn tiền\" với giá trị 1 điểm = 1 VND.<br>- Hoàn 20% (Tích 200 điểm/1.000 VND) chi tiêu ẩm thực tại Việt Nam trong tháng sinh nhật.<br>- Hoàn 15% (Tích 150 điểm/1.000 VND) chi tiêu ẩm thực qua POS tại Nhật Bản.<br>- Hoàn 10% (Tích 100 điểm/1.000 VND) chi tiêu ẩm thực nội địa các tháng khác.<br>- Mức hoàn tiền tối đa: 800.000 VND/tháng."
+  },
+  {
+    "card_id": "BIDV_JCB_ULTIMATE",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: 1.500.000 VND (Miễn phí năm đầu tiên). - Phí thường niên thẻ phụ: 600.000 VND. - Lãi suất: 20%/năm. - Phí phạt chậm thanh toán: 6% (Tối thiểu 100.000 VND). - Đặc biệt: Hoàn trả 100% phí giao dịch ngoại tệ khi chi tiêu tại Nhật Bản.",
+    "display_type": "list",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Điều kiện miễn PTN năm sau: Chi tiêu từ 150 triệu VND (KH thường) hoặc 10 triệu VND (KH VIP).",
+    "content_items": [
+      "Phí thường niên thẻ chính: 1.500.000 VND (Miễn phí năm đầu tiên).",
+      "Phí thường niên thẻ phụ: 600.000 VND.",
+      "Lãi suất: 20%/năm.",
+      "Phí phạt chậm thanh toán: 6% (Tối thiểu 100.000 VND).",
+      "Đặc biệt: Hoàn trả 100% phí giao dịch ngoại tệ khi chi tiêu tại Nhật Bản."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: 1.500.000 VND (Miễn phí năm đầu tiên).<br>- Phí thường niên thẻ phụ: 600.000 VND.<br>- Lãi suất: 20%/năm.<br>- Phí phạt chậm thanh toán: 6% (Tối thiểu 100.000 VND).<br>- Đặc biệt: Hoàn trả 100% phí giao dịch ngoại tệ khi chi tiêu tại Nhật Bản."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_ONLINE",
+    "group": "feature",
+    "title": "Mua sắm Trực tuyến Toàn diện",
+    "content": "- Hoàn tiền tỷ lệ cao dành riêng cho các giao dịch Online e-commerce. - Bảo vệ toàn diện với gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng. - Công nghệ thẻ Chip Contactless chuẩn EMV thanh toán chạm an toàn tuyệt đối.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Hoàn tiền tỷ lệ cao dành riêng cho các giao dịch Online e-commerce.",
+      "Bảo vệ toàn diện với gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng.",
+      "Công nghệ thẻ Chip Contactless chuẩn EMV thanh toán chạm an toàn tuyệt đối."
+    ],
+    "content_html": "- Hoàn tiền tỷ lệ cao dành riêng cho các giao dịch Online e-commerce.<br>- Bảo vệ toàn diện với gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng.<br>- Công nghệ thẻ Chip Contactless chuẩn EMV thanh toán chạm an toàn tuyệt đối."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_ONLINE",
+    "group": "policy",
+    "title": "Chính sách Hoàn tiền Trực tuyến",
+    "content": "- Hoàn 6% (Tích 60 điểm/1.000 VND) khi thanh toán Online tại Tiki, Shopee, Lazada, TikTok Shop. - Hoàn 3% (Tích 30 điểm/1.000 VND) đối với các giao dịch thanh toán Online khác. - Hạn mức hoàn tối đa: 800.000 VND/tháng (KH trả lương qua BIDV) và 600.000 VND/tháng (KH thông thường).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Không áp dụng hoàn tiền cho nạp ví điện tử, thanh toán điện nước.",
+    "content_items": [
+      "Hoàn 6% (Tích 60 điểm/1.000 VND) khi thanh toán Online tại Tiki, Shopee, Lazada, TikTok Shop.",
+      "Hoàn 3% (Tích 30 điểm/1.000 VND) đối với các giao dịch thanh toán Online khác.",
+      "Hạn mức hoàn tối đa: 800.000 VND/tháng (KH trả lương qua BIDV) và 600.000 VND/tháng (KH thông thường)."
+    ],
+    "content_html": "- Hoàn 6% (Tích 60 điểm/1.000 VND) khi thanh toán Online tại Tiki, Shopee, Lazada, TikTok Shop.<br>- Hoàn 3% (Tích 30 điểm/1.000 VND) đối với các giao dịch thanh toán Online khác.<br>- Hạn mức hoàn tối đa: 800.000 VND/tháng (KH trả lương qua BIDV) và 600.000 VND/tháng (KH thông thường)."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_ONLINE",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu tiên). - Phí thường niên thẻ phụ: 600.000 VND. - Lãi suất: 20%/năm. - Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%. - Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND).",
+    "display_type": "list",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Miễn phí thường niên năm tiếp theo nếu đạt doanh số từ 10 - 50 triệu/năm.",
+    "content_items": [
+      "Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu tiên).",
+      "Phí thường niên thẻ phụ: 600.000 VND.",
+      "Lãi suất: 20%/năm.",
+      "Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%.",
+      "Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND)."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu tiên).<br>- Phí thường niên thẻ phụ: 600.000 VND.<br>- Lãi suất: 20%/năm.<br>- Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%.<br>- Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND)."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_360",
+    "group": "feature",
+    "title": "Giải pháp Chi tiêu Gia đình",
+    "content": "- Hoàn tiền vượt trội tại các lĩnh vực chi tiêu thiết yếu: Siêu thị, Y tế, Giáo dục. - Tặng gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng. - Trả góp linh hoạt 0% trực tiếp trên ứng dụng BIDV SmartBanking.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Hoàn tiền vượt trội tại các lĩnh vực chi tiêu thiết yếu: Siêu thị, Y tế, Giáo dục.",
+      "Tặng gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng.",
+      "Trả góp linh hoạt 0% trực tiếp trên ứng dụng BIDV SmartBanking."
+    ],
+    "content_html": "- Hoàn tiền vượt trội tại các lĩnh vực chi tiêu thiết yếu: Siêu thị, Y tế, Giáo dục.<br>- Tặng gói Bảo hiểm du lịch toàn cầu trị giá 11.65 tỷ đồng.<br>- Trả góp linh hoạt 0% trực tiếp trên ứng dụng BIDV SmartBanking."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_360",
+    "group": "policy",
+    "title": "Cơ chế Hoàn tiền BPoint",
+    "content": "- Hoàn 10% (100 điểm/1.000 VND) tại lĩnh vực Siêu thị nếu tổng chi tiêu trong tháng > 10 triệu VND (Giới hạn siêu thị: 300.000 VND/tháng). - Hoàn 2% (20 điểm/1.000 VND) tại siêu thị nếu tổng chi tiêu < 10 triệu VND. - Hoàn 2% (20 điểm/1.000 VND) mọi chi tiêu tại lĩnh vực Y tế, Sức khỏe và Giáo dục. - Tổng hoàn tiền tối đa: 800.000 VND/tháng (KH trả lương) hoặc 600.000 VND/tháng (KH thường).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Cơ chế kích hoạt hoàn tiền cao dựa trên tổng doanh số.",
+    "content_items": [
+      "Hoàn 10% (100 điểm/1.000 VND) tại lĩnh vực Siêu thị nếu tổng chi tiêu trong tháng > 10 triệu VND (Giới hạn siêu thị: 300.000 VND/tháng).",
+      "Hoàn 2% (20 điểm/1.000 VND) tại siêu thị nếu tổng chi tiêu < 10 triệu VND.",
+      "Hoàn 2% (20 điểm/1.000 VND) mọi chi tiêu tại lĩnh vực Y tế, Sức khỏe và Giáo dục.",
+      "Tổng hoàn tiền tối đa: 800.000 VND/tháng (KH trả lương) hoặc 600.000 VND/tháng (KH thường)."
+    ],
+    "content_html": "- Hoàn 10% (100 điểm/1.000 VND) tại lĩnh vực Siêu thị nếu tổng chi tiêu trong tháng > 10 triệu VND (Giới hạn siêu thị: 300.000 VND/tháng).<br>- Hoàn 2% (20 điểm/1.000 VND) tại siêu thị nếu tổng chi tiêu < 10 triệu VND.<br>- Hoàn 2% (20 điểm/1.000 VND) mọi chi tiêu tại lĩnh vực Y tế, Sức khỏe và Giáo dục.<br>- Tổng hoàn tiền tối đa: 800.000 VND/tháng (KH trả lương) hoặc 600.000 VND/tháng (KH thường)."
+  },
+  {
+    "card_id": "BIDV_VISA_CASHBACK_360",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu). - Phí thường niên thẻ phụ: 600.000 VND. - Lãi suất: 20%/năm. - Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%.",
+    "display_type": "list",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Miễn phí thường niên năm tiếp theo khi chi tiêu từ 150 triệu VND/năm.",
+    "content_items": [
+      "Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu).",
+      "Phí thường niên thẻ phụ: 600.000 VND.",
+      "Lãi suất: 20%/năm.",
+      "Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: 1.000.000 VND (Miễn phí năm đầu).<br>- Phí thường niên thẻ phụ: 600.000 VND.<br>- Lãi suất: 20%/năm.<br>- Phí chuyển đổi ngoại tệ: 1%. Phí xử lý giao dịch nước ngoài: 1,5%."
+  },
+  {
+    "card_id": "BIDV_JCB_WELL_BEING",
+    "group": "feature",
+    "title": "Đặc quyền Chăm sóc Sức khỏe",
+    "content": "- Dòng thẻ tiên phong trên thị trường tập trung vào nhóm Health & Wellness. - Giảm trực tiếp 500.000 VND tại các bệnh viện lớn (Vinmec, Hồng Ngọc, Thu Cúc). - Ưu đãi sâu tại California Fitness & Yoga, ShopeeFood, chuỗi nhà hàng Chay và thời trang Uniqlo. - Tận hưởng quyền lợi từ tổ chức thẻ: Phòng chờ sân bay thương gia và giảm phí sân Golf.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Đặc quyền sân bay/golf cung cấp bởi JCB Platinum.",
+    "content_items": [
+      "Dòng thẻ tiên phong trên thị trường tập trung vào nhóm Health & Wellness.",
+      "Giảm trực tiếp 500.000 VND tại các bệnh viện lớn (Vinmec, Hồng Ngọc, Thu Cúc).",
+      "Ưu đãi sâu tại California Fitness & Yoga, ShopeeFood, chuỗi nhà hàng Chay và thời trang Uniqlo.",
+      "Tận hưởng quyền lợi từ tổ chức thẻ: Phòng chờ sân bay thương gia và giảm phí sân Golf."
+    ],
+    "content_html": "- Dòng thẻ tiên phong trên thị trường tập trung vào nhóm Health & Wellness.<br>- Giảm trực tiếp 500.000 VND tại các bệnh viện lớn (Vinmec, Hồng Ngọc, Thu Cúc).<br>- Ưu đãi sâu tại California Fitness & Yoga, ShopeeFood, chuỗi nhà hàng Chay và thời trang Uniqlo.<br>- Tận hưởng quyền lợi từ tổ chức thẻ: Phòng chờ sân bay thương gia và giảm phí sân Golf."
+  },
+  {
+    "card_id": "BIDV_JCB_WELL_BEING",
+    "group": "policy",
+    "title": "Hoàn tiền Y tế & Bảo hiểm",
+    "content": "- Doanh số > 20 triệu/tháng: Hoàn 10% Y tế, 6% Bảo hiểm & Thời trang (Tối đa 500.000 VND/tháng). - Doanh số < 20 triệu/tháng: Hoàn 5% Y tế, 3% Bảo hiểm & Thời trang (Tối đa 200.000 VND/tháng).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Doanh số > 20 triệu/tháng: Hoàn 10% Y tế, 6% Bảo hiểm & Thời trang (Tối đa 500.000 VND/tháng).",
+      "Doanh số < 20 triệu/tháng: Hoàn 5% Y tế, 3% Bảo hiểm & Thời trang (Tối đa 200.000 VND/tháng)."
+    ],
+    "content_html": "- Doanh số > 20 triệu/tháng: Hoàn 10% Y tế, 6% Bảo hiểm & Thời trang (Tối đa 500.000 VND/tháng).<br>- Doanh số < 20 triệu/tháng: Hoàn 5% Y tế, 3% Bảo hiểm & Thời trang (Tối đa 200.000 VND/tháng)."
+  },
+  {
+    "card_id": "BIDV_JCB_WELL_BEING",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: 799.000 VND. - Phí thường niên thẻ phụ: 799.000 VND (Combo thẻ chính + phụ: Thẻ phụ giảm còn 500.000 VND). - Lãi suất: 20%/năm. - Phí phạt chậm trả: 4% (Tối thiểu 100.000 VND).",
+    "display_type": "list",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Miễn PTN năm sau nếu chi tiêu đạt 50 triệu/năm (KH thường).",
+    "content_items": [
+      "Phí thường niên thẻ chính: 799.000 VND.",
+      "Phí thường niên thẻ phụ: 799.000 VND (Combo thẻ chính + phụ: Thẻ phụ giảm còn 500.000 VND).",
+      "Lãi suất: 20%/năm.",
+      "Phí phạt chậm trả: 4% (Tối thiểu 100.000 VND)."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: 799.000 VND.<br>- Phí thường niên thẻ phụ: 799.000 VND (Combo thẻ chính + phụ: Thẻ phụ giảm còn 500.000 VND).<br>- Lãi suất: 20%/năm.<br>- Phí phạt chậm trả: 4% (Tối thiểu 100.000 VND)."
+  },
+  {
+    "card_id": "BIDV_MC_WORLD_TRAVEL",
+    "group": "feature",
+    "title": "Thẻ Chuyên biệt cho Du lịch",
+    "content": "- Loại bỏ hoàn toàn gánh nặng chi phí khi giao dịch tại nước ngoài. - Hành trình an tâm tuyệt đối với gói Bảo hiểm du lịch và bảo hiểm trễ chuyến bay hạn mức 11.65 tỷ đồng.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Loại bỏ hoàn toàn gánh nặng chi phí khi giao dịch tại nước ngoài.",
+      "Hành trình an tâm tuyệt đối với gói Bảo hiểm du lịch và bảo hiểm trễ chuyến bay hạn mức 11.65 tỷ đồng."
+    ],
+    "content_html": "- Loại bỏ hoàn toàn gánh nặng chi phí khi giao dịch tại nước ngoài.<br>- Hành trình an tâm tuyệt đối với gói Bảo hiểm du lịch và bảo hiểm trễ chuyến bay hạn mức 11.65 tỷ đồng."
+  },
+  {
+    "card_id": "BIDV_MC_WORLD_TRAVEL",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Ưu đãi đặc biệt: Miễn phí 100% giao dịch tại POS nước ngoài thông qua cơ chế hoàn trả phí. - Phí thường niên thẻ chính: 1.600.000 VND. - Phí thường niên thẻ phụ: 1.000.000 VND. - Lãi suất: 20%/năm. - Phí phạt chậm thanh toán: 6% (Tối thiểu 200.000 VND).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Phí phạt chậm trả thuộc nhóm cao, khuyến khích thanh toán đúng hạn.",
+    "content_items": [
+      "Ưu đãi đặc biệt: Miễn phí 100% giao dịch tại POS nước ngoài thông qua cơ chế hoàn trả phí.",
+      "Phí thường niên thẻ chính: 1.600.000 VND.",
+      "Phí thường niên thẻ phụ: 1.000.000 VND.",
+      "Lãi suất: 20%/năm.",
+      "Phí phạt chậm thanh toán: 6% (Tối thiểu 200.000 VND)."
+    ],
+    "content_html": "- Ưu đãi đặc biệt: Miễn phí 100% giao dịch tại POS nước ngoài thông qua cơ chế hoàn trả phí.<br>- Phí thường niên thẻ chính: 1.600.000 VND.<br>- Phí thường niên thẻ phụ: 1.000.000 VND.<br>- Lãi suất: 20%/năm.<br>- Phí phạt chậm thanh toán: 6% (Tối thiểu 200.000 VND)."
+  },
+  {
+    "card_id": "BIDV_VISA_EASY",
+    "group": "policy",
+    "title": "Chính sách Lãi suất Đột phá",
+    "content": "- Giải pháp tài chính ngắn hạn hoàn hảo với mức lãi suất và phí rút tiền thấp chưa từng có. - Cho phép chuyển đổi linh hoạt các khoản rút tiền thành trả góp.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "",
+    "content_items": [
+      "Giải pháp tài chính ngắn hạn hoàn hảo với mức lãi suất và phí rút tiền thấp chưa từng có.",
+      "Cho phép chuyển đổi linh hoạt các khoản rút tiền thành trả góp."
+    ],
+    "content_html": "- Giải pháp tài chính ngắn hạn hoàn hảo với mức lãi suất và phí rút tiền thấp chưa từng có.<br>- Cho phép chuyển đổi linh hoạt các khoản rút tiền thành trả góp."
+  },
+  {
+    "card_id": "BIDV_VISA_EASY",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: Chỉ 200.000 VND. - Phí thường niên thẻ phụ: 100.000 VND. - Lãi suất cực thấp: Chốt ở mức 12%/năm. - Phí ứng/rút tiền mặt tại ATM/POS BIDV: Mức siêu ưu đãi 1% (Tối thiểu 30.000 VND/lần). - Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND, thu tối đa trong 4 kỳ sao kê).",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Phí rút tiền tại ngân hàng khác vẫn áp dụng mức 3,64%.",
+    "content_items": [
+      "Phí thường niên thẻ chính: Chỉ 200.000 VND.",
+      "Phí thường niên thẻ phụ: 100.000 VND.",
+      "Lãi suất cực thấp: Chốt ở mức 12%/năm.",
+      "Phí ứng/rút tiền mặt tại ATM/POS BIDV: Mức siêu ưu đãi 1% (Tối thiểu 30.000 VND/lần).",
+      "Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND, thu tối đa trong 4 kỳ sao kê)."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: Chỉ 200.000 VND.<br>- Phí thường niên thẻ phụ: 100.000 VND.<br>- Lãi suất cực thấp: Chốt ở mức 12%/năm.<br>- Phí ứng/rút tiền mặt tại ATM/POS BIDV: Mức siêu ưu đãi 1% (Tối thiểu 30.000 VND/lần).<br>- Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND, thu tối đa trong 4 kỳ sao kê)."
+  },
+  {
+    "card_id": "BIDV_VISA_FLEXI",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Phí thường niên thẻ chính: 300.000 VND. - Phí thường niên thẻ phụ: 150.000 VND. - Lãi suất tín dụng: 22%/năm. - Phí rút tiền mặt chung: 3,64% (Tối thiểu 50.000 VND). - Miễn lãi tối đa 45 ngày.",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Lãi suất đã được điều chỉnh tăng từ mức 18% lên 22%.",
+    "content_items": [
+      "Phí thường niên thẻ chính: 300.000 VND.",
+      "Phí thường niên thẻ phụ: 150.000 VND.",
+      "Lãi suất tín dụng: 22%/năm.",
+      "Phí rút tiền mặt chung: 3,64% (Tối thiểu 50.000 VND).",
+      "Miễn lãi tối đa 45 ngày."
+    ],
+    "content_html": "- Phí thường niên thẻ chính: 300.000 VND.<br>- Phí thường niên thẻ phụ: 150.000 VND.<br>- Lãi suất tín dụng: 22%/năm.<br>- Phí rút tiền mặt chung: 3,64% (Tối thiểu 50.000 VND).<br>- Miễn lãi tối đa 45 ngày."
+  },
+  {
+    "card_id": "BIDV_MC_INSPIRE",
+    "group": "fee",
+    "title": "Biểu phí & Lãi suất (Cập nhật 21/11/2025)",
+    "content": "- Mặc dù là thẻ hạng chuẩn nhưng lãi suất được áp dụng mức ưu đãi: 20%/năm. - Phí thường niên thẻ chính: Theo quy định từng thời kỳ. - Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND).",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Tích hợp gói bảo hiểm 11.65 tỷ dù ở phân khúc Standard.",
+    "content_items": [
+      "Mặc dù là thẻ hạng chuẩn nhưng lãi suất được áp dụng mức ưu đãi: 20%/năm.",
+      "Phí thường niên thẻ chính: Theo quy định từng thời kỳ.",
+      "Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND)."
+    ],
+    "content_html": "- Mặc dù là thẻ hạng chuẩn nhưng lãi suất được áp dụng mức ưu đãi: 20%/năm.<br>- Phí thường niên thẻ chính: Theo quy định từng thời kỳ.<br>- Phí phạt chậm thanh toán: 4% (Tối thiểu 100.000 VND)."
+  },
+  {
+    "card_id": "ALL_CREDIT_CARDS",
+    "group": "usage",
+    "title": "Hệ sinh thái Trả góp 0%",
+    "content": "- Trả góp tại Đối tác liên kết: Mua sắm tại hơn 5.000 đối tác, phí chuyển đổi cực thấp (chỉ 0,1% - 0,5%/năm). - Trả góp linh hoạt: Chuyển đổi giao dịch bất kỳ từ 3.000.000 VND thao tác ngay trên App SmartBanking. - Phí chuyển đổi trả góp linh hoạt trực tiếp với BIDV: 1,99% (Kỳ hạn 3 tháng), 2,99% (6 tháng), 3,99% (9 tháng), 4,99% (12 tháng).",
+    "display_type": "list",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Không giới hạn số lần đăng ký trả góp miễn còn đủ hạn mức.",
+    "content_items": [
+      "Trả góp tại Đối tác liên kết: Mua sắm tại hơn 5.000 đối tác, phí chuyển đổi cực thấp (chỉ 0,1%",
+      "0,5%/năm).",
+      "Trả góp linh hoạt: Chuyển đổi giao dịch bất kỳ từ 3.000.000 VND thao tác ngay trên App SmartBanking.",
+      "Phí chuyển đổi trả góp linh hoạt trực tiếp với BIDV: 1,99% (Kỳ hạn 3 tháng), 2,99% (6 tháng), 3,99% (9 tháng), 4,99% (12 tháng)."
+    ],
+    "content_html": "- Trả góp tại Đối tác liên kết: Mua sắm tại hơn 5.000 đối tác, phí chuyển đổi cực thấp (chỉ 0,1%<br>- 0,5%/năm).<br>- Trả góp linh hoạt: Chuyển đổi giao dịch bất kỳ từ 3.000.000 VND thao tác ngay trên App SmartBanking.<br>- Phí chuyển đổi trả góp linh hoạt trực tiếp với BIDV: 1,99% (Kỳ hạn 3 tháng), 2,99% (6 tháng), 3,99% (9 tháng), 4,99% (12 tháng)."
+  },
+  {
+    "card_id": "ALL_CREDIT_CARDS",
+    "group": "condition",
+    "title": "Quy định Tích điểm BPoint chung",
+    "content": "- KHÔNG áp dụng cộng điểm cho các giao dịch trục lợi hoặc kém chất lượng: Rút tiền mặt (MCC 6011), Chứng khoán (MCC 6211), Đánh bạc (MCC 7995), Nạp ví điện tử (MCC 4829, 6051). - KHÔNG cộng điểm cho thanh toán hóa đơn cố định: Điện, nước, viễn thông, nộp thuế (MCC 4900, 4814, 9311). - Số điểm thưởng tối thiểu để thực hiện đổi quà trên SmartBanking là 500.000 điểm.",
+    "display_type": "list",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Thiết kế chặt chẽ nhằm bảo vệ ngân sách chương trình Loyalty.",
+    "content_items": [
+      "KHÔNG áp dụng cộng điểm cho các giao dịch trục lợi hoặc kém chất lượng: Rút tiền mặt (MCC 6011), Chứng khoán (MCC 6211), Đánh bạc (MCC 7995), Nạp ví điện tử (MCC 4829, 6051).",
+      "KHÔNG cộng điểm cho thanh toán hóa đơn cố định: Điện, nước, viễn thông, nộp thuế (MCC 4900, 4814, 9311).",
+      "Số điểm thưởng tối thiểu để thực hiện đổi quà trên SmartBanking là 500.000 điểm."
+    ],
+    "content_html": "- KHÔNG áp dụng cộng điểm cho các giao dịch trục lợi hoặc kém chất lượng: Rút tiền mặt (MCC 6011), Chứng khoán (MCC 6211), Đánh bạc (MCC 7995), Nạp ví điện tử (MCC 4829, 6051).<br>- KHÔNG cộng điểm cho thanh toán hóa đơn cố định: Điện, nước, viễn thông, nộp thuế (MCC 4900, 4814, 9311).<br>- Số điểm thưởng tối thiểu để thực hiện đổi quà trên SmartBanking là 500.000 điểm."
+  }
+]

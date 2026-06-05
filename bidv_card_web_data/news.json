@@ -1,0 +1,47 @@
+[
+  {
+    "news_id": "NWS_FEE_POLICY_2025",
+    "card_id": "ALL_CREDIT_CARDS",
+    "title": "Cập nhật Biểu phí & Lãi suất dịch vụ thẻ tín dụng áp dụng từ 21/11/2025",
+    "description": "Thông báo chính thức của BIDV về việc tái cấu trúc biểu phí, phí phạt và lãi suất các dòng thẻ tín dụng quốc tế, nhằm mục đích minh bạch hóa chi phí và tối ưu quyền lợi khách hàng theo định hướng Risk-Based Pricing.",
+    "image_goi_y": "Ảnh đồ họa bảng biểu tài chính mang màu sắc thương hiệu BIDV",
+    "url": "/thong-bao/dieu-chinh-dich-vu-the-cho-khach-hang-ca-nhan-tu-211125",
+    "published_date": "10/11/2025",
+    "status": "active",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu": "Tin tức lõi bắt buộc phải hiển thị để tuân thủ pháp lý về công bố biểu phí.",
+    "published_date_iso": "2025-11-10",
+    "slug": "cap-nhat-bieu-phi-lai-suat-dich-vu-the-tin-dung-ap-dung-tu-21-11-2025"
+  },
+  {
+    "news_id": "NWS_TECH_AWARD_2026",
+    "card_id": "ALL_CREDIT_CARDS",
+    "title": "BIDV vinh dự nhận giải thưởng Ngân hàng triển khai hệ thống Core Banking tốt nhất",
+    "description": "Dấu ấn đậm nét trong hành trình chuyển đổi số. Giải thưởng minh chứng cho năng lực hạ tầng vững chắc, đảm bảo tính bảo mật và tốc độ xử lý hàng triệu giao dịch thẻ tín dụng mỗi ngày.",
+    "image_goi_y": "Ảnh đại diện lễ trao giải thưởng hoặc cúp công nghệ",
+    "url": "/bidv-blog/tin-tuc-bidv",
+    "published_date": "06/04/2026",
+    "status": "active",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu": "Truyền thông củng cố niềm tin về an toàn giao dịch thẻ.",
+    "published_date_iso": "2026-04-06",
+    "slug": "bidv-vinh-du-nhan-giai-thuong-ngan-hang-trien-khai-he-thong-core-banking-tot-nha"
+  },
+  {
+    "news_id": "NWS_DIRECT_SHOP",
+    "card_id": "ALL_CREDIT_CARDS",
+    "title": "BIDV ra mắt giải pháp quản lý bán hàng BIDV Direct Shop",
+    "description": "Một nền tảng trọn tiện ích dành cho tiểu thương và doanh nghiệp siêu nhỏ, tích hợp quản lý dòng tiền và các giải pháp chấp nhận thanh toán thẻ/POS mượt mà.",
+    "image_goi_y": "Ảnh giao diện ứng dụng quản lý bán hàng Direct Shop",
+    "url": "/bidv-blog/tin-tuc-bidv",
+    "published_date": "22/05/2026",
+    "status": "active",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu": "Tạo sự liên kết giữa khách hàng dùng thẻ và điểm chấp nhận thanh toán.",
+    "published_date_iso": "2026-05-22",
+    "slug": "bidv-ra-mat-giai-phap-quan-ly-ban-hang-bidv-direct-shop"
+  }
+]

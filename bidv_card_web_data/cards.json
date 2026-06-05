@@ -1,0 +1,440 @@
+[
+  {
+    "id": "BIDV_VISA_INFINITE",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Infinite",
+    "ten_ngan": "Visa Infinite",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Infinite",
+    "image_goi_y": "Ảnh thẻ Visa Infinite (đen/kim loại)",
+    "tag": "Đặc quyền thượng lưu",
+    "color": "#000000",
+    "title": "Đặc quyền không giới hạn",
+    "description": "Hạng thẻ cao cấp nhất. Tận hưởng đặc quyền Golf, Spa, Ẩm thực, Nghỉ dưỡng và phòng chờ sân bay không giới hạn toàn cầu.",
+    "diem_noi_bat_ngan": "Tích điểm dặm bay không giới hạn; Bảo hiểm 23,3 tỷ VND; Miễn phí phạt chậm trả.",
+    "doi_tuong_phu_hop": "Khách hàng Private, Premier Elite (Giới siêu giàu)",
+    "status": "active",
+    "order": 1,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Cơ chế phí thường niên 3 mức: 30tr, 15tr, 5tr.",
+    "slug": "visa-infinite",
+    "highlight_items": [
+      "Tích điểm dặm bay không giới hạn",
+      "Bảo hiểm 23,3 tỷ VND",
+      "Miễn phí phạt chậm trả."
+    ],
+    "target_items": [
+      "Khách hàng Private, Premier Elite (Giới siêu giàu)"
+    ],
+    "detail_ids": [
+      0,
+      1,
+      2,
+      3,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_JCB_ULTIMATE",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV JCB Ultimate",
+    "ten_ngan": "JCB Ultimate",
+    "loai_the": "JCB",
+    "to_chuc_the": "JCB",
+    "phan_khuc": "Ultimate",
+    "image_goi_y": "Ảnh thẻ JCB Ultimate (họa tiết Nhật Bản)",
+    "tag": "Hoàn tiền ẩm thực",
+    "color": "#B8860B",
+    "title": "Tinh hoa văn hóa Nhật Bản",
+    "description": "Trải nghiệm tinh hoa ẩm thực với mức hoàn tiền cao nhất thị trường. Hưởng trọn hệ sinh thái đặc quyền JCB Premium Service.",
+    "diem_noi_bat_ngan": "Hoàn tiền tới 20% ẩm thực; Tặng 100% phí giao dịch tại Nhật; Đặc quyền Golf & Sân bay.",
+    "doi_tuong_phu_hop": "Doanh nhân, khách hàng đam mê văn hóa và ẩm thực Nhật",
+    "status": "active",
+    "order": 2,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Hạn mức hoàn tiền 800.000 VND/tháng. Đặt dịch vụ qua Zalo Mini App.",
+    "slug": "jcb-ultimate",
+    "highlight_items": [
+      "Hoàn tiền tới 20% ẩm thực",
+      "Tặng 100% phí giao dịch tại Nhật",
+      "Đặc quyền Golf & Sân bay."
+    ],
+    "target_items": [
+      "Doanh nhân, khách hàng đam mê văn hóa và ẩm thực Nhật"
+    ],
+    "detail_ids": [
+      4,
+      5,
+      6,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_JCB_AGODA_2026",
+      "PRM_JCB_TRIP_2026",
+      "PRM_JCB_UNIQLO_2026",
+      "PRM_JCB_HOTELS_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_MC_WORLD_TRAVEL",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Mastercard World Travel",
+    "ten_ngan": "MC World Travel",
+    "loai_the": "Mastercard",
+    "to_chuc_the": "Mastercard",
+    "phan_khuc": "World",
+    "image_goi_y": "Ảnh thẻ Mastercard World Travel (bản đồ/du lịch)",
+    "tag": "Du lịch quốc tế",
+    "color": "#003366",
+    "title": "Hành trình trải nghiệm độc bản",
+    "description": "Chiếc thẻ thiết kế chuyên biệt cho những chuyến đi toàn cầu. Loại bỏ rào cản chi phí giao dịch ngoại tệ.",
+    "diem_noi_bat_ngan": "Miễn phí giao dịch nước ngoài; Đặc quyền du lịch đẳng cấp; Bảo hiểm 11.65 tỷ.",
+    "doi_tuong_phu_hop": "Khách hàng thường xuyên đi du lịch, công tác nước ngoài",
+    "status": "active",
+    "order": 3,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Phí thường niên 1.600.000 VND theo biểu phí mới.",
+    "slug": "mc-world-travel",
+    "highlight_items": [
+      "Miễn phí giao dịch nước ngoài",
+      "Đặc quyền du lịch đẳng cấp",
+      "Bảo hiểm 11.65 tỷ."
+    ],
+    "target_items": [
+      "Khách hàng thường xuyên đi du lịch, công tác nước ngoài"
+    ],
+    "detail_ids": [
+      16,
+      17,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_MC_HOTELS_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_VISA_CASHBACK_360",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Cashback 360",
+    "ten_ngan": "Visa Cashback 360",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Platinum",
+    "image_goi_y": "Ảnh thẻ Visa Platinum Cashback 360",
+    "tag": "Hoàn tiền siêu thị",
+    "color": "#005B9F",
+    "title": "Lựa chọn của người tiêu dùng thông thái",
+    "description": "Giải pháp tối ưu tài chính gia đình với mức hoàn tiền vượt trội tại siêu thị, y tế và giáo dục. Tích lũy linh hoạt qua BPoint.",
+    "diem_noi_bat_ngan": "Hoàn 10% tại Siêu thị; Hoàn 2% Y tế/Giáo dục; Bảo hiểm 11.65 tỷ.",
+    "doi_tuong_phu_hop": "Gia đình, khách hàng có chi tiêu sinh hoạt hàng tháng lớn",
+    "status": "active",
+    "order": 4,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Hoàn siêu thị 10% áp dụng khi tổng doanh số >10 triệu/tháng.",
+    "slug": "visa-cashback-360",
+    "highlight_items": [
+      "Hoàn 10% tại Siêu thị",
+      "Hoàn 2% Y tế/Giáo dục",
+      "Bảo hiểm 11.65 tỷ."
+    ],
+    "target_items": [
+      "Gia đình, khách hàng có chi tiêu sinh hoạt hàng tháng lớn"
+    ],
+    "detail_ids": [
+      10,
+      11,
+      12,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_VISA_CASHBACK_ONLINE",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Cashback Online",
+    "ten_ngan": "Visa Cashback Online",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Platinum",
+    "image_goi_y": "Ảnh thẻ Visa Cashback Online (hiện đại, số hóa)",
+    "tag": "Mua sắm Online",
+    "color": "#FF6600",
+    "title": "Mở ra thế giới mua sắm diệu kỳ",
+    "description": "Nhân đôi niềm vui mua sắm trực tuyến với chính sách hoàn tiền mạnh mẽ tại các sàn thương mại điện tử hàng đầu.",
+    "diem_noi_bat_ngan": "Hoàn 6% tại Tiki, Shopee, Lazada, TikTok; Hoàn 3% online khác.",
+    "doi_tuong_phu_hop": "Tín đồ mua sắm trực tuyến, giới trẻ, dân văn phòng",
+    "status": "active",
+    "order": 5,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Tối đa hoàn 800k (KH nhận lương) hoặc 600k (KH thường).",
+    "slug": "visa-cashback-online",
+    "highlight_items": [
+      "Hoàn 6% tại Tiki, Shopee, Lazada, TikTok",
+      "Hoàn 3% online khác."
+    ],
+    "target_items": [
+      "Tín đồ mua sắm trực tuyến, giới trẻ, dân văn phòng"
+    ],
+    "detail_ids": [
+      7,
+      8,
+      9,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_JCB_WELL_BEING",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV JCB Well-being",
+    "ten_ngan": "JCB Well-being",
+    "loai_the": "JCB",
+    "to_chuc_the": "JCB",
+    "phan_khuc": "Platinum",
+    "image_goi_y": "Ảnh thẻ JCB Well-being (xanh thiên nhiên/sức khỏe)",
+    "tag": "Sức khỏe & Làm đẹp",
+    "color": "#2E8B57",
+    "title": "Tiên phong chăm sóc sức khỏe toàn diện",
+    "description": "Dòng thẻ đầu tiên trên thị trường hoàn tiền chuyên sâu cho dịch vụ Y tế, Bảo hiểm và Thời trang, hướng tới lối sống lành mạnh.",
+    "diem_noi_bat_ngan": "Hoàn 10% Y tế; Hoàn 6% Bảo hiểm/Thời trang; Giảm 500k tại Vinmec/Thu Cúc.",
+    "doi_tuong_phu_hop": "Khách hàng quan tâm đến chăm sóc sức khỏe, tập luyện thể thao",
+    "status": "active",
+    "order": 6,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Phí thường niên 799.000 VND.",
+    "slug": "jcb-well-being",
+    "highlight_items": [
+      "Hoàn 10% Y tế",
+      "Hoàn 6% Bảo hiểm/Thời trang",
+      "Giảm 500k tại Vinmec/Thu Cúc."
+    ],
+    "target_items": [
+      "Khách hàng quan tâm đến chăm sóc sức khỏe, tập luyện thể thao"
+    ],
+    "detail_ids": [
+      13,
+      14,
+      15,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_JCB_AGODA_2026",
+      "PRM_JCB_TRIP_2026",
+      "PRM_JCB_UNIQLO_2026",
+      "PRM_JCB_HOTELS_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_MC_INSPIRE",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Mastercard Inspire",
+    "ten_ngan": "MC Inspire",
+    "loai_the": "Mastercard",
+    "to_chuc_the": "Mastercard",
+    "phan_khuc": "Standard",
+    "image_goi_y": "Ảnh thẻ Mastercard Inspire",
+    "tag": "Du lịch & Khám phá",
+    "color": "#E60000",
+    "title": "Khơi nguồn cảm hứng",
+    "description": "Biến mọi khoản chi tiêu hàng ngày thành những dặm bay đầy cảm hứng. Bảo vệ bạn trên mọi nẻo đường với gói bảo hiểm cao cấp.",
+    "diem_noi_bat_ngan": "Tích điểm đổi dặm bay cao; Bảo hiểm du lịch 11.65 tỷ VND.",
+    "doi_tuong_phu_hop": "Người trẻ yêu thích du lịch tự túc, khám phá",
+    "status": "active",
+    "order": 7,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Thẻ hạng chuẩn nhưng có bảo hiểm du lịch tỷ giá cao.",
+    "slug": "mc-inspire",
+    "highlight_items": [
+      "Tích điểm đổi dặm bay cao",
+      "Bảo hiểm du lịch 11.65 tỷ VND."
+    ],
+    "target_items": [
+      "Người trẻ yêu thích du lịch tự túc, khám phá"
+    ],
+    "detail_ids": [
+      21,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_MC_HOTELS_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_VISA_FLEXI",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Flexi",
+    "ten_ngan": "Visa Flexi",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Standard",
+    "image_goi_y": "Ảnh thẻ Visa Flexi cơ bản",
+    "tag": "Giải pháp tài chính",
+    "color": "#1E90FF",
+    "title": "Giải pháp tài chính linh hoạt",
+    "description": "Dòng thẻ tín dụng đại chúng đáp ứng nhanh chóng các nhu cầu thanh toán thiết yếu. Phí thường niên thấp, thủ tục đơn giản.",
+    "diem_noi_bat_ngan": "Chi tiêu miễn lãi 45 ngày; Trả góp 0%; Phí thường niên chỉ 300.000 VND.",
+    "doi_tuong_phu_hop": "Khách hàng phổ thông, người lần đầu sử dụng thẻ tín dụng",
+    "status": "active",
+    "order": 8,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Lãi suất áp dụng theo biểu phí mới là 22%/năm.",
+    "slug": "visa-flexi",
+    "highlight_items": [
+      "Chi tiêu miễn lãi 45 ngày",
+      "Trả góp 0%",
+      "Phí thường niên chỉ 300.000 VND."
+    ],
+    "target_items": [
+      "Khách hàng phổ thông, người lần đầu sử dụng thẻ tín dụng"
+    ],
+    "detail_ids": [
+      20,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_VISA_EASY",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Easy",
+    "ten_ngan": "Visa Easy",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Standard",
+    "image_goi_y": "Ảnh thẻ Visa Easy",
+    "tag": "Lãi suất thấp",
+    "color": "#32CD32",
+    "title": "Tận hưởng cuộc sống dễ dàng hơn",
+    "description": "Chiếc thẻ phá vỡ quy chuẩn với mức lãi suất vay tín dụng và phí rút tiền mặt tại ATM thấp nhất thị trường hiện nay.",
+    "diem_noi_bat_ngan": "Lãi suất siêu thấp 12%/năm; Phí rút tiền mặt tại ATM BIDV chỉ 1%.",
+    "doi_tuong_phu_hop": "Khách hàng có nhu cầu ứng rút tiền mặt linh hoạt hoặc trả góp",
+    "status": "active",
+    "order": 9,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Phí rút tối thiểu là 30.000 VND/lần.",
+    "slug": "visa-easy",
+    "highlight_items": [
+      "Lãi suất siêu thấp 12%/năm",
+      "Phí rút tiền mặt tại ATM BIDV chỉ 1%."
+    ],
+    "target_items": [
+      "Khách hàng có nhu cầu ứng rút tiền mặt linh hoạt hoặc trả góp"
+    ],
+    "detail_ids": [
+      18,
+      19,
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  },
+  {
+    "id": "BIDV_VISA_FLEXI_SAO_VANG",
+    "ten_the": "Thẻ tín dụng quốc tế BIDV Visa Flexi Sao Vàng",
+    "ten_ngan": "Flexi Sao Vàng",
+    "loai_the": "Visa",
+    "to_chuc_the": "Visa",
+    "phan_khuc": "Standard",
+    "image_goi_y": "Ảnh thẻ họa tiết Sao Vàng/Cờ đỏ",
+    "tag": "Thẻ chuyên biệt",
+    "color": "#DA251D",
+    "title": "Hào khí Việt Nam",
+    "description": "Phiên bản thẻ đặc biệt mang đậm tinh thần dân tộc, với các chính sách ưu đãi thiết kế riêng để tri ân lực lượng vũ trang.",
+    "diem_noi_bat_ngan": "Ưu đãi miễn lãi 45 ngày; Trả góp 0% tại hơn 5.000 đối tác.",
+    "doi_tuong_phu_hop": "Lực lượng vũ trang nhân dân",
+    "status": "active",
+    "order": 10,
+    "source_url": "",
+    "ghi_chu_kiem_chung": "Biểu phí cụ thể theo quy định nội bộ của BIDV từng thời kỳ.",
+    "slug": "flexi-sao-vang",
+    "highlight_items": [
+      "Ưu đãi miễn lãi 45 ngày",
+      "Trả góp 0% tại hơn 5.000 đối tác."
+    ],
+    "target_items": [
+      "Lực lượng vũ trang nhân dân"
+    ],
+    "detail_ids": [
+      22,
+      23
+    ],
+    "promotion_ids": [
+      "PRM_OPEN_NEW_2026",
+      "PRM_GREENSM_2026"
+    ],
+    "news_ids": [
+      "NWS_FEE_POLICY_2025",
+      "NWS_TECH_AWARD_2026",
+      "NWS_DIRECT_SHOP"
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quản Lý Thẻ Tín Dụng 2026</title>
+    <meta
+      name="description"
+      content="Bộ sổ tay tra cứu, tư vấn và so sánh sản phẩm thẻ BIDV theo phong cách tối giản, bám dữ liệu thật trong workspace."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <div class="shell nav-shell">
+          <a class="brand" href="#top" aria-label="Quản lý thẻ tín dụng 2026">
+            <img class="brand-logo" src="./assets_web/brand/logo-xanh.png" alt="BIDV" />
+            <span class="brand-copy">
+              <strong>Quản Lý Thẻ Tín Dụng 2026</strong>
+              <small>Sổ tay sản phẩm thẻ BIDV từ dữ liệu nội bộ</small>
+            </span>
+          </a>
+
+          <nav class="desktop-nav" aria-label="Điều hướng chính">
+            <a href="#advisor">Tư vấn</a>
+            <a href="#catalog">Danh mục</a>
+            <a href="#compare">So sánh</a>
+            <a href="#promotions">Khuyến mại</a>
+            <a href="#notes">Ghi chú</a>
+          </nav>
+
+          <button
+            id="mobileMenuButton"
+            class="menu-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="mobileNav"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+
+        <div id="mobileNav" class="mobile-nav" hidden>
+          <div class="shell mobile-nav-links">
+            <a href="#advisor">Tư vấn</a>
+            <a href="#catalog">Danh mục</a>
+            <a href="#compare">So sánh</a>
+            <a href="#promotions">Khuyến mại</a>
+            <a href="#notes">Ghi chú</a>
+          </div>
+        </div>
+      </header>
+
+      <main id="top" class="shell site-main">
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="hero-kicker">Sổ tay bán hàng thẻ BIDV / 2026</p>
+            <h1>Quản lý.<br />Thẻ tín dụng.</h1>
+            <p class="hero-text">
+              Không chỉ là trang tra cứu, đây là mặt bàn làm việc để chọn đúng sản phẩm, giải
+              thích đúng quyền lợi và chốt tư vấn nhanh hơn bằng chính dữ liệu, hình ảnh thẻ và
+              tài liệu đang có trong thư mục dự án.
+            </p>
+
+            <div class="hero-search">
+              <label class="sr-only" for="heroSearch">Tìm kiếm thẻ hoặc nhu cầu</label>
+              <input
+                id="heroSearch"
+                type="search"
+                placeholder="Nhập từ khóa như golf, hoàn tiền, mua sắm online, sức khỏe..."
+                autocomplete="off"
+              />
+              <button id="heroSearchButton" type="button">Tra cứu</button>
+            </div>
+
+            <div id="heroMetrics" class="hero-metrics" aria-live="polite"></div>
+          </div>
+
+          <div class="hero-visual">
+            <div class="hero-gallery">
+              <div class="hero-gallery-main">
+                <img
+                  src="./assets_web/cards/visa-infinite.png"
+                  alt="Thẻ BIDV Visa Infinite"
+                />
+              </div>
+              <div class="hero-gallery-stack hero-gallery-stack-a">
+                <img
+                  src="./assets_web/cards/jcb-ultimate.png"
+                  alt="Thẻ BIDV JCB Ultimate"
+                />
+              </div>
+              <div class="hero-gallery-stack hero-gallery-stack-b">
+                <img
+                  src="./assets_web/cards/mastercard-world-travel.png"
+                  alt="Thẻ BIDV Mastercard World Travel"
+                />
+              </div>
+              <div class="hero-gallery-stack hero-gallery-stack-c">
+                <img
+                  src="./assets_web/cards/visa-cashback-360.png"
+                  alt="Thẻ BIDV Visa Cashback 360"
+                />
+              </div>
+            </div>
+
+            <div class="hero-card-frame">
+              <div class="hero-card-panel">
+                <span class="hero-card-chip">BIDV</span>
+                <p>Cụm hình ảnh thẻ thật từ thư mục thiết kế</p>
+                <strong>Tập trung đúng nhận diện sản phẩm ngay từ phần mở đầu thay vì chỉ dùng khối chữ.</strong>
+              </div>
+            </div>
+
+            <div class="hero-highlight-list">
+              <article class="hero-highlight">
+                <strong>Dữ liệu thật trong repo</strong>
+                <span>Thẻ, chi tiết, khuyến mại, dịch vụ và hình ảnh đều đọc từ tài nguyên sẵn có.</span>
+              </article>
+              <article class="hero-highlight">
+                <strong>Bảng so sánh nhanh</strong>
+                <span>Đối chiếu tối đa 4 thẻ theo các chỉ số thực sự cần khi tư vấn.</span>
+              </article>
+              <article class="hero-highlight">
+                <strong>Drawer tư vấn tập trung</strong>
+                <span>Chi tiết từng sản phẩm gom về một vùng rõ ràng, dễ đọc và không phá bố cục.</span>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section id="overview" class="section-block overview-section">
+          <div class="section-heading">
+            <div>
+              <p class="section-label">.00 / Bản đồ nhu cầu</p>
+              <h2>Tổng quan theo hướng tư vấn</h2>
+            </div>
+            <p class="section-desc">
+              Chọn từng ô để lọc nhanh đúng cụm sản phẩm, khuyến mại hoặc dịch vụ đi kèm.
+            </p>
+          </div>
+          <div id="overviewGrid" class="overview-grid"></div>
+        </section>
+
+        <section id="advisor" class="section-block advisor-section">
+          <div class="section-heading split-heading">
+            <div>
+              <p class="section-label">.01 / Tư vấn nhanh</p>
+              <h2>Mô tả khách hàng, hệ thống gợi ý thẻ.</h2>
+            </div>
+            <p class="section-desc">
+              Nhập chân dung tài chính hoặc hành vi chi tiêu để lấy shortlist phù hợp nhất.
+            </p>
+          </div>
+
+          <div class="advisor-layout">
+            <div class="advisor-panel">
+              <label class="sr-only" for="advisorInput">Nhập mô tả khách hàng</label>
+              <textarea
+                id="advisorInput"
+                rows="4"
+                placeholder="Ví dụ: khách hàng thu nhập 35 triệu, hay công tác quốc tế, thích lounge, quan tâm bảo hiểm du lịch..."
+              ></textarea>
+              <div class="advisor-actions">
+                <div id="quickAdvisorPills" class="quick-pills"></div>
+                <button id="advisorButton" type="button" class="primary-button">Phân tích</button>
+              </div>
+            </div>
+
+            <div id="advisorResult" class="advisor-result">
+              <div class="empty-state advisor-placeholder">
+                <strong>Chờ mô tả khách hàng...</strong>
+                <span>Hệ thống sẽ gợi ý theo nhu cầu hoàn tiền, du lịch, sức khỏe, online hoặc lãi suất thấp.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="catalog" class="section-block catalog-section">
+          <div class="section-heading catalog-heading">
+            <div>
+              <p class="section-label">.02 / Danh mục</p>
+              <h2>Danh mục sản phẩm thẻ</h2>
+            </div>
+            <div class="catalog-summary">
+              <strong id="catalogCount">0 thẻ</strong>
+              <span id="catalogMeta">Đang tải dữ liệu</span>
+            </div>
+          </div>
+
+          <div class="catalog-toolbar">
+            <label class="search-control" for="catalogSearch">
+              <span class="sr-only">Tìm kiếm danh mục thẻ</span>
+              <input
+                id="catalogSearch"
+                type="search"
+                placeholder="Tìm theo tên thẻ, ưu đãi, đối tượng, nhu cầu..."
+                autocomplete="off"
+              />
+            </label>
+
+            <label class="select-control" for="segmentFilter">
+              <span class="sr-only">Lọc theo phân khúc</span>
+              <select id="segmentFilter">
+                <option value="all">Tất cả phân khúc</option>
+              </select>
+            </label>
+          </div>
+
+          <div id="filterChips" class="filter-chips" aria-label="Bộ lọc nhanh"></div>
+
+          <div id="cardsGrid" class="cards-grid" aria-live="polite"></div>
+          <div id="cardsEmpty" class="empty-state" hidden></div>
+        </section>
+
+        <section id="compare" class="section-block compare-section">
+          <div class="section-heading split-heading">
+            <div>
+              <p class="section-label">.03 / Ma trận so sánh</p>
+              <h2>Đối chiếu sản phẩm trên cùng hệ quy chiếu</h2>
+            </div>
+            <button id="clearCompareButton" type="button" class="ghost-button">Xóa bảng chọn</button>
+          </div>
+
+          <div id="compareNotice" class="status-banner" hidden></div>
+          <div id="compareDesktop" class="compare-desktop"></div>
+          <div id="compareMobile" class="compare-mobile"></div>
+        </section>
+
+        <section id="promotions" class="section-block promotions-section">
+          <div class="section-heading">
+            <div>
+              <p class="section-label">.04 / Khuyến mại</p>
+              <h2>Khuyến mại đang có hiệu lực</h2>
+            </div>
+            <p class="section-desc">
+              Spotlight ưu tiên chương trình còn hiệu lực; danh sách dưới vẫn giữ đủ để tra cứu lịch sử.
+            </p>
+          </div>
+
+          <div id="promotionSpotlight" class="promotions-spotlight"></div>
+          <div id="promotionList" class="promotions-grid"></div>
+        </section>
+
+        <section id="notes" class="section-block notes-section">
+          <div class="section-heading">
+            <div>
+              <p class="section-label">.05 / Ghi chú & dịch vụ</p>
+              <h2>Checklist trước khi tư vấn</h2>
+            </div>
+            <p class="section-desc">
+              Nội dung này phục vụ tra cứu nhanh; quyết định cuối cùng vẫn phải bám văn bản hiệu lực của BIDV.
+            </p>
+          </div>
+
+          <div class="notes-layout">
+            <div class="note-box">
+              <ul id="usageNotes" class="bullet-list"></ul>
+            </div>
+            <div class="service-box">
+              <div class="service-box-head">
+                <strong>Dịch vụ đi kèm nổi bật</strong>
+                <span>Tóm lược các dịch vụ mở rộng để bán chéo cùng sản phẩm thẻ.</span>
+              </div>
+              <div id="serviceTags" class="tag-cloud"></div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="drawerOverlay" class="drawer-overlay" hidden></div>
+    <aside id="cardDrawer" class="card-drawer" aria-hidden="true">
+      <div class="drawer-shell">
+        <div class="drawer-head">
+          <div class="drawer-head-copy">
+            <p id="drawerMeta" class="drawer-meta"></p>
+            <h2 id="drawerTitle"></h2>
+          </div>
+          <button id="drawerClose" type="button" class="drawer-close" aria-label="Đóng chi tiết">
+            ×
+          </button>
+        </div>
+        <div id="drawerHero" class="drawer-hero"></div>
+        <div id="drawerTabs" class="drawer-tabs"></div>
+        <div id="drawerBody" class="drawer-body"></div>
+      </div>
+    </aside>
+
+    <template id="metricTemplate">
+      <article class="metric-card">
+        <strong class="metric-value"></strong>
+        <span class="metric-label"></span>
+      </article>
+    </template>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

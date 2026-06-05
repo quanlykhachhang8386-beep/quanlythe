@@ -1,0 +1,266 @@
+[
+  {
+    "cardId": "BIDV_VISA_INFINITE",
+    "cardName": "BIDV Visa Infinite",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Infinite.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Infinite.png",
+    "categories": ["Khách hàng cao cấp", "Travel & lifestyle", "Ẩm thực", "Golf"],
+    "benefits": [
+      {
+        "icon": "lounge",
+        "value": "Không giới hạn",
+        "title": "Đặc quyền phòng chờ sân bay",
+        "condition": "chủ thẻ và người thân theo từng gói quyền lợi"
+      },
+      {
+        "icon": "golf",
+        "value": "10 lượt",
+        "title": "Golf hoặc lifestyle cao cấp",
+        "condition": "áp dụng tại các sân và đối tác theo chương trình"
+      },
+      {
+        "icon": "shield",
+        "value": "23,3 tỷ",
+        "title": "Bảo hiểm du lịch toàn cầu",
+        "condition": "gia tăng an tâm cho hành trình công tác và nghỉ dưỡng"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_JCB_ULTIMATE",
+    "cardName": "BIDV JCB Ultimate",
+    "cardImagePortrait": "Design thẻ BIDV/JCB Ultimate.png",
+    "cardImageLandscape": "Design thẻ BIDV/JCB Ultimate.png",
+    "categories": ["Ẩm thực", "Nhật Bản", "Golf", "Sân bay"],
+    "benefits": [
+      {
+        "icon": "dining",
+        "value": "20%",
+        "title": "Hoàn tiền nhà hàng",
+        "condition": "ưu đãi cao nhất vào tháng sinh nhật"
+      },
+      {
+        "icon": "dining",
+        "value": "10%",
+        "title": "Hoàn tiền ẩm thực thường kỳ",
+        "condition": "phù hợp khách chi tiêu dining đều đặn"
+      },
+      {
+        "icon": "japan",
+        "value": "100%",
+        "title": "Phí giao dịch tại Nhật",
+        "condition": "tối ưu trải nghiệm chi tiêu và du lịch Nhật Bản"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_MC_WORLD_TRAVEL",
+    "cardName": "BIDV Mastercard World Travel",
+    "cardImagePortrait": "Design thẻ BIDV/Mastercard Travel.png",
+    "cardImageLandscape": "Design thẻ BIDV/Mastercard Travel.png",
+    "categories": ["Du lịch", "Công tác", "Ngoại tệ", "Sân bay"],
+    "benefits": [
+      {
+        "icon": "global",
+        "value": "0%",
+        "title": "Phí giao dịch ngoại tệ",
+        "condition": "tối ưu trực tiếp cho chi tiêu nước ngoài"
+      },
+      {
+        "icon": "airport",
+        "value": "4 lượt/năm",
+        "title": "Phòng chờ sân bay quốc tế",
+        "condition": "không cần đặt trước, dùng theo chu kỳ quý"
+      },
+      {
+        "icon": "shield",
+        "value": "11,65 tỷ",
+        "title": "Bảo hiểm du lịch và trễ chuyến",
+        "condition": "nâng cấp hành trình cho khách hay di chuyển"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_VISA_CASHBACK_360",
+    "cardName": "BIDV Visa Cashback 360",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Cashback_360.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Cashback_360.png",
+    "categories": ["Gia đình", "Siêu thị", "Y tế", "Giáo dục"],
+    "benefits": [
+      {
+        "icon": "cart",
+        "value": "10%",
+        "title": "Hoàn tiền siêu thị",
+        "condition": "khi chi tiêu tháng vượt 10 triệu VND"
+      },
+      {
+        "icon": "bag",
+        "value": "2%",
+        "title": "Hoàn tiền siêu thị",
+        "condition": "khi tổng chi tiêu tháng từ 10 triệu VND trở xuống"
+      },
+      {
+        "icon": "health",
+        "value": "2%",
+        "title": "Hoàn tiền y tế và giáo dục",
+        "condition": "áp dụng cho các nhóm chi tiêu thiết yếu của gia đình"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_VISA_CASHBACK_ONLINE",
+    "cardName": "BIDV Visa Cashback Online",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Cashback_Online.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Cashback_Online.png",
+    "categories": ["Online", "Shopee", "TikTok Shop", "Lifestyle số"],
+    "benefits": [
+      {
+        "icon": "online",
+        "value": "6%",
+        "title": "Hoàn tiền Shopee & TikTok Shop",
+        "condition": "khi doanh số online trong tháng đạt từ 10 triệu VND"
+      },
+      {
+        "icon": "bag",
+        "value": "3%",
+        "title": "Hoàn tiền online khác",
+        "condition": "dành cho thói quen mua sắm trực tuyến hằng ngày"
+      },
+      {
+        "icon": "shield",
+        "value": "11,65 tỷ",
+        "title": "Bảo hiểm du lịch toàn cầu",
+        "condition": "gia tăng giá trị ngoài cashback cho khách trẻ năng động"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_JCB_WELL_BEING",
+    "cardName": "BIDV JCB Well-being",
+    "cardImagePortrait": "Design thẻ BIDV/JCB well-being.png",
+    "cardImageLandscape": "Design thẻ BIDV/JCB well-being.png",
+    "categories": ["Y tế", "Bảo hiểm", "Làm đẹp", "Gia đình"],
+    "benefits": [
+      {
+        "icon": "health",
+        "value": "10%",
+        "title": "Hoàn tiền lĩnh vực y tế",
+        "condition": "khi doanh số tháng từ 10 triệu VND trở lên"
+      },
+      {
+        "icon": "spark",
+        "value": "6%",
+        "title": "Hoàn tiền bảo hiểm và thời trang",
+        "condition": "mở rộng giá trị cho nhu cầu chăm sóc bản thân"
+      },
+      {
+        "icon": "medical-badge",
+        "value": "500K",
+        "title": "Ưu đãi khám chữa bệnh",
+        "condition": "áp dụng tại các đối tác y tế chọn lọc như Vinmec hoặc Thu Cúc"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_MC_INSPIRE",
+    "cardName": "BIDV Mastercard Inspire",
+    "cardImagePortrait": "Design thẻ BIDV/Mastercard Inspire.png",
+    "cardImageLandscape": "Design thẻ BIDV/Mastercard Inspire.png",
+    "categories": ["Du lịch trẻ", "Tích dặm", "Lifestyle", "Bảo hiểm"],
+    "benefits": [
+      {
+        "icon": "miles",
+        "value": "Tích dặm",
+        "title": "Tăng tốc đổi dặm bay",
+        "condition": "biến chi tiêu thường ngày thành hành trình mới"
+      },
+      {
+        "icon": "shield",
+        "value": "11,65 tỷ",
+        "title": "Bảo hiểm du lịch quốc tế",
+        "condition": "phù hợp khách hàng thích tự do khám phá"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_VISA_FLEXI",
+    "cardName": "BIDV Visa Flexi",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Flexi.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Flexi.png",
+    "categories": ["Khách lương BIDV", "Nhà hàng", "Online", "Du lịch"],
+    "benefits": [
+      {
+        "icon": "salary",
+        "value": "2%",
+        "title": "Hoàn tiền cho khách nhận lương BIDV",
+        "condition": "áp dụng cho nhà hàng, online và du lịch"
+      },
+      {
+        "icon": "bag",
+        "value": "1%",
+        "title": "Hoàn tiền phổ thông",
+        "condition": "dành cho khách chưa nhận lương qua BIDV"
+      },
+      {
+        "icon": "wallet",
+        "value": "300K",
+        "title": "Phí thường niên dễ tiếp cận",
+        "condition": "giữ ngưỡng sở hữu thấp cho tệp mở thẻ đầu tiên"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_VISA_EASY",
+    "cardName": "BIDV Visa Easy",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Easy.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Easy.png",
+    "categories": ["Phí thấp", "Trả góp", "Dễ mở", "SmartBanking"],
+    "benefits": [
+      {
+        "icon": "wallet",
+        "value": "200K",
+        "title": "Phí thường niên mỗi năm",
+        "condition": "mức thấp nhất trong nhóm tín dụng BIDV"
+      },
+      {
+        "icon": "rate",
+        "value": "12%/năm",
+        "title": "Lãi suất từ mức thấp",
+        "condition": "phù hợp khách ưu tiên chi phí vốn dễ kiểm soát"
+      },
+      {
+        "icon": "installment",
+        "value": "5.000+",
+        "title": "Đối tác trả góp 0%",
+        "condition": "phủ rộng nhiều nhu cầu mua sắm thiết yếu"
+      }
+    ]
+  },
+  {
+    "cardId": "BIDV_VISA_FLEXI_SAO_VANG",
+    "cardName": "BIDV Visa Flexi Sao Vàng",
+    "cardImagePortrait": "Design thẻ BIDV/Visa Sao vàng.png",
+    "cardImageLandscape": "Design thẻ BIDV/Visa Sao vàng.png",
+    "categories": ["Lực lượng vũ trang", "Miễn lãi", "Trả góp", "Ưu đãi riêng"],
+    "benefits": [
+      {
+        "icon": "army",
+        "value": "45 ngày",
+        "title": "Miễn lãi tối đa",
+        "condition": "giữ trải nghiệm sử dụng linh hoạt cho nhóm khách đặc thù"
+      },
+      {
+        "icon": "installment",
+        "value": "0%",
+        "title": "Trả góp tại hệ sinh thái đối tác",
+        "condition": "áp dụng trên hơn 5.000 điểm chấp nhận"
+      },
+      {
+        "icon": "star",
+        "value": "Ưu tiên",
+        "title": "Chính sách thiết kế riêng",
+        "condition": "dành cho lực lượng vũ trang nhân dân theo quy định phát hành"
+      }
+    ]
+  }
+]
