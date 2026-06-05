@@ -1,0 +1,312 @@
+{
+  "generatedAt": "2026-06-05",
+  "contactUrl": "https://card.nganhangso-hadong.online/",
+  "dataSource": "du lieu the/du-lieu-the-bidv.json",
+  "internetSources": [
+    "https://bidv.com.vn/vn/ca-nhan/san-pham-dich-vu/dich-vu-the/the-tin-dung-quoc-te/so-sanh-the",
+    "https://commons.wikimedia.org/wiki/File:Logo_BIDV.svg",
+    "https://www.cgv.vn/en/about-cgv/",
+    "https://www.agoda.com/about-agoda/a-bit-about-our-branding",
+    "https://commons.wikimedia.org/wiki/File:Shopee.svg"
+  ],
+  "brand": [
+    {
+      "type": "logo_svg",
+      "path": "public/assets/ui-kit/brand/bidv-logo.svg",
+      "size": "800x240",
+      "source": "logo BIDV/LOGO-XANH.png"
+    },
+    {
+      "type": "logo_png",
+      "path": "public/assets/ui-kit/brand/bidv-logo-800x240.png",
+      "size": "800x240",
+      "source": "logo BIDV/LOGO-XANH.png"
+    },
+    {
+      "type": "app_icon",
+      "path": "public/assets/ui-kit/brand/bidv-icon-512.png",
+      "size": "512x512",
+      "source": "drawn from BIDV brand colors"
+    }
+  ],
+  "cards": [
+    {
+      "card": "BIDV JCB Ultimate",
+      "path": "public/assets/ui-kit/cards/bidv-jcb-ultimate-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-jcb-ultimate-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV JCB Ultimate.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV JCB Hybrid",
+      "path": "public/assets/ui-kit/cards/bidv-jcb-hybrid-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-jcb-hybrid-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV JCB Hybrid.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV JCB Well-Being",
+      "path": "public/assets/ui-kit/cards/bidv-jcb-well-being-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-jcb-well-being-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV JCB Well-Being.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Cashback 360",
+      "path": "public/assets/ui-kit/cards/bidv-visa-cashback-360-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-cashback-360-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Cashback 360.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Private Banking",
+      "path": "public/assets/ui-kit/cards/bidv-private-banking-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-private-banking-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Private Banking.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Infinite",
+      "path": "public/assets/ui-kit/cards/bidv-visa-infinite-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-infinite-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Infinite.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Cashback Online",
+      "path": "public/assets/ui-kit/cards/bidv-visa-cashback-online-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-cashback-online-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Cashback Online.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Premier",
+      "path": "public/assets/ui-kit/cards/bidv-premier-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-premier-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Premier.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Debit SuperAds",
+      "path": "public/assets/ui-kit/cards/bidv-visa-debit-superads-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-debit-superads-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Debit SuperAds.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Flexi",
+      "path": "public/assets/ui-kit/cards/bidv-visa-flexi-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-flexi-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Flexi.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Business",
+      "path": "public/assets/ui-kit/cards/bidv-visa-business-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-business-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Business.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Mastercard Discovery",
+      "path": "public/assets/ui-kit/cards/bidv-mastercard-discovery-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-mastercard-discovery-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Mastercard Discovery.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Mastercard Business",
+      "path": "public/assets/ui-kit/cards/bidv-mastercard-business-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-mastercard-business-1200x760.webp",
+      "size": "1200x760",
+      "source": "generated placeholder because matching card image is missing",
+      "status": "placeholder"
+    },
+    {
+      "card": "BIDV Mastercard Ready",
+      "path": "public/assets/ui-kit/cards/bidv-mastercard-ready-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-mastercard-ready-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Mastercard Ready.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Mastercard Moneyverse",
+      "path": "public/assets/ui-kit/cards/bidv-mastercard-moneyverse-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-mastercard-moneyverse-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Mastercard Moneyverse.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Visa Easy",
+      "path": "public/assets/ui-kit/cards/bidv-visa-easy-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-visa-easy-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Visa Easy.png",
+      "status": "source_image"
+    },
+    {
+      "card": "BIDV Mastercard World Travel",
+      "path": "public/assets/ui-kit/cards/bidv-mastercard-world-travel-1200x760.png",
+      "webp": "public/assets/ui-kit/cards/bidv-mastercard-world-travel-1200x760.webp",
+      "size": "1200x760",
+      "source": "public/assets/cards/BIDV Mastercard World Travel.png",
+      "status": "source_image"
+    }
+  ],
+  "hero_cluster": {
+    "path": "public/assets/ui-kit/hero/bidv-card-cluster-1600x1200.png",
+    "webp": "public/assets/ui-kit/hero/bidv-card-cluster-1600x1200.webp",
+    "size": "1600x1200"
+  },
+  "hero_backgrounds": [
+    {
+      "path": "public/assets/ui-kit/hero/hero-bg-desktop-1920x1080.webp",
+      "size": "1920x1080",
+      "source": "local cards + BIDV comparison page visual facts"
+    },
+    {
+      "path": "public/assets/ui-kit/hero/hero-bg-mobile-1080x1920.webp",
+      "size": "1080x1920",
+      "source": "local cards + BIDV comparison page visual facts"
+    }
+  ],
+  "promotion_banners": [
+    {
+      "group": "travel",
+      "title": "Ưu đãi du lịch",
+      "path": "public/assets/ui-kit/promotions/promo-travel-1600x900.webp",
+      "size": "1600x900"
+    },
+    {
+      "group": "dining",
+      "title": "Ẩm thực & giải trí",
+      "path": "public/assets/ui-kit/promotions/promo-dining-1600x900.webp",
+      "size": "1600x900"
+    },
+    {
+      "group": "cashback",
+      "title": "Hoàn tiền",
+      "path": "public/assets/ui-kit/promotions/promo-cashback-1600x900.webp",
+      "size": "1600x900"
+    },
+    {
+      "group": "online",
+      "title": "Mua sắm online",
+      "path": "public/assets/ui-kit/promotions/promo-online-1600x900.webp",
+      "size": "1600x900"
+    },
+    {
+      "group": "new-card",
+      "title": "Mở mới thẻ",
+      "path": "public/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+      "size": "1600x900"
+    },
+    {
+      "group": "wellbeing",
+      "title": "Sức khỏe & gia đình",
+      "path": "public/assets/ui-kit/promotions/promo-wellbeing-1600x900.webp",
+      "size": "1600x900"
+    }
+  ],
+  "promotion_icons": [
+    {
+      "group": "travel",
+      "svg": "public/assets/ui-kit/icons/icon-travel.svg",
+      "png": "public/assets/ui-kit/icons/icon-travel-256.png",
+      "size": "256x256"
+    },
+    {
+      "group": "dining",
+      "svg": "public/assets/ui-kit/icons/icon-dining.svg",
+      "png": "public/assets/ui-kit/icons/icon-dining-256.png",
+      "size": "256x256"
+    },
+    {
+      "group": "cashback",
+      "svg": "public/assets/ui-kit/icons/icon-cashback.svg",
+      "png": "public/assets/ui-kit/icons/icon-cashback-256.png",
+      "size": "256x256"
+    },
+    {
+      "group": "online",
+      "svg": "public/assets/ui-kit/icons/icon-online.svg",
+      "png": "public/assets/ui-kit/icons/icon-online-256.png",
+      "size": "256x256"
+    },
+    {
+      "group": "new-card",
+      "svg": "public/assets/ui-kit/icons/icon-new-card.svg",
+      "png": "public/assets/ui-kit/icons/icon-new-card-256.png",
+      "size": "256x256"
+    },
+    {
+      "group": "wellbeing",
+      "svg": "public/assets/ui-kit/icons/icon-wellbeing.svg",
+      "png": "public/assets/ui-kit/icons/icon-wellbeing-256.png",
+      "size": "256x256"
+    }
+  ],
+  "partner_logos": [
+    {
+      "partner": "Shopee",
+      "svg": "public/assets/ui-kit/partners/partner-shopee.svg",
+      "png": "public/assets/ui-kit/partners/partner-shopee-400x200.png",
+      "size": "400x200"
+    },
+    {
+      "partner": "CGV",
+      "svg": "public/assets/ui-kit/partners/partner-cgv.svg",
+      "png": "public/assets/ui-kit/partners/partner-cgv-400x200.png",
+      "size": "400x200"
+    },
+    {
+      "partner": "agoda",
+      "svg": "public/assets/ui-kit/partners/partner-agoda.svg",
+      "png": "public/assets/ui-kit/partners/partner-agoda-400x200.png",
+      "size": "400x200"
+    },
+    {
+      "partner": "be",
+      "svg": "public/assets/ui-kit/partners/partner-be.svg",
+      "png": "public/assets/ui-kit/partners/partner-be-400x200.png",
+      "size": "400x200"
+    },
+    {
+      "partner": "Grab",
+      "svg": "public/assets/ui-kit/partners/partner-grab.svg",
+      "png": "public/assets/ui-kit/partners/partner-grab-400x200.png",
+      "size": "400x200"
+    },
+    {
+      "partner": "Starbucks",
+      "svg": "public/assets/ui-kit/partners/partner-starbucks.svg",
+      "png": "public/assets/ui-kit/partners/partner-starbucks-400x200.png",
+      "size": "400x200"
+    }
+  ],
+  "qr_contact": {
+    "png": "public/assets/ui-kit/qr/qr-lien-he-600x600.png",
+    "svg": "public/assets/ui-kit/qr/qr-lien-he.svg",
+    "size": "600x600",
+    "target": "https://card.nganhangso-hadong.online/"
+  },
+  "open_graph": {
+    "jpg": "public/assets/ui-kit/open-graph/bidv-og-1200x630.jpg",
+    "webp": "public/assets/ui-kit/open-graph/bidv-og-1200x630.webp",
+    "size": "1200x630"
+  }
+}
