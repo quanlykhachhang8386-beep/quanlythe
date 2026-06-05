@@ -1,0 +1,38 @@
+[
+  {
+    "id": "agoda",
+    "name": "Agoda",
+    "group": "Du lịch",
+    "logo": "/assets/ui-kit/partners/partner-agoda.svg"
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "group": "Di chuyển",
+    "logo": "/assets/ui-kit/partners/partner-grab.svg"
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "group": "Mua sắm",
+    "logo": "/assets/ui-kit/partners/partner-shopee.svg"
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "group": "Ăn uống",
+    "logo": "/assets/ui-kit/partners/partner-starbucks.svg"
+  },
+  {
+    "id": "cgv",
+    "name": "CGV",
+    "group": "Giải trí",
+    "logo": "/assets/ui-kit/partners/partner-cgv.svg"
+  },
+  {
+    "id": "be",
+    "name": "Be",
+    "group": "Di chuyển",
+    "logo": "/assets/ui-kit/partners/partner-be.svg"
+  }
+]

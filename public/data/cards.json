@@ -1,0 +1,965 @@
+[
+  {
+    "id": "bidv-jcb-ultimate",
+    "name": "BIDV JCB Ultimate",
+    "type": "Tín dụng quốc tế",
+    "tier": "Ultimate",
+    "organization": "JCB",
+    "status": "active",
+    "positioning": "Ẩm thực",
+    "image": "/assets/ui-kit/cards/bidv-jcb-ultimate-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20JCB%20Ultimate.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 800,000 đ/tháng",
+    "highlights": [
+      "20% hoàn tiền nhà hàng vào tháng sinh nhật",
+      "10% hoàn tiền nhà hàng các tháng còn lại",
+      "ShopeeFood: giảm từ 30K - 100K theo giá trị hóa đơn (dùng chung với JCB Well-being)",
+      "ẩm thực",
+      "nhà hàng"
+    ],
+    "details": [
+      "20% hoàn tiền nhà hàng vào tháng sinh nhật — không thẻ nào trong hệ thống BIDV vượt con số này",
+      "Ưu tiên tư vấn cho khách hàng chi tiêu nhà hàng thường xuyên, đặc biệt khách hàng có nhu cầu tối ưu hoàn tiền dịp sinh nhật."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách hàng cao cấp / đi công tác",
+        "needs": [
+          "Phòng chờ",
+          "Bảo hiểm",
+          "Hạn mức cao",
+          "Thanh toán nước ngoài"
+        ],
+        "objection": "Phí thường niên cao",
+        "advice": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "jcb-happy-weekend",
+      "jcb-ultimate-dining",
+      "promo-open-card-q2-2026",
+      "promo-foreign-spend-2026",
+      "promo-vietqr-thailand"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-jcb-hybrid",
+    "name": "BIDV JCB Hybrid",
+    "type": "Hybrid ghi nợ + tín dụng",
+    "tier": "Hybrid",
+    "organization": "JCB",
+    "status": "active",
+    "positioning": "Khách hàng số",
+    "image": "/assets/ui-kit/cards/bidv-jcb-hybrid-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20JCB%20Hybrid.png",
+    "annualFee": "Miễn phí trọn đời chỉ cần chi 500K tháng đầu (theo nội dung web)",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 100,000 đ/tháng",
+    "highlights": [
+      "20% hoàn tiền dịch vụ số: ChatGPT, Google Gemini (MCC 5734) — tối đa 100.000 VNĐ/tháng",
+      "Grab: giảm 10.000 VNĐ (Thứ 2–6, đơn ≥ 30.000 VNĐ) | 30.000 VNĐ (Thứ 7–CN, đơn ≥ 90.000 VNĐ)",
+      "1 thẻ vật lý — 2 chức năng: GHI NỢ (rút tiền ATM, ưu tiên số dư) + TÍN DỤNG (POS/online/hóa đơn)",
+      "AI",
+      "ChatGPT"
+    ],
+    "details": [
+      "1 thẻ, 2 tính năng — 20% hoàn tiền ChatGPT/Gemini, miễn phí trọn đời chỉ cần chi 500K tháng đầu",
+      "Phù hợp khách hàng dùng công cụ AI, Grab, thanh toán online; nhấn mạnh tiện ích 2 trong 1 để dễ mở và dễ dùng."
+    ],
+    "cautions": [
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách mua sắm online",
+        "needs": [
+          "Hoàn tiền",
+          "Ví điện tử",
+          "Mua sắm sàn TMĐT"
+        ],
+        "objection": "Tôi đã có thẻ ngân hàng khác",
+        "advice": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+      },
+      {
+        "name": "Khách mở thẻ lần đầu",
+        "needs": [
+          "Phí thấp",
+          "Dễ hiểu",
+          "Dễ kích hoạt",
+          "Hạn mức vừa phải"
+        ],
+        "objection": "Không rõ dùng thẻ tín dụng có lợi gì",
+        "advice": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "jcb-happy-weekend",
+      "promo-open-card-q2-2026",
+      "promo-loyal-loan-customer"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-jcb-well-being",
+    "name": "BIDV JCB Well-Being",
+    "type": "Tín dụng quốc tế",
+    "tier": "Well-Being",
+    "organization": "JCB",
+    "status": "active",
+    "positioning": "Y tế",
+    "image": "/assets/ui-kit/cards/bidv-jcb-well-being-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20JCB%20Well-Being.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+    "highlights": [
+      "10% hoàn tiền khi khám bệnh, mua thuốc, phòng khám (DS ≥ 10tr/tháng)",
+      "6% hoàn tiền bảo hiểm và thời trang",
+      "XanhSM: giảm 20% tối đa 50K/lượt (tối đa 2 lượt/tháng)",
+      "y tế",
+      "nhà thuốc"
+    ],
+    "details": [
+      "10% hoàn tiền mỗi lần khám bệnh, mua thuốc — thẻ duy nhất BIDV ưu tiên lĩnh vực y tế",
+      "Tư vấn cho khách hàng có chi tiêu định kỳ cho khám chữa bệnh, nhà thuốc, bảo hiểm hoặc gia đình có trẻ nhỏ/người lớn tuổi."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Gia đình chi tiêu đều",
+        "needs": [
+          "Siêu thị",
+          "Y tế",
+          "Giáo dục",
+          "Quản lý chi tiêu"
+        ],
+        "objection": "Sợ phát sinh nợ thẻ",
+        "advice": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "jcb-happy-weekend",
+      "jcb-wellbeing-care",
+      "promo-open-card-q2-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-cashback-360",
+    "name": "BIDV Visa Cashback 360",
+    "type": "Tín dụng quốc tế",
+    "tier": "Cashback",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Gia đình",
+    "image": "/assets/ui-kit/cards/bidv-visa-cashback-360-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Cashback%20360.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 600,000 đ/tháng",
+    "highlights": [
+      "10% hoàn tiền siêu thị khi chi > 10 triệu/tháng",
+      "2% hoàn tiền siêu thị khi chi ≤ 10 triệu/tháng",
+      "2% hoàn tiền y tế và giáo dục",
+      "siêu thị",
+      "giáo dục"
+    ],
+    "details": [
+      "Chi siêu thị trên 10 triệu/tháng? Phần vượt ngưỡng hoàn 10% — mua 15 triệu/tháng = hoàn ~500.000 VNĐ",
+      "Phù hợp khách hàng gia đình chi siêu thị lớn hàng tháng, có con đi học hoặc chi phí y tế/giáo dục đều đặn."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách mua sắm online",
+        "needs": [
+          "Hoàn tiền",
+          "Ví điện tử",
+          "Mua sắm sàn TMĐT"
+        ],
+        "objection": "Tôi đã có thẻ ngân hàng khác",
+        "advice": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+      },
+      {
+        "name": "Gia đình chi tiêu đều",
+        "needs": [
+          "Siêu thị",
+          "Y tế",
+          "Giáo dục",
+          "Quản lý chi tiêu"
+        ],
+        "objection": "Sợ phát sinh nợ thẻ",
+        "advice": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "visa-platinum-cashback",
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-private-banking",
+    "name": "BIDV Private Banking",
+    "type": "Tín dụng quốc tế",
+    "tier": "Private Banking",
+    "organization": "BIDV",
+    "status": "active",
+    "positioning": "Private Banking",
+    "image": "/assets/ui-kit/cards/bidv-private-banking-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Private%20Banking.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Tích lũy tối đa: 4,000,000 điểm (~13,333 dặm VNA)/tháng",
+    "highlights": [
+      "Phòng chờ sân bay quốc tế miễn phí (gói Lifestyle)",
+      "Fast track sân bay",
+      "Đặc quyền Golf VIP (gói Golfer)",
+      "private",
+      "dặm bay"
+    ],
+    "details": [
+      "6% dặm khi ăn nhà hàng và mua sắm nước ngoài — tương đương vé bay miễn phí sau mỗi chuyến công tác",
+      "Tư vấn cho khách hàng cao cấp, thường xuyên công tác/du lịch, cần đặc quyền sân bay, golf và tối ưu tích lũy dặm."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách hàng cao cấp / đi công tác",
+        "needs": [
+          "Phòng chờ",
+          "Bảo hiểm",
+          "Hạn mức cao",
+          "Thanh toán nước ngoài"
+        ],
+        "objection": "Phí thường niên cao",
+        "advice": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "visa-private",
+      "promo-foreign-spend-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-infinite",
+    "name": "BIDV Visa Infinite",
+    "type": "Tín dụng quốc tế",
+    "tier": "Infinite",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Khách hàng cao cấp",
+    "image": "/assets/ui-kit/cards/bidv-visa-infinite-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Infinite.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Tích lũy tối đa: 2,000,000 điểm (~6,667 dặm VNA)/tháng",
+    "highlights": [
+      "Phòng chờ QT: Không giới hạn chủ thẻ + 1 người thân (ga QT); Không giới hạn + 5 người thân (nội địa/fasttrack)",
+      "Ẩm thực: 2 voucher 3.500.000 VNĐ/lượt ẩm thực/năm; tặng thêm voucher khi chi tiêu tốt từng quý",
+      "Đặc quyền Golf hoặc khám sức khỏe chất lượng cao cho 2 người",
+      "Infinite",
+      "dặm bay"
+    ],
+    "details": [
+      "Cùng tỷ lệ 6% dặm như Private Banking — mở được cho mọi KH đủ điều kiện tín dụng",
+      "Đề xuất cho khách hàng thu nhập cao, đi sân bay thường xuyên, quan tâm lifestyle, golf, sức khỏe và ẩm thực cao cấp."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách hàng cao cấp / đi công tác",
+        "needs": [
+          "Phòng chờ",
+          "Bảo hiểm",
+          "Hạn mức cao",
+          "Thanh toán nước ngoài"
+        ],
+        "objection": "Phí thường niên cao",
+        "advice": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "visa-infinite-lifestyle",
+      "promo-foreign-spend-2026",
+      "promo-vietqr-thailand"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-cashback-online",
+    "name": "BIDV Visa Cashback Online",
+    "type": "Tín dụng quốc tế",
+    "tier": "Cashback",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Mua sắm online",
+    "image": "/assets/ui-kit/cards/bidv-visa-cashback-online-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Cashback%20Online.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 600,000 đ/tháng",
+    "highlights": [
+      "6% hoàn tiền Shopee & TikTokShop (DS ≥ 10tr/tháng)",
+      "3% hoàn tiền mua sắm online còn lại",
+      "Bảo hiểm du lịch toàn cầu tới 11,65 tỷ VNĐ",
+      "online",
+      "Shopee"
+    ],
+    "details": [
+      "6% hoàn tiền mỗi đơn Shopee/TikTok — mua 5 triệu/tháng = hoàn 300.000 VNĐ, đủ trả phí thường niên tháng",
+      "Phù hợp khách hàng mua sắm online nhiều, đặc biệt Shopee/TikTokShop; có thêm điểm cộng bảo hiểm du lịch."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách mua sắm online",
+        "needs": [
+          "Hoàn tiền",
+          "Ví điện tử",
+          "Mua sắm sàn TMĐT"
+        ],
+        "objection": "Tôi đã có thẻ ngân hàng khác",
+        "advice": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "visa-platinum-cashback",
+      "promo-open-card-q2-2026",
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-premier",
+    "name": "BIDV Premier",
+    "type": "Tín dụng quốc tế",
+    "tier": "Premier",
+    "organization": "BIDV",
+    "status": "active",
+    "positioning": "Premier",
+    "image": "/assets/ui-kit/cards/bidv-premier-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Premier.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Tích lũy tối đa: 2,000,000 điểm (~6,667 dặm VNA)/tháng",
+    "highlights": [
+      "5% hoàn tiền nhà hàng POS (hạng Premier)",
+      "3% tích dặm mua sắm nước ngoài & dining POS (hạng Premier Elite)",
+      "3% hoàn tiền mua vé máy bay (hạng Premier)",
+      "Premier",
+      "nhà hàng"
+    ],
+    "details": [
+      "5% hoàn tiền mỗi bữa ăn nhà hàng, 3% khi mua vé máy bay — thẻ tự trả phí chính nó",
+      "Tư vấn cho khách hàng ưu tiên, hay ăn nhà hàng, đặt vé máy bay, mua sắm nước ngoài và muốn vừa hoàn tiền vừa tích dặm."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách hàng cao cấp / đi công tác",
+        "needs": [
+          "Phòng chờ",
+          "Bảo hiểm",
+          "Hạn mức cao",
+          "Thanh toán nước ngoài"
+        ],
+        "objection": "Phí thường niên cao",
+        "advice": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "bidv-premier-privileges",
+      "promo-foreign-spend-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-debit-superads",
+    "name": "BIDV Visa Debit SuperAds",
+    "type": "Ghi nợ quốc tế",
+    "tier": "SuperAds",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Khách hàng chạy quảng cáo số",
+    "image": "/assets/ui-kit/cards/bidv-visa-debit-superads-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Debit%20SuperAds.png",
+    "annualFee": "0% phí chuyển đổi ngoại tệ Ecom/CNP",
+    "interestRate": "Không áp dụng với thẻ ghi nợ",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 300,000 đ/tháng",
+    "highlights": [
+      "5% hoàn tiền quảng cáo số (Facebook/Google/TikTok/Shopee Ads) — 60 ngày đầu",
+      "0% phí chuyển đổi ngoại tệ Ecom/CNP — tiết kiệm khi chạy ads quốc tế",
+      "Tối đa 12 thẻ hoạt động cùng lúc/KH — tách ngân sách từng chiến dịch",
+      "debit",
+      "quảng cáo"
+    ],
+    "details": [
+      "0% phí ngoại tệ + 5% hoàn tiền 60 ngày đầu + 12 thẻ tách ngân sách — thẻ duy nhất thiết kế riêng cho người chạy Ads",
+      "Tư vấn cho khách hàng chạy quảng cáo Facebook/Google/TikTok/Shopee, cần tách ngân sách chiến dịch và tiết kiệm phí ngoại tệ."
+    ],
+    "cautions": [
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Kinh doanh số / quảng cáo",
+        "needs": [
+          "Thanh toán quốc tế",
+          "Quảng cáo số",
+          "Tách chi phí"
+        ],
+        "objection": "Không muốn dùng hạn mức tín dụng",
+        "advice": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-flexi",
+    "name": "BIDV Visa Flexi",
+    "type": "Tín dụng quốc tế",
+    "tier": "Flexi",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Mass",
+    "image": "/assets/ui-kit/cards/bidv-visa-flexi-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Flexi.png",
+    "annualFee": "Phí thường niên thấp (300.000 VNĐ/năm)",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 400,000 đ/tháng",
+    "highlights": [
+      "2% hoàn tiền nhà hàng, mua online, du lịch (KH lương BIDV)",
+      "1% cho KH không trả lương qua BIDV",
+      "Phí thường niên thấp (300.000 VNĐ/năm)",
+      "Flexi",
+      "lương BIDV"
+    ],
+    "details": [
+      "KH nhận lương qua BIDV được hưởng 2% thay vì 1% — gấp đôi chỉ vì có tài khoản lương tại đây",
+      "Dễ tư vấn cho khách hàng trả lương qua BIDV; nhấn mạnh phí thấp, hoàn tiền tốt ở nhóm chi tiêu phổ biến."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Gia đình chi tiêu đều",
+        "needs": [
+          "Siêu thị",
+          "Y tế",
+          "Giáo dục",
+          "Quản lý chi tiêu"
+        ],
+        "objection": "Sợ phát sinh nợ thẻ",
+        "advice": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+      },
+      {
+        "name": "Khách mở thẻ lần đầu",
+        "needs": [
+          "Phí thấp",
+          "Dễ hiểu",
+          "Dễ kích hoạt",
+          "Hạn mức vừa phải"
+        ],
+        "objection": "Không rõ dùng thẻ tín dụng có lợi gì",
+        "advice": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "visa-classic-starter",
+      "promo-open-card-q2-2026",
+      "promo-loyal-loan-customer",
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-business",
+    "name": "BIDV Visa Business",
+    "type": "Thẻ doanh nghiệp",
+    "tier": "Business",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Doanh nghiệp",
+    "image": "/assets/ui-kit/cards/bidv-visa-business-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Business.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+    "highlights": [
+      "2% hoàn tiền nhà hàng và khách sạn",
+      "1% hoàn tiền quảng cáo (GD ≥ 3tr)",
+      "Cap 3.000.000 điểm/kỳ/CIF doanh nghiệp",
+      "doanh nghiệp",
+      "nhà hàng"
+    ],
+    "details": [
+      "2% hoàn tiền nhà hàng & khách sạn cho doanh nghiệp — tối đa 3 triệu điểm/kỳ",
+      "Phù hợp doanh nghiệp có chi phí tiếp khách, khách sạn, công tác và quảng cáo; nhấn mạnh kiểm soát chi phí doanh nghiệp."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Kinh doanh số / quảng cáo",
+        "needs": [
+          "Thanh toán quốc tế",
+          "Quảng cáo số",
+          "Tách chi phí"
+        ],
+        "objection": "Không muốn dùng hạn mức tín dụng",
+        "advice": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam"
+    ],
+    "promotionIds": [],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-mastercard-discovery",
+    "name": "BIDV Mastercard Discovery",
+    "type": "Ghi nợ quốc tế",
+    "tier": "Discovery",
+    "organization": "Mastercard",
+    "status": "active",
+    "positioning": "Du lịch nước ngoài",
+    "image": "/assets/ui-kit/cards/bidv-mastercard-discovery-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Mastercard%20Discovery.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Không áp dụng với thẻ ghi nợ",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+    "highlights": [
+      "1% hoàn quà khi quẹt thẻ ở nước ngoài",
+      "0,3% mọi giao dịch trong nước",
+      "Kiểm soát chi tiêu tốt (ghi nợ)",
+      "Mastercard",
+      "debit"
+    ],
+    "details": [
+      "1% hoàn quà khi quẹt thẻ ở nước ngoài, chi trong khả năng vì là thẻ ghi nợ",
+      "Tư vấn cho khách chưa muốn dùng tín dụng nhưng cần thẻ quốc tế, hay đi nước ngoài hoặc mua hàng quốc tế."
+    ],
+    "cautions": [
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Kinh doanh số / quảng cáo",
+        "needs": [
+          "Thanh toán quốc tế",
+          "Quảng cáo số",
+          "Tách chi phí"
+        ],
+        "objection": "Không muốn dùng hạn mức tín dụng",
+        "advice": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam"
+    ],
+    "promotionIds": [
+      "mastercard-travel-priceless"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-mastercard-business",
+    "name": "BIDV Mastercard Business",
+    "type": "Ghi nợ doanh nghiệp",
+    "tier": "Business",
+    "organization": "Mastercard",
+    "status": "active",
+    "positioning": "Doanh nghiệp",
+    "image": "/assets/ui-kit/cards/bidv-mastercard-business-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Mastercard%20Business.png",
+    "annualFee": "Cần kiểm chứng theo biểu phí BIDV",
+    "interestRate": "Không áp dụng với thẻ ghi nợ",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+    "highlights": [
+      "1% hoàn tiền nhà hàng và khách sạn",
+      "0,5% hoàn tiền quảng cáo (GD ≥ 3tr)",
+      "Thẻ ghi nợ — kiểm soát chi tiêu",
+      "Mastercard",
+      "doanh nghiệp"
+    ],
+    "details": [
+      "Thẻ ghi nợ doanh nghiệp — kiểm soát chi phí nhà hàng/khách sạn, hoàn 1% mỗi giao dịch",
+      "Tư vấn cho doanh nghiệp muốn cấp thẻ chi tiêu nhưng vẫn kiểm soát được dòng tiền vì là thẻ ghi nợ."
+    ],
+    "cautions": [
+      "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Kinh doanh số / quảng cáo",
+        "needs": [
+          "Thanh toán quốc tế",
+          "Quảng cáo số",
+          "Tách chi phí"
+        ],
+        "objection": "Không muốn dùng hạn mức tín dụng",
+        "advice": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam"
+    ],
+    "promotionIds": [
+      "mastercard-travel-priceless"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-mastercard-ready",
+    "name": "BIDV Mastercard Ready",
+    "type": "Tín dụng quốc tế",
+    "tier": "Ready",
+    "organization": "Mastercard",
+    "status": "active",
+    "positioning": "Khách hàng mới bắt đầu dùng ",
+    "image": "/assets/ui-kit/cards/bidv-mastercard-ready-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Mastercard%20Ready.png",
+    "annualFee": "Miễn phí năm đầu cho mọi KH; KHCC/nội bộ miễn phí 2 năm đầu",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tối đa lên tới: 300,000 đ/tháng",
+    "highlights": [
+      "Phí thường niên thấp nhất danh mục BIDV",
+      "Miễn phí năm đầu cho mọi KH",
+      "KHCC/nội bộ: miễn phí 2 năm đầu",
+      "Mastercard",
+      "phí thấp"
+    ],
+    "details": [
+      "Phí thường niên thấp nhất danh mục BIDV — thẻ để bắt đầu, không điều kiện phức tạp",
+      "Tư vấn cho khách hàng mới mở thẻ, nhạy cảm với phí thường niên và muốn sản phẩm dễ bắt đầu."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách mở thẻ lần đầu",
+        "needs": [
+          "Phí thấp",
+          "Dễ hiểu",
+          "Dễ kích hoạt",
+          "Hạn mức vừa phải"
+        ],
+        "objection": "Không rõ dùng thẻ tín dụng có lợi gì",
+        "advice": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "visa-classic-starter",
+      "mastercard-travel-priceless",
+      "promo-open-card-q2-2026",
+      "promo-loyal-loan-customer",
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-mastercard-moneyverse",
+    "name": "BIDV Mastercard Moneyverse",
+    "type": "Tín dụng quốc tế",
+    "tier": "Moneyverse",
+    "organization": "Mastercard",
+    "status": "active",
+    "positioning": "Khách hàng thích tích điểm k",
+    "image": "/assets/ui-kit/cards/bidv-mastercard-moneyverse-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Mastercard%20Moneyverse.png",
+    "annualFee": "Miễn phí 2 năm đầu cho 100% khách hàng",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Hoàn tiền tích điểm: KHÔNG GIỚI HẠN!",
+    "highlights": [
+      "Miễn phí 2 năm đầu cho 100% khách hàng (kể cả KH thông thường)",
+      "Không giới hạn điểm tích lũy hàng tháng",
+      "Tích điểm theo ngày — không cần đạt ngưỡng DS tháng",
+      "Mastercard",
+      "Moneyverse"
+    ],
+    "details": [
+      "Miễn phí 2 năm đầu cho tất cả — không giới hạn điểm tháng, tích mỗi ngày không cần điều kiện",
+      "Phù hợp khách hàng không muốn bị ràng buộc ngưỡng doanh số tháng và thích tích điểm đều đặn hằng ngày."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách mua sắm online",
+        "needs": [
+          "Hoàn tiền",
+          "Ví điện tử",
+          "Mua sắm sàn TMĐT"
+        ],
+        "objection": "Tôi đã có thẻ ngân hàng khác",
+        "advice": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "mastercard-travel-priceless"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-visa-easy",
+    "name": "BIDV Visa Easy",
+    "type": "Tín dụng quốc tế",
+    "tier": "Easy",
+    "organization": "Visa",
+    "status": "active",
+    "positioning": "Mass",
+    "image": "/assets/ui-kit/cards/bidv-visa-easy-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Visa%20Easy.png",
+    "annualFee": "Phí thường niên 200.000 VNĐ/năm; lãi suất từ 12%/năm",
+    "interestRate": "Phí thường niên 200.000 VNĐ/năm; lãi suất từ 12%/năm",
+    "rewardLimit": "Chưa thấy hạn mức hoàn tiền/tích điểm trong nội dung trích xuất",
+    "highlights": [
+      "Phí thường niên thấp nhất dòng tín dụng BIDV: 200.000 VNĐ/năm",
+      "Trả góp 0% lãi suất tại hơn 5.000 đối tác liên kết",
+      "Lãi suất từ 12%/năm (theo biểu phí niêm yết 21/11/2025)",
+      "Visa",
+      "Easy"
+    ],
+    "details": [
+      "Phí thấp nhất tín dụng BIDV — 200.000/năm, trả góp 0%, quản lý qua SmartBanking",
+      "Thẻ mở rộng tập khách hàng mới, phù hợp khách muốn thẻ tín dụng phí thấp, quản lý dễ trên SmartBanking, có nhu cầu trả góp."
+    ],
+    "cautions": [
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Gia đình chi tiêu đều",
+        "needs": [
+          "Siêu thị",
+          "Y tế",
+          "Giáo dục",
+          "Quản lý chi tiêu"
+        ],
+        "objection": "Sợ phát sinh nợ thẻ",
+        "advice": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+      },
+      {
+        "name": "Khách mở thẻ lần đầu",
+        "needs": [
+          "Phí thấp",
+          "Dễ hiểu",
+          "Dễ kích hoạt",
+          "Hạn mức vừa phải"
+        ],
+        "objection": "Không rõ dùng thẻ tín dụng có lợi gì",
+        "advice": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+      }
+    ],
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop"
+    ],
+    "promotionIds": [
+      "visa-classic-starter",
+      "promo-open-card-q2-2026",
+      "promo-loyal-loan-customer",
+      "promo-google-pay-2026"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  },
+  {
+    "id": "bidv-mastercard-world-travel",
+    "name": "BIDV Mastercard World Travel",
+    "type": "Tín dụng quốc tế",
+    "tier": "World Travel",
+    "organization": "Mastercard",
+    "status": "active",
+    "positioning": "Du lịch",
+    "image": "/assets/ui-kit/cards/bidv-mastercard-world-travel-1200x760.webp",
+    "fallbackImage": "/assets/cards/BIDV%20Mastercard%20World%20Travel.png",
+    "annualFee": "0% phí ngoại tệ; nội dung định vị nhắc tầm 1,6tr/năm",
+    "interestRate": "Cần kiểm chứng theo biểu phí BIDV",
+    "rewardLimit": "Chưa thấy hạn mức hoàn tiền/tích điểm trong nội dung trích xuất",
+    "highlights": [
+      "Phòng chờ QT: 1 lượt/KH/quý (tối đa 4 lượt/năm)",
+      "Phòng chờ nội địa ga quốc tế: 1 lượt/quý (tối đa 4 lượt/năm)",
+      "Bảo hiểm du lịch và trễ chuyến lên đến 11,65 tỷ VNĐ",
+      "Mastercard",
+      "travel"
+    ],
+    "details": [
+      "0% phí ngoại tệ + phòng chờ sân bay không cần đặt trước + bảo hiểm 11,65 tỷ — thẻ du lịch toàn diện nhất tầm 1,6tr/năm",
+      "Tư vấn cho khách hàng du lịch/công tác, cần 0% phí ngoại tệ, phòng chờ sân bay và bảo hiểm du lịch."
+    ],
+    "cautions": [
+      "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+      "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+    ],
+    "customerSegments": [
+      {
+        "name": "Khách hàng cao cấp / đi công tác",
+        "needs": [
+          "Phòng chờ",
+          "Bảo hiểm",
+          "Hạn mức cao",
+          "Thanh toán nước ngoài"
+        ],
+        "objection": "Phí thường niên cao",
+        "advice": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+      }
+    ],
+    "needGroups": [
+      "du-lich",
+      "hoan-tien",
+      "an-uong",
+      "mua-sam",
+      "tra-gop",
+      "khach-hang-cao-cap"
+    ],
+    "promotionIds": [
+      "mastercard-travel-priceless",
+      "promo-open-card-q2-2026",
+      "promo-foreign-spend-2026",
+      "promo-vietqr-thailand"
+    ],
+    "sourceUrl": "https://card.nganhangso-hadong.online/"
+  }
+]

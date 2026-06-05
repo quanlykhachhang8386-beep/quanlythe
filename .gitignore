@@ -1,14 +1,11 @@
-.DS_Store
 node_modules/
 dist/
-build/
-coverage/
-*.log
-
-# Source design archives and editable artwork are kept locally.
-Design thẻ BIDV/
-Design thẻ BIDV/
-Design thẻ BIDV-*.zip
-Design thẻ BIDV-*.zip
-*.ai
-
+.DS_Store
+.vite/
+.codex_deps/
+*.docx
+*.pdf
+*.xlsx
+logo BIDV/
+the chuan hoa/
+scripts/build-ui-assets.py

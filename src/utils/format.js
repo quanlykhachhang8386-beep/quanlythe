@@ -1,33 +1,31 @@
-export const today = new Date("2026-05-31T00:00:00+07:00");
-
-export const daysBetween = (dateString) => {
-  const target = new Date(`${dateString}T00:00:00+07:00`);
-  return Math.ceil((target - today) / 86400000);
+export const statusMeta = {
+  active: { label: "Đang áp dụng", className: "bg-emerald-100 text-emerald-800" },
+  ending: { label: "Sắp hết hạn", className: "bg-amber-100 text-amber-800" },
+  ended: { label: "Đã kết thúc", className: "bg-slate-200 text-slate-700" }
 };
 
-export const promotionStatusLabel = (promotion) => {
-  const days = daysBetween(promotion.endDate);
-  if (days < 0) return "Đã kết thúc";
-  if (days <= 7) return "Sắp hết hạn";
-  if (new Date(`${promotion.startDate}T00:00:00+07:00`) > today) return "Sắp diễn ra";
-  return "Đang chạy";
-};
+export function formatDate(value) {
+  if (!value) return "Đang cập nhật";
+  return new Intl.DateTimeFormat("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric" }).format(
+    new Date(`${value}T00:00:00+07:00`)
+  );
+}
 
-export const formatDate = (dateString) => {
-  const [year, month, day] = dateString.split("-");
-  return `${day}/${month}/${year}`;
-};
-
-export const normalizeText = (value) =>
-  String(value || "")
-    .toLowerCase()
+export function normalizeText(value) {
+  return String(value || "")
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
 
-export const escapeHtml = (value) =>
-  String(value ?? "")
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+export function joinSearchText(item) {
+  return normalizeText(JSON.stringify(item));
+}
+
+export function getPromotionStatus(promotion) {
+  return statusMeta[promotion.status] || statusMeta.active;
+}
+
+export function hasEndingWarning(promotion) {
+  return promotion.status === "ending" || (promotion.status === "active" && promotion.daysLeft <= 30);
+}

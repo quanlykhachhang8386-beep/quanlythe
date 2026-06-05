@@ -1,0 +1,626 @@
+[
+  {
+    "id": "visa-private",
+    "title": "Đặc quyền BIDV Visa Private Banking",
+    "cardIds": [
+      "bidv-private-banking"
+    ],
+    "cardNames": [
+      "BIDV Private Banking"
+    ],
+    "organization": "Visa",
+    "group": "Khách hàng cao cấp",
+    "needGroups": [
+      "du-lich",
+      "an-uong",
+      "khach-hang-cao-cap"
+    ],
+    "status": "active",
+    "startDate": "2025-06-01",
+    "endDate": "2026-12-31",
+    "image": "/assets/ui-kit/promotions/promo-travel-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1f0C2Dj6urWYWdC8MS1kS4rDvRQRX9_SO/edit?slide=id.p9#slide=id.p9",
+    "summary": "Bộ đặc quyền cao cấp cho khách hàng Private Banking: golf, phòng chờ, fasttrack, bảo hiểm du lịch, dining và ưu đãi Visa toàn cầu.",
+    "benefits": [
+      "Miễn phí phát hành, thường niên và phạt chậm thanh toán theo gói Private Banking.",
+      "Tặng 10 lượt chơi golf tại 30 sân golf hàng đầu Việt Nam.",
+      "Không giới hạn phòng chờ và dịch vụ fasttrack theo điều kiện chương trình.",
+      "Tích điểm 6% tối đa 4 triệu điểm tại spa, golf, nghỉ dưỡng, cửa hàng miễn thuế nước ngoài.",
+      "Bảo hiểm du lịch toàn cầu đến 1.000.000 USD."
+    ],
+    "conditions": [
+      "Điều kiện sử dụng theo hạng thẻ và chính sách từng thời kỳ.",
+      "Một số ưu đãi Visa áp dụng theo đối tác, quốc gia và thời gian riêng."
+    ],
+    "tags": [
+      "Private",
+      "Golf",
+      "Fasttrack",
+      "Dining",
+      "Visa"
+    ],
+    "daysLeft": 210,
+    "partnerIds": []
+  },
+  {
+    "id": "visa-infinite-lifestyle",
+    "title": "Đặc quyền BIDV Visa Infinite",
+    "cardIds": [
+      "bidv-visa-infinite"
+    ],
+    "cardNames": [
+      "BIDV Visa Infinite"
+    ],
+    "organization": "Visa",
+    "group": "Khách hàng cao cấp",
+    "needGroups": [
+      "du-lich",
+      "an-uong",
+      "khach-hang-cao-cap"
+    ],
+    "status": "active",
+    "startDate": "2025-06-01",
+    "endDate": "2026-12-31",
+    "image": "/assets/ui-kit/promotions/promo-travel-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1Rej70edZ4Km3cwhmEK3MEgdAtflRW6hO/edit?slide=id.p1#slide=id.p1",
+    "summary": "Gói Lifestyle/Golfer cho Visa Infinite với phòng chờ, fasttrack, ẩm thực, sức khỏe, nghỉ dưỡng, golf và tích điểm cao cấp.",
+    "benefits": [
+      "Gói phí thường niên 5 triệu, 15 triệu và 30 triệu với quyền lợi khác nhau.",
+      "Lifestyle: phòng chờ, fasttrack, ẩm thực, sức khỏe, nghỉ dưỡng.",
+      "Golfer: tặng tới 10 lượt chơi golf theo gói phí.",
+      "Miễn phí thường niên khi đạt doanh số 200 triệu, 500 triệu hoặc 1 tỷ tùy gói.",
+      "Tích điểm 6% tối đa 4 triệu điểm và bảo hiểm du lịch toàn cầu đến 1.000.000 USD."
+    ],
+    "conditions": [
+      "Quyền lợi phụ thuộc gói phí thường niên đã chọn.",
+      "Ưu đãi theo doanh số tính theo quý hoặc năm phí tùy chương trình."
+    ],
+    "tags": [
+      "Infinite",
+      "Lifestyle",
+      "Golfer",
+      "Phòng chờ"
+    ],
+    "daysLeft": 210,
+    "partnerIds": []
+  },
+  {
+    "id": "bidv-premier-privileges",
+    "title": "Đặc quyền BIDV Premier",
+    "cardIds": [
+      "bidv-premier"
+    ],
+    "cardNames": [
+      "BIDV Premier"
+    ],
+    "organization": "BIDV",
+    "group": "Khách hàng cao cấp",
+    "needGroups": [
+      "du-lich",
+      "an-uong",
+      "khach-hang-cao-cap"
+    ],
+    "status": "active",
+    "startDate": "2025-06-01",
+    "endDate": "2026-12-31",
+    "image": "/assets/ui-kit/promotions/promo-wellbeing-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1fkbfxL0cQF40Vbx3hLAZyXOkdiak5dNR/edit",
+    "summary": "Đặc quyền dành cho khách hàng BIDV Premier/Premier Elite: bảo hiểm, phòng chờ, sức khỏe, nghỉ dưỡng và ưu đãi Visa cao cấp.",
+    "benefits": [
+      "Miễn phí phát hành, thường niên và phạt chậm theo chính sách Premier.",
+      "Tặng bảo hiểm du lịch toàn cầu trị giá 500.000 USD.",
+      "Premier Elite tích điểm 3% ở golf, spa, nghỉ dưỡng, giải trí và miễn thuế nước ngoài.",
+      "Premier tích điểm 5% tại bệnh viện/fitness và 2% cho bảo hiểm.",
+      "Quyền lợi phòng chờ trong nước, chăm sóc sức khỏe và nghỉ dưỡng."
+    ],
+    "conditions": [
+      "Áp dụng theo phân hạng Premier/Premier Elite.",
+      "Cần kiểm tra chính sách tại thời điểm tư vấn."
+    ],
+    "tags": [
+      "Premier",
+      "Elite",
+      "Sức khỏe",
+      "Nghỉ dưỡng"
+    ],
+    "daysLeft": 210,
+    "partnerIds": [
+      "be"
+    ]
+  },
+  {
+    "id": "visa-platinum-cashback",
+    "title": "Ưu đãi thẻ Visa hạng Platinum",
+    "cardIds": [
+      "bidv-visa-cashback-360",
+      "bidv-visa-cashback-online"
+    ],
+    "cardNames": [
+      "BIDV Visa Cashback 360",
+      "BIDV Visa Cashback Online"
+    ],
+    "organization": "Visa",
+    "group": "Hoàn tiền",
+    "needGroups": [
+      "hoan-tien",
+      "mua-sam",
+      "an-uong",
+      "du-lich"
+    ],
+    "status": "active",
+    "startDate": "2026-04-01",
+    "endDate": "2026-09-30",
+    "image": "/assets/ui-kit/promotions/promo-cashback-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1DvD9FgwdWbSQ-ziBb47URMPNh4szO_3MB1SUo8BEF-U/edit?hl=en-GB&slide=id.g3d5bac58b3c_2_41#slide=id.g3d5bac58b3c_2_41",
+    "summary": "Ưu đãi mở thẻ, hoàn tiền, trả góp và hệ sinh thái Visa cho nhóm Cashback 360/Cashback Online.",
+    "benefits": [
+      "Mở thẻ 0 phí và hoàn tới 1.000.000 VND khi gán Apple Pay/Google Pay, phát sinh giao dịch trong 30 ngày đầu.",
+      "Cashback 360 hoàn tới 10% lĩnh vực siêu thị.",
+      "Cashback Online hoàn 6% tại Tiki, Shopee, Lazada, TikTok Shop.",
+      "Trả góp 0% cho giao dịch từ 3 triệu đồng.",
+      "Ưu đãi Starbucks, Trip, CGV, Metro Hà Nội, Shopee, Klook, Agoda, Hotels.com, IHG, Expedia."
+    ],
+    "conditions": [
+      "Một số chương trình có ngân sách và khung giờ áp dụng.",
+      "Ưu đãi Visa có thể thay đổi theo chính sách từng thời kỳ."
+    ],
+    "tags": [
+      "Platinum",
+      "Cashback",
+      "Apple Pay",
+      "Google Pay"
+    ],
+    "daysLeft": 118,
+    "partnerIds": [
+      "agoda",
+      "shopee",
+      "starbucks",
+      "cgv"
+    ]
+  },
+  {
+    "id": "visa-classic-starter",
+    "title": "Ưu đãi thẻ tín dụng hạng Classic",
+    "cardIds": [
+      "bidv-visa-easy",
+      "bidv-visa-flexi",
+      "bidv-mastercard-ready"
+    ],
+    "cardNames": [
+      "BIDV Visa Easy",
+      "BIDV Visa Flexi",
+      "BIDV Mastercard Ready"
+    ],
+    "organization": "Visa/Mastercard",
+    "group": "Trả góp",
+    "needGroups": [
+      "tra-gop",
+      "hoan-tien",
+      "mua-sam"
+    ],
+    "status": "active",
+    "startDate": "2026-04-01",
+    "endDate": "2026-09-30",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1RlQpQ1HqPnkevBL4RquF6bqvT_VIrbBJWuWQiyHnaJE/edit?slide=id.g366d6ed8d97_2_77#slide=id.g366d6ed8d97_2_77",
+    "summary": "Gói ưu đãi dễ tiếp cận cho khách mới: miễn phí, hoàn tiền ví, hoàn tới 2% và trả góp 0%.",
+    "benefits": [
+      "Miễn phí phát hành.",
+      "Miễn phí thường niên năm đầu khi chi tiêu tối thiểu 500.000 VND trong 30 ngày.",
+      "Miễn phí thường niên trọn đời khi chi tiêu thẻ từ 10 triệu VND/năm theo chính sách từng thời kỳ.",
+      "Hoàn tới 500.000 VND khi gán Apple Pay/Google Pay và chi tiêu trong 30 ngày đầu.",
+      "Hoàn tới 2% tại nhà hàng, đại lý du lịch online, sàn TMĐT và bảo hiểm Metlife."
+    ],
+    "conditions": [
+      "Điều kiện miễn phí thường niên theo đối tượng khách hàng và địa bàn từng thời kỳ.",
+      "Phí chuyển đổi trả góp chủ động chỉ từ 1,99%."
+    ],
+    "tags": [
+      "Classic",
+      "Mở thẻ",
+      "Trả góp",
+      "Phí thấp"
+    ],
+    "daysLeft": 118,
+    "partnerIds": []
+  },
+  {
+    "id": "jcb-happy-weekend",
+    "title": "Tổng hợp ưu đãi JCB Happy Weekend",
+    "cardIds": [
+      "bidv-jcb-ultimate",
+      "bidv-jcb-well-being",
+      "bidv-jcb-hybrid"
+    ],
+    "cardNames": [
+      "BIDV JCB Ultimate",
+      "BIDV JCB Well-Being",
+      "BIDV JCB Hybrid"
+    ],
+    "organization": "JCB",
+    "group": "Ăn uống",
+    "needGroups": [
+      "an-uong",
+      "mua-sam",
+      "hoan-tien"
+    ],
+    "status": "ending",
+    "startDate": "2026-04-11",
+    "endDate": "2026-06-30",
+    "image": "/assets/ui-kit/promotions/promo-dining-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1hkuj9WuJBMJc7JVm0lF18kqo4Viy_J1q/edit?slide=id.g3d3d7bc7aa0_2_48#slide=id.g3d3d7bc7aa0_2_48",
+    "summary": "Các ưu đãi JCB nổi bật cuối tuần: KOI Thé, NITORI, Jollibee, Apple Pay JCB, ẩm thực và chăm sóc sức khỏe.",
+    "benefits": [
+      "KOI Thé/KOI Cafe: ưu đãi 30% tối đa 50K cho hóa đơn từ 100K.",
+      "NITORI: ưu đãi 300K cho hóa đơn từ 2 triệu đồng.",
+      "Jollibee: ưu đãi 30% tối đa 100K cho hóa đơn từ 200K.",
+      "Apple Pay JCB: Gong Cha giảm 40K, CGV mua 2 vé 2D giá 89K, Sushi Hokkaido Sachi giảm 200K.",
+      "Ẩm thực tới 30% tại hơn 100 nhà hàng và sức khỏe tới 50% tại hơn 100 địa điểm."
+    ],
+    "conditions": [
+      "Nhiều ưu đãi áp dụng thứ Bảy, Chủ nhật hằng tuần đến 30/06/2026.",
+      "Cần kiểm tra số lượt tối đa theo tuần/tháng/thẻ."
+    ],
+    "tags": [
+      "JCB",
+      "Happy Weekend",
+      "KOI",
+      "CGV",
+      "Sức khỏe"
+    ],
+    "daysLeft": 26,
+    "partnerIds": [
+      "cgv",
+      "be"
+    ]
+  },
+  {
+    "id": "jcb-ultimate-dining",
+    "title": "Ưu đãi BIDV JCB Ultimate",
+    "cardIds": [
+      "bidv-jcb-ultimate"
+    ],
+    "cardNames": [
+      "BIDV JCB Ultimate"
+    ],
+    "organization": "JCB",
+    "group": "Ăn uống",
+    "needGroups": [
+      "an-uong",
+      "hoan-tien",
+      "du-lich"
+    ],
+    "status": "active",
+    "startDate": "2026-04-01",
+    "endDate": "2026-12-31",
+    "image": "/assets/ui-kit/promotions/promo-dining-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1lb0UHV3dsPGBAZcUd8mqzPAmfL9xbVqhHtkRId_yP9I/edit?slide=id.g3d5f1f49c9a_0_108#slide=id.g3d5f1f49c9a_0_108",
+    "summary": "Ưu đãi ẩm thực và hoàn tiền nổi bật cho JCB Ultimate, đặc biệt trong tháng sinh nhật và khi chi tiêu tại Nhật Bản.",
+    "benefits": [
+      "Miễn phí thường niên năm đầu khi chi tiêu từ 1.000.000 VND trong 30 ngày.",
+      "Hoàn đến 1.000.000 VND khi gán Apple Pay/Google Pay và chi tiêu từ 200.000 VND trong 30 ngày.",
+      "Tích điểm 20% chi tiêu ẩm thực tại Việt Nam trong tháng sinh nhật.",
+      "Tích điểm 10% chi tiêu ẩm thực tại Việt Nam các tháng còn lại.",
+      "Tích điểm 15% chi tiêu ẩm thực tại Nhật Bản và hoàn 100% phí chuyển đổi ngoại tệ khi giao dịch tại Nhật."
+    ],
+    "conditions": [
+      "Hoàn tiền tối đa 800.000 VND/tháng.",
+      "Điều kiện giao dịch áp dụng theo thể lệ BIDV/JCB."
+    ],
+    "tags": [
+      "Ultimate",
+      "Ẩm thực",
+      "Nhật Bản",
+      "Sinh nhật"
+    ],
+    "daysLeft": 210,
+    "partnerIds": []
+  },
+  {
+    "id": "jcb-wellbeing-care",
+    "title": "Ưu đãi BIDV JCB Well-Being",
+    "cardIds": [
+      "bidv-jcb-well-being"
+    ],
+    "cardNames": [
+      "BIDV JCB Well-Being"
+    ],
+    "organization": "JCB",
+    "group": "Hoàn tiền",
+    "needGroups": [
+      "hoan-tien",
+      "an-uong",
+      "mua-sam"
+    ],
+    "status": "active",
+    "startDate": "2026-04-01",
+    "endDate": "2027-01-14",
+    "image": "/assets/ui-kit/promotions/promo-wellbeing-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1-vVP0xYW2i9wxuxIPiukEA34ATyNaV3nrHojnZaD7LM/edit?slide=id.g36b9114b5fd_2_138#slide=id.g36b9114b5fd_2_138",
+    "summary": "Ưu đãi cho nhóm sức khỏe, y tế, bảo hiểm, thời trang, chăm sóc bản thân và hệ sinh thái JCB.",
+    "benefits": [
+      "Định vị tư vấn cho khách hàng gia đình có chi tiêu khám bệnh, nhà thuốc, bảo hiểm.",
+      "Có thể kết hợp kho ưu đãi JCB về ăn uống, mua sắm và chăm sóc sức khỏe.",
+      "Nhiều ưu đãi sức khỏe kéo dài đến 14/01/2027 theo đối tác.",
+      "Dễ bán cho khách muốn tối ưu chi phí sức khỏe định kỳ."
+    ],
+    "conditions": [
+      "Cần kiểm tra đối tác y tế/chăm sóc sức khỏe và mức giảm cụ thể trước khi tư vấn.",
+      "Ưu đãi áp dụng theo ngân sách từng đối tác."
+    ],
+    "tags": [
+      "Well-Being",
+      "Y tế",
+      "Sức khỏe",
+      "Gia đình"
+    ],
+    "daysLeft": 224,
+    "partnerIds": [
+      "be"
+    ]
+  },
+  {
+    "id": "mastercard-travel-priceless",
+    "title": "Ưu đãi BIDV Mastercard",
+    "cardIds": [
+      "bidv-mastercard-ready",
+      "bidv-mastercard-moneyverse",
+      "bidv-mastercard-discovery",
+      "bidv-mastercard-world-travel",
+      "bidv-mastercard-business"
+    ],
+    "cardNames": [
+      "BIDV Mastercard Ready",
+      "BIDV Mastercard Moneyverse",
+      "BIDV Mastercard Discovery",
+      "BIDV Mastercard World Travel",
+      "BIDV Mastercard Business"
+    ],
+    "organization": "Mastercard",
+    "group": "Du lịch",
+    "needGroups": [
+      "du-lich",
+      "mua-sam",
+      "khach-hang-cao-cap"
+    ],
+    "status": "active",
+    "startDate": "2026-01-01",
+    "endDate": "2027-01-31",
+    "image": "/assets/ui-kit/promotions/promo-travel-1600x900.webp",
+    "sourceUrl": "https://docs.google.com/presentation/d/1e34oknV53scGk9yZqq11EALMVjh72VwZgDzIthBvmTs/edit?slide=id.g36088922b6a_2_237#slide=id.g36088922b6a_2_237",
+    "summary": "Ưu đãi du lịch và phong cách sống Mastercard: Expedia, Hotels.com, Qatar Airways, Seoul Sky, Grab Thailand, golf và mua sắm.",
+    "benefits": [
+      "Expedia/Hotels.com giảm 7% khi đặt phòng toàn cầu theo mã ưu đãi.",
+      "Qatar Airways giảm đến 10% cho vé Economy và Business.",
+      "Seoul Sky, Grab Thailand, Olive Young, Lotte Mart có ưu đãi theo từng thị trường.",
+      "Một số chuỗi khách sạn/resort có đêm miễn phí hoặc giảm giá khi đặt bằng thẻ Mastercard.",
+      "Moneyverse nhấn mạnh miễn phí thường niên 2 năm đầu, miễn phí rút tiền ATM BIDV và tích B-Point không giới hạn."
+    ],
+    "conditions": [
+      "Nhiều ưu đãi nằm trên Mastercard Priceless, cần kiểm tra issuer/product trước khi áp dụng.",
+      "Thời hạn thay đổi theo từng đối tác."
+    ],
+    "tags": [
+      "Mastercard",
+      "Priceless",
+      "Du lịch",
+      "Moneyverse"
+    ],
+    "daysLeft": 241,
+    "partnerIds": [
+      "grab"
+    ]
+  },
+  {
+    "id": "promo-open-card-q2-2026",
+    "title": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+    "cardIds": [
+      "bidv-jcb-ultimate",
+      "bidv-jcb-hybrid",
+      "bidv-jcb-well-being",
+      "bidv-visa-cashback-online",
+      "bidv-visa-flexi",
+      "bidv-mastercard-ready",
+      "bidv-visa-easy",
+      "bidv-mastercard-world-travel"
+    ],
+    "cardNames": [
+      "BIDV JCB Ultimate",
+      "BIDV JCB Hybrid",
+      "BIDV JCB Well-Being",
+      "BIDV Visa Cashback Online",
+      "BIDV Visa Flexi",
+      "BIDV Mastercard Ready",
+      "BIDV Visa Easy",
+      "BIDV Mastercard World Travel"
+    ],
+    "organization": "BIDV",
+    "group": "Mở mới thẻ",
+    "needGroups": [
+      "hoan-tien"
+    ],
+    "status": "ending",
+    "startDate": "2026-04-01",
+    "endDate": "2026-06-30",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES",
+    "summary": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+    "benefits": [
+      "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+      "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+      "Giao dịch tối thiểu từ 200.000 VND"
+    ],
+    "conditions": [
+      "Theo thể lệ chương trình BIDV tại nguồn tham chiếu."
+    ],
+    "tags": [
+      "Mở mới thẻ"
+    ],
+    "daysLeft": 26,
+    "partnerIds": []
+  },
+  {
+    "id": "promo-foreign-spend-2026",
+    "title": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+    "cardIds": [
+      "bidv-jcb-ultimate",
+      "bidv-private-banking",
+      "bidv-visa-infinite",
+      "bidv-premier",
+      "bidv-mastercard-world-travel"
+    ],
+    "cardNames": [
+      "BIDV JCB Ultimate",
+      "BIDV Private Banking",
+      "BIDV Visa Infinite",
+      "BIDV Premier",
+      "BIDV Mastercard World Travel"
+    ],
+    "organization": "BIDV",
+    "group": "Chi tiêu nước ngoài",
+    "needGroups": [
+      "hoan-tien"
+    ],
+    "status": "ended",
+    "startDate": "2026-02-23",
+    "endDate": "2026-04-30",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai",
+    "summary": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+    "benefits": [
+      "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+      "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+      "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+    ],
+    "conditions": [
+      "Theo thể lệ chương trình BIDV tại nguồn tham chiếu."
+    ],
+    "tags": [
+      "Chi tiêu nước ngoài"
+    ],
+    "daysLeft": 0,
+    "partnerIds": []
+  },
+  {
+    "id": "promo-vietqr-thailand",
+    "title": "Vi vu Thái Lan - Hoàn đến 6.500.000đ",
+    "cardIds": [
+      "bidv-jcb-ultimate",
+      "bidv-visa-infinite",
+      "bidv-mastercard-world-travel"
+    ],
+    "cardNames": [
+      "BIDV JCB Ultimate",
+      "BIDV Visa Infinite",
+      "BIDV Mastercard World Travel"
+    ],
+    "organization": "BIDV",
+    "group": "Thanh toán quốc tế",
+    "needGroups": [
+      "hoan-tien"
+    ],
+    "status": "ended",
+    "startDate": "2026-02-14",
+    "endDate": "2026-05-10",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://bidv.com.vn/wps/wcm/connect/8a9b0b05-ce97-4d7b-8807-55ef17f34e74/VietQRGlobal%2BBIDV%2B2026%2BTnC.pdf?CVID=pNAV493&MOD=AJPERES",
+    "summary": "Chương trình hoàn tiền cho thanh toán mua hàng tại chỗ bằng hình thức VietQR Global.",
+    "benefits": [
+      "Có cơ chế giải hoàn tiền theo kỳ",
+      "Phù hợp khách du lịch Thái Lan",
+      "Nên lưu trong kho chiến dịch đã kết thúc để tham khảo"
+    ],
+    "conditions": [
+      "Theo thể lệ chương trình BIDV tại nguồn tham chiếu."
+    ],
+    "tags": [
+      "Thanh toán quốc tế"
+    ],
+    "daysLeft": 0,
+    "partnerIds": []
+  },
+  {
+    "id": "promo-loyal-loan-customer",
+    "title": "Ưu đãi khách hàng vay vốn thân thiết",
+    "cardIds": [
+      "bidv-jcb-hybrid",
+      "bidv-visa-flexi",
+      "bidv-mastercard-ready",
+      "bidv-visa-easy"
+    ],
+    "cardNames": [
+      "BIDV JCB Hybrid",
+      "BIDV Visa Flexi",
+      "BIDV Mastercard Ready",
+      "BIDV Visa Easy"
+    ],
+    "organization": "BIDV",
+    "group": "Bán chéo",
+    "needGroups": [
+      "hoan-tien"
+    ],
+    "status": "ended",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-31",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://bidv.com.vn/bidv/ca-nhan/thong-bao/ngan-hang-so/chuong-trinh-uu-dai-khach-hang-vay",
+    "summary": "Ưu đãi dành riêng khách hàng vay vốn nhận tin nhắn trên BIDV SmartBanking hoặc từ tổng đài.",
+    "benefits": [
+      "Khuyến khích đăng ký mới sản phẩm dịch vụ",
+      "Có thể bao gồm thẻ tín dụng, tiết kiệm, thanh toán hóa đơn định kỳ",
+      "Cần kiểm tra khách hàng có thuộc tệp nhận ưu đãi"
+    ],
+    "conditions": [
+      "Theo thể lệ chương trình BIDV tại nguồn tham chiếu."
+    ],
+    "tags": [
+      "Bán chéo"
+    ],
+    "daysLeft": 0,
+    "partnerIds": []
+  },
+  {
+    "id": "promo-google-pay-2026",
+    "title": "Gán thẻ BIDV vào Google Pay",
+    "cardIds": [
+      "bidv-visa-cashback-360",
+      "bidv-visa-cashback-online",
+      "bidv-visa-debit-superads",
+      "bidv-visa-flexi",
+      "bidv-mastercard-ready",
+      "bidv-visa-easy"
+    ],
+    "cardNames": [
+      "BIDV Visa Cashback 360",
+      "BIDV Visa Cashback Online",
+      "BIDV Visa Debit SuperAds",
+      "BIDV Visa Flexi",
+      "BIDV Mastercard Ready",
+      "BIDV Visa Easy"
+    ],
+    "organization": "BIDV",
+    "group": "Ví điện tử",
+    "needGroups": [
+      "hoan-tien"
+    ],
+    "status": "ending",
+    "startDate": "2025-11-01",
+    "endDate": "2026-06-30",
+    "image": "/assets/ui-kit/promotions/promo-new-card-1600x900.webp",
+    "sourceUrl": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay",
+    "summary": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+    "benefits": [
+      "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+      "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+      "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+    ],
+    "conditions": [
+      "Theo thể lệ chương trình BIDV tại nguồn tham chiếu."
+    ],
+    "tags": [
+      "Ví điện tử"
+    ],
+    "daysLeft": 26,
+    "partnerIds": []
+  }
+]

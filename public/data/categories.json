@@ -1,0 +1,50 @@
+[
+  {
+    "id": "du-lich",
+    "name": "Du lịch",
+    "description": "Phòng chờ, fasttrack, bảo hiểm, đặt phòng và chi tiêu nước ngoài.",
+    "icon": "/assets/ui-kit/icons/icon-travel.svg",
+    "cardCount": 11,
+    "promotionCount": 6
+  },
+  {
+    "id": "hoan-tien",
+    "name": "Hoàn tiền",
+    "description": "Cashback theo nhóm chi tiêu, mở thẻ và giao dịch đầu tiên.",
+    "icon": "/assets/ui-kit/icons/icon-cashback.svg",
+    "cardCount": 17,
+    "promotionCount": 10
+  },
+  {
+    "id": "an-uong",
+    "name": "Ăn uống",
+    "description": "Nhà hàng, cafe, ShopeeFood, fine dining và đặc quyền ẩm thực.",
+    "icon": "/assets/ui-kit/icons/icon-dining.svg",
+    "cardCount": 17,
+    "promotionCount": 7
+  },
+  {
+    "id": "mua-sam",
+    "name": "Mua sắm",
+    "description": "Sàn thương mại điện tử, thời trang, thể thao và cửa hàng đối tác.",
+    "icon": "/assets/ui-kit/icons/icon-online.svg",
+    "cardCount": 17,
+    "promotionCount": 5
+  },
+  {
+    "id": "tra-gop",
+    "name": "Trả góp",
+    "description": "Trả góp 0% và chuyển đổi giao dịch từ 3 triệu đồng.",
+    "icon": "/assets/ui-kit/icons/icon-new-card.svg",
+    "cardCount": 11,
+    "promotionCount": 1
+  },
+  {
+    "id": "khach-hang-cao-cap",
+    "name": "Khách hàng cao cấp",
+    "description": "Private, Infinite, Premier, golf, nghỉ dưỡng và dịch vụ ưu tiên.",
+    "icon": "/assets/ui-kit/icons/icon-wellbeing.svg",
+    "cardCount": 7,
+    "promotionCount": 4
+  }
+]

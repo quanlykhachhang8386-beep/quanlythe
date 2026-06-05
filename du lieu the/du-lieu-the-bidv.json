@@ -1,0 +1,1648 @@
+{
+  "ngayTao": "2026-06-04",
+  "nguonDuLieu": [
+    "src/data/cards.js",
+    "src/data/promotions.js",
+    "src/data/customerSegments.js"
+  ],
+  "ghiChu": "Các chương trình hiện có được hiểu là chương trình có status active và còn hiệu lực đến ngày 2026-06-04 theo dữ liệu trong dự án.",
+  "soLuongThe": 17,
+  "danhSachThe": [
+    {
+      "maThe": "bidv-jcb-ultimate",
+      "tenThe": "BIDV JCB Ultimate",
+      "anhGoc": "./public/assets/cards/jcb-ultimate.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV JCB Ultimate.png",
+      "thongTinPhanLoai": {
+        "mangThe": "JCB",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Ultimate",
+        "nhanDien": "Ẩm thực",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "20% hoàn tiền nhà hàng vào tháng sinh nhật",
+        "10% hoàn tiền nhà hàng các tháng còn lại",
+        "ShopeeFood: giảm từ 30K - 100K theo giá trị hóa đơn (dùng chung với JCB Well-being)",
+        "ẩm thực",
+        "nhà hàng"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-foreign-spend-2026",
+          "tenChuongTrinh": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+          "nhom": "Chi tiêu nước ngoài",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-23",
+            "ketThuc": "2026-04-30"
+          },
+          "tomTat": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+          "coChe": [
+            "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+            "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+            "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+          ],
+          "nganSach": "Theo từng ngưỡng ngân sách",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai"
+        },
+        {
+          "maChuongTrinh": "promo-vietqr-thailand",
+          "tenChuongTrinh": "Vi vu Thái Lan - Hoàn đến 6.500.000đ",
+          "nhom": "Thanh toán quốc tế",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-14",
+            "ketThuc": "2026-05-10"
+          },
+          "tomTat": "Chương trình hoàn tiền cho thanh toán mua hàng tại chỗ bằng hình thức VietQR Global.",
+          "coChe": [
+            "Có cơ chế giải hoàn tiền theo kỳ",
+            "Phù hợp khách du lịch Thái Lan",
+            "Nên lưu trong kho chiến dịch đã kết thúc để tham khảo"
+          ],
+          "nganSach": "Theo thể lệ chương trình",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/8a9b0b05-ce97-4d7b-8807-55ef17f34e74/VietQRGlobal%2BBIDV%2B2026%2BTnC.pdf?CVID=pNAV493&MOD=AJPERES"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách hàng cao cấp / đi công tác",
+          "nhuCau": [
+            "Phòng chờ",
+            "Bảo hiểm",
+            "Hạn mức cao",
+            "Thanh toán nước ngoài"
+          ],
+          "phanVanThuongGap": "Phí thường niên cao",
+          "goiYTuVan": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 800,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "20% hoàn tiền nhà hàng vào tháng sinh nhật — không thẻ nào trong hệ thống BIDV vượt con số này",
+          "Ưu tiên tư vấn cho khách hàng chi tiêu nhà hàng thường xuyên, đặc biệt khách hàng có nhu cầu tối ưu hoàn tiền dịp sinh nhật."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-jcb-hybrid",
+      "tenThe": "BIDV JCB Hybrid",
+      "anhGoc": "./public/assets/cards/jcb-hybrid.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV JCB Hybrid.png",
+      "thongTinPhanLoai": {
+        "mangThe": "JCB",
+        "loaiThe": "Hybrid ghi nợ + tín dụng",
+        "hangThe": "Hybrid",
+        "nhanDien": "Khách hàng số",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "20% hoàn tiền dịch vụ số: ChatGPT, Google Gemini (MCC 5734) — tối đa 100.000 VNĐ/tháng",
+        "Grab: giảm 10.000 VNĐ (Thứ 2–6, đơn ≥ 30.000 VNĐ) | 30.000 VNĐ (Thứ 7–CN, đơn ≥ 90.000 VNĐ)",
+        "1 thẻ vật lý — 2 chức năng: GHI NỢ (rút tiền ATM, ưu tiên số dư) + TÍN DỤNG (POS/online/hóa đơn)",
+        "AI",
+        "ChatGPT"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-loyal-loan-customer",
+          "tenChuongTrinh": "Ưu đãi khách hàng vay vốn thân thiết",
+          "nhom": "Bán chéo",
+          "trangThai": "ending",
+          "thoiGian": {
+            "batDau": "2026-05-01",
+            "ketThuc": "2026-05-31"
+          },
+          "tomTat": "Ưu đãi dành riêng khách hàng vay vốn nhận tin nhắn trên BIDV SmartBanking hoặc từ tổng đài.",
+          "coChe": [
+            "Khuyến khích đăng ký mới sản phẩm dịch vụ",
+            "Có thể bao gồm thẻ tín dụng, tiết kiệm, thanh toán hóa đơn định kỳ",
+            "Cần kiểm tra khách hàng có thuộc tệp nhận ưu đãi"
+          ],
+          "nganSach": "Theo thông báo BIDV",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/thong-bao/ngan-hang-so/chuong-trinh-uu-dai-khach-hang-vay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách mua sắm online",
+          "nhuCau": [
+            "Hoàn tiền",
+            "Ví điện tử",
+            "Mua sắm sàn TMĐT"
+          ],
+          "phanVanThuongGap": "Tôi đã có thẻ ngân hàng khác",
+          "goiYTuVan": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+        },
+        {
+          "nhom": "Khách mở thẻ lần đầu",
+          "nhuCau": [
+            "Phí thấp",
+            "Dễ hiểu",
+            "Dễ kích hoạt",
+            "Hạn mức vừa phải"
+          ],
+          "phanVanThuongGap": "Không rõ dùng thẻ tín dụng có lợi gì",
+          "goiYTuVan": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Miễn phí trọn đời chỉ cần chi 500K tháng đầu (theo nội dung web)",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 100,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "1 thẻ, 2 tính năng — 20% hoàn tiền ChatGPT/Gemini, miễn phí trọn đời chỉ cần chi 500K tháng đầu",
+          "Phù hợp khách hàng dùng công cụ AI, Grab, thanh toán online; nhấn mạnh tiện ích 2 trong 1 để dễ mở và dễ dùng."
+        ],
+        "taiLieuLienQuan": [
+          "the jcb hybrid v2.1.pdf"
+        ],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-jcb-well-being",
+      "tenThe": "BIDV JCB Well-Being",
+      "anhGoc": "./public/assets/cards/jcb-well-being.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV JCB Well-Being.png",
+      "thongTinPhanLoai": {
+        "mangThe": "JCB",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Well-Being",
+        "nhanDien": "Y tế",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "10% hoàn tiền khi khám bệnh, mua thuốc, phòng khám (DS ≥ 10tr/tháng)",
+        "6% hoàn tiền bảo hiểm và thời trang",
+        "XanhSM: giảm 20% tối đa 50K/lượt (tối đa 2 lượt/tháng)",
+        "y tế",
+        "nhà thuốc"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Gia đình chi tiêu đều",
+          "nhuCau": [
+            "Siêu thị",
+            "Y tế",
+            "Giáo dục",
+            "Quản lý chi tiêu"
+          ],
+          "phanVanThuongGap": "Sợ phát sinh nợ thẻ",
+          "goiYTuVan": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "10% hoàn tiền mỗi lần khám bệnh, mua thuốc — thẻ duy nhất BIDV ưu tiên lĩnh vực y tế",
+          "Tư vấn cho khách hàng có chi tiêu định kỳ cho khám chữa bệnh, nhà thuốc, bảo hiểm hoặc gia đình có trẻ nhỏ/người lớn tuổi."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-cashback-360",
+      "tenThe": "BIDV Visa Cashback 360",
+      "anhGoc": "./public/assets/cards/visa-cashback-360.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Cashback 360.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Cashback",
+        "nhanDien": "Gia đình",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "10% hoàn tiền siêu thị khi chi > 10 triệu/tháng",
+        "2% hoàn tiền siêu thị khi chi ≤ 10 triệu/tháng",
+        "2% hoàn tiền y tế và giáo dục",
+        "siêu thị",
+        "giáo dục"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách mua sắm online",
+          "nhuCau": [
+            "Hoàn tiền",
+            "Ví điện tử",
+            "Mua sắm sàn TMĐT"
+          ],
+          "phanVanThuongGap": "Tôi đã có thẻ ngân hàng khác",
+          "goiYTuVan": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+        },
+        {
+          "nhom": "Gia đình chi tiêu đều",
+          "nhuCau": [
+            "Siêu thị",
+            "Y tế",
+            "Giáo dục",
+            "Quản lý chi tiêu"
+          ],
+          "phanVanThuongGap": "Sợ phát sinh nợ thẻ",
+          "goiYTuVan": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 600,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Chi siêu thị trên 10 triệu/tháng? Phần vượt ngưỡng hoàn 10% — mua 15 triệu/tháng = hoàn ~500.000 VNĐ",
+          "Phù hợp khách hàng gia đình chi siêu thị lớn hàng tháng, có con đi học hoặc chi phí y tế/giáo dục đều đặn."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-private-banking",
+      "tenThe": "BIDV Private Banking",
+      "anhGoc": "./public/assets/cards/visa-private.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Private Banking.png",
+      "thongTinPhanLoai": {
+        "mangThe": "BIDV",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Private Banking",
+        "nhanDien": "Private Banking",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Phòng chờ sân bay quốc tế miễn phí (gói Lifestyle)",
+        "Fast track sân bay",
+        "Đặc quyền Golf VIP (gói Golfer)",
+        "private",
+        "dặm bay"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-foreign-spend-2026",
+          "tenChuongTrinh": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+          "nhom": "Chi tiêu nước ngoài",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-23",
+            "ketThuc": "2026-04-30"
+          },
+          "tomTat": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+          "coChe": [
+            "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+            "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+            "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+          ],
+          "nganSach": "Theo từng ngưỡng ngân sách",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách hàng cao cấp / đi công tác",
+          "nhuCau": [
+            "Phòng chờ",
+            "Bảo hiểm",
+            "Hạn mức cao",
+            "Thanh toán nước ngoài"
+          ],
+          "phanVanThuongGap": "Phí thường niên cao",
+          "goiYTuVan": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Tích lũy tối đa: 4,000,000 điểm (~13,333 dặm VNA)/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "6% dặm khi ăn nhà hàng và mua sắm nước ngoài — tương đương vé bay miễn phí sau mỗi chuyến công tác",
+          "Tư vấn cho khách hàng cao cấp, thường xuyên công tác/du lịch, cần đặc quyền sân bay, golf và tối ưu tích lũy dặm."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-infinite",
+      "tenThe": "BIDV Visa Infinite",
+      "anhGoc": "./public/assets/cards/visa-infinite.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Infinite.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Infinite",
+        "nhanDien": "Khách hàng cao cấp",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Phòng chờ QT: Không giới hạn chủ thẻ + 1 người thân (ga QT); Không giới hạn + 5 người thân (nội địa/fasttrack)",
+        "Ẩm thực: 2 voucher 3.500.000 VNĐ/lượt ẩm thực/năm; tặng thêm voucher khi chi tiêu tốt từng quý",
+        "Đặc quyền Golf hoặc khám sức khỏe chất lượng cao cho 2 người",
+        "Infinite",
+        "dặm bay"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-foreign-spend-2026",
+          "tenChuongTrinh": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+          "nhom": "Chi tiêu nước ngoài",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-23",
+            "ketThuc": "2026-04-30"
+          },
+          "tomTat": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+          "coChe": [
+            "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+            "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+            "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+          ],
+          "nganSach": "Theo từng ngưỡng ngân sách",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai"
+        },
+        {
+          "maChuongTrinh": "promo-vietqr-thailand",
+          "tenChuongTrinh": "Vi vu Thái Lan - Hoàn đến 6.500.000đ",
+          "nhom": "Thanh toán quốc tế",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-14",
+            "ketThuc": "2026-05-10"
+          },
+          "tomTat": "Chương trình hoàn tiền cho thanh toán mua hàng tại chỗ bằng hình thức VietQR Global.",
+          "coChe": [
+            "Có cơ chế giải hoàn tiền theo kỳ",
+            "Phù hợp khách du lịch Thái Lan",
+            "Nên lưu trong kho chiến dịch đã kết thúc để tham khảo"
+          ],
+          "nganSach": "Theo thể lệ chương trình",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/8a9b0b05-ce97-4d7b-8807-55ef17f34e74/VietQRGlobal%2BBIDV%2B2026%2BTnC.pdf?CVID=pNAV493&MOD=AJPERES"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách hàng cao cấp / đi công tác",
+          "nhuCau": [
+            "Phòng chờ",
+            "Bảo hiểm",
+            "Hạn mức cao",
+            "Thanh toán nước ngoài"
+          ],
+          "phanVanThuongGap": "Phí thường niên cao",
+          "goiYTuVan": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Tích lũy tối đa: 2,000,000 điểm (~6,667 dặm VNA)/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Cùng tỷ lệ 6% dặm như Private Banking — mở được cho mọi KH đủ điều kiện tín dụng",
+          "Đề xuất cho khách hàng thu nhập cao, đi sân bay thường xuyên, quan tâm lifestyle, golf, sức khỏe và ẩm thực cao cấp."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-cashback-online",
+      "tenThe": "BIDV Visa Cashback Online",
+      "anhGoc": "./public/assets/cards/visa-cashback-online.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Cashback Online.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Cashback",
+        "nhanDien": "Mua sắm online",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "6% hoàn tiền Shopee & TikTokShop (DS ≥ 10tr/tháng)",
+        "3% hoàn tiền mua sắm online còn lại",
+        "Bảo hiểm du lịch toàn cầu tới 11,65 tỷ VNĐ",
+        "online",
+        "Shopee"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách mua sắm online",
+          "nhuCau": [
+            "Hoàn tiền",
+            "Ví điện tử",
+            "Mua sắm sàn TMĐT"
+          ],
+          "phanVanThuongGap": "Tôi đã có thẻ ngân hàng khác",
+          "goiYTuVan": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 600,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "6% hoàn tiền mỗi đơn Shopee/TikTok — mua 5 triệu/tháng = hoàn 300.000 VNĐ, đủ trả phí thường niên tháng",
+          "Phù hợp khách hàng mua sắm online nhiều, đặc biệt Shopee/TikTokShop; có thêm điểm cộng bảo hiểm du lịch."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-premier",
+      "tenThe": "BIDV Premier",
+      "anhGoc": "./public/assets/cards/visa-premier.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Premier.png",
+      "thongTinPhanLoai": {
+        "mangThe": "BIDV",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Premier",
+        "nhanDien": "Premier",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "5% hoàn tiền nhà hàng POS (hạng Premier)",
+        "3% tích dặm mua sắm nước ngoài & dining POS (hạng Premier Elite)",
+        "3% hoàn tiền mua vé máy bay (hạng Premier)",
+        "Premier",
+        "nhà hàng"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-foreign-spend-2026",
+          "tenChuongTrinh": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+          "nhom": "Chi tiêu nước ngoài",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-23",
+            "ketThuc": "2026-04-30"
+          },
+          "tomTat": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+          "coChe": [
+            "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+            "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+            "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+          ],
+          "nganSach": "Theo từng ngưỡng ngân sách",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách hàng cao cấp / đi công tác",
+          "nhuCau": [
+            "Phòng chờ",
+            "Bảo hiểm",
+            "Hạn mức cao",
+            "Thanh toán nước ngoài"
+          ],
+          "phanVanThuongGap": "Phí thường niên cao",
+          "goiYTuVan": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Tích lũy tối đa: 2,000,000 điểm (~6,667 dặm VNA)/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "5% hoàn tiền mỗi bữa ăn nhà hàng, 3% khi mua vé máy bay — thẻ tự trả phí chính nó",
+          "Tư vấn cho khách hàng ưu tiên, hay ăn nhà hàng, đặt vé máy bay, mua sắm nước ngoài và muốn vừa hoàn tiền vừa tích dặm."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-debit-superads",
+      "tenThe": "BIDV Visa Debit SuperAds",
+      "anhGoc": "./public/assets/cards/visa-superads.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Debit SuperAds.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Ghi nợ quốc tế",
+        "hangThe": "SuperAds",
+        "nhanDien": "Khách hàng chạy quảng cáo số",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "5% hoàn tiền quảng cáo số (Facebook/Google/TikTok/Shopee Ads) — 60 ngày đầu",
+        "0% phí chuyển đổi ngoại tệ Ecom/CNP — tiết kiệm khi chạy ads quốc tế",
+        "Tối đa 12 thẻ hoạt động cùng lúc/KH — tách ngân sách từng chiến dịch",
+        "debit",
+        "quảng cáo"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Kinh doanh số / quảng cáo",
+          "nhuCau": [
+            "Thanh toán quốc tế",
+            "Quảng cáo số",
+            "Tách chi phí"
+          ],
+          "phanVanThuongGap": "Không muốn dùng hạn mức tín dụng",
+          "goiYTuVan": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "0% phí chuyển đổi ngoại tệ Ecom/CNP",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 300,000 đ/tháng",
+        "laiSuat": "Không áp dụng với thẻ ghi nợ",
+        "dieuKienCanLuuY": [
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "0% phí ngoại tệ + 5% hoàn tiền 60 ngày đầu + 12 thẻ tách ngân sách — thẻ duy nhất thiết kế riêng cho người chạy Ads",
+          "Tư vấn cho khách hàng chạy quảng cáo Facebook/Google/TikTok/Shopee, cần tách ngân sách chiến dịch và tiết kiệm phí ngoại tệ."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-flexi",
+      "tenThe": "BIDV Visa Flexi",
+      "anhGoc": "./public/assets/cards/visa-flexi.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Flexi.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Flexi",
+        "nhanDien": "Mass",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "2% hoàn tiền nhà hàng, mua online, du lịch (KH lương BIDV)",
+        "1% cho KH không trả lương qua BIDV",
+        "Phí thường niên thấp (300.000 VNĐ/năm)",
+        "Flexi",
+        "lương BIDV"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        },
+        {
+          "maChuongTrinh": "promo-loyal-loan-customer",
+          "tenChuongTrinh": "Ưu đãi khách hàng vay vốn thân thiết",
+          "nhom": "Bán chéo",
+          "trangThai": "ending",
+          "thoiGian": {
+            "batDau": "2026-05-01",
+            "ketThuc": "2026-05-31"
+          },
+          "tomTat": "Ưu đãi dành riêng khách hàng vay vốn nhận tin nhắn trên BIDV SmartBanking hoặc từ tổng đài.",
+          "coChe": [
+            "Khuyến khích đăng ký mới sản phẩm dịch vụ",
+            "Có thể bao gồm thẻ tín dụng, tiết kiệm, thanh toán hóa đơn định kỳ",
+            "Cần kiểm tra khách hàng có thuộc tệp nhận ưu đãi"
+          ],
+          "nganSach": "Theo thông báo BIDV",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/thong-bao/ngan-hang-so/chuong-trinh-uu-dai-khach-hang-vay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Gia đình chi tiêu đều",
+          "nhuCau": [
+            "Siêu thị",
+            "Y tế",
+            "Giáo dục",
+            "Quản lý chi tiêu"
+          ],
+          "phanVanThuongGap": "Sợ phát sinh nợ thẻ",
+          "goiYTuVan": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+        },
+        {
+          "nhom": "Khách mở thẻ lần đầu",
+          "nhuCau": [
+            "Phí thấp",
+            "Dễ hiểu",
+            "Dễ kích hoạt",
+            "Hạn mức vừa phải"
+          ],
+          "phanVanThuongGap": "Không rõ dùng thẻ tín dụng có lợi gì",
+          "goiYTuVan": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Phí thường niên thấp (300.000 VNĐ/năm)",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 400,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "KH nhận lương qua BIDV được hưởng 2% thay vì 1% — gấp đôi chỉ vì có tài khoản lương tại đây",
+          "Dễ tư vấn cho khách hàng trả lương qua BIDV; nhấn mạnh phí thấp, hoàn tiền tốt ở nhóm chi tiêu phổ biến."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-business",
+      "tenThe": "BIDV Visa Business",
+      "anhGoc": "./public/assets/cards/mastercard-inspire.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Business.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Thẻ doanh nghiệp",
+        "hangThe": "Business",
+        "nhanDien": "Doanh nghiệp",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "2% hoàn tiền nhà hàng và khách sạn",
+        "1% hoàn tiền quảng cáo (GD ≥ 3tr)",
+        "Cap 3.000.000 điểm/kỳ/CIF doanh nghiệp",
+        "doanh nghiệp",
+        "nhà hàng"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Kinh doanh số / quảng cáo",
+          "nhuCau": [
+            "Thanh toán quốc tế",
+            "Quảng cáo số",
+            "Tách chi phí"
+          ],
+          "phanVanThuongGap": "Không muốn dùng hạn mức tín dụng",
+          "goiYTuVan": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "2% hoàn tiền nhà hàng & khách sạn cho doanh nghiệp — tối đa 3 triệu điểm/kỳ",
+          "Phù hợp doanh nghiệp có chi phí tiếp khách, khách sạn, công tác và quảng cáo; nhấn mạnh kiểm soát chi phí doanh nghiệp."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-mastercard-discovery",
+      "tenThe": "BIDV Mastercard Discovery",
+      "anhGoc": "./public/assets/cards/mastercard-discovery.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Mastercard Discovery.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Mastercard",
+        "loaiThe": "Ghi nợ quốc tế",
+        "hangThe": "Discovery",
+        "nhanDien": "Du lịch nước ngoài",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "1% hoàn quà khi quẹt thẻ ở nước ngoài",
+        "0,3% mọi giao dịch trong nước",
+        "Kiểm soát chi tiêu tốt (ghi nợ)",
+        "Mastercard",
+        "debit"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Kinh doanh số / quảng cáo",
+          "nhuCau": [
+            "Thanh toán quốc tế",
+            "Quảng cáo số",
+            "Tách chi phí"
+          ],
+          "phanVanThuongGap": "Không muốn dùng hạn mức tín dụng",
+          "goiYTuVan": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+        "laiSuat": "Không áp dụng với thẻ ghi nợ",
+        "dieuKienCanLuuY": [
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "1% hoàn quà khi quẹt thẻ ở nước ngoài, chi trong khả năng vì là thẻ ghi nợ",
+          "Tư vấn cho khách chưa muốn dùng tín dụng nhưng cần thẻ quốc tế, hay đi nước ngoài hoặc mua hàng quốc tế."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-mastercard-business",
+      "tenThe": "BIDV Mastercard Business",
+      "anhGoc": "./public/assets/cards/mastercard-discovery.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Mastercard Business.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Mastercard",
+        "loaiThe": "Ghi nợ doanh nghiệp",
+        "hangThe": "Business",
+        "nhanDien": "Doanh nghiệp",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "1% hoàn tiền nhà hàng và khách sạn",
+        "0,5% hoàn tiền quảng cáo (GD ≥ 3tr)",
+        "Thẻ ghi nợ — kiểm soát chi tiêu",
+        "Mastercard",
+        "doanh nghiệp"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Kinh doanh số / quảng cáo",
+          "nhuCau": [
+            "Thanh toán quốc tế",
+            "Quảng cáo số",
+            "Tách chi phí"
+          ],
+          "phanVanThuongGap": "Không muốn dùng hạn mức tín dụng",
+          "goiYTuVan": "Có thể bắt đầu bằng thẻ ghi nợ quốc tế để thanh toán theo số dư, sau đó nâng lên thẻ tín dụng khi doanh số ổn định."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Cần kiểm chứng theo biểu phí BIDV",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 500,000 đ/tháng",
+        "laiSuat": "Không áp dụng với thẻ ghi nợ",
+        "dieuKienCanLuuY": [
+          "Biểu phí đầy đủ: phí phát hành, phí thường niên, rút tiền, chuyển đổi ngoại tệ, lãi suất, phí chậm thanh toán",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Thẻ ghi nợ doanh nghiệp — kiểm soát chi phí nhà hàng/khách sạn, hoàn 1% mỗi giao dịch",
+          "Tư vấn cho doanh nghiệp muốn cấp thẻ chi tiêu nhưng vẫn kiểm soát được dòng tiền vì là thẻ ghi nợ."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-mastercard-ready",
+      "tenThe": "BIDV Mastercard Ready",
+      "anhGoc": "./public/assets/cards/mastercard-ready.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Mastercard Ready.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Mastercard",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Ready",
+        "nhanDien": "Khách hàng mới bắt đầu dùng ",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Phí thường niên thấp nhất danh mục BIDV",
+        "Miễn phí năm đầu cho mọi KH",
+        "KHCC/nội bộ: miễn phí 2 năm đầu",
+        "Mastercard",
+        "phí thấp"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        },
+        {
+          "maChuongTrinh": "promo-loyal-loan-customer",
+          "tenChuongTrinh": "Ưu đãi khách hàng vay vốn thân thiết",
+          "nhom": "Bán chéo",
+          "trangThai": "ending",
+          "thoiGian": {
+            "batDau": "2026-05-01",
+            "ketThuc": "2026-05-31"
+          },
+          "tomTat": "Ưu đãi dành riêng khách hàng vay vốn nhận tin nhắn trên BIDV SmartBanking hoặc từ tổng đài.",
+          "coChe": [
+            "Khuyến khích đăng ký mới sản phẩm dịch vụ",
+            "Có thể bao gồm thẻ tín dụng, tiết kiệm, thanh toán hóa đơn định kỳ",
+            "Cần kiểm tra khách hàng có thuộc tệp nhận ưu đãi"
+          ],
+          "nganSach": "Theo thông báo BIDV",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/thong-bao/ngan-hang-so/chuong-trinh-uu-dai-khach-hang-vay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách mở thẻ lần đầu",
+          "nhuCau": [
+            "Phí thấp",
+            "Dễ hiểu",
+            "Dễ kích hoạt",
+            "Hạn mức vừa phải"
+          ],
+          "phanVanThuongGap": "Không rõ dùng thẻ tín dụng có lợi gì",
+          "goiYTuVan": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Miễn phí năm đầu cho mọi KH; KHCC/nội bộ miễn phí 2 năm đầu",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tối đa lên tới: 300,000 đ/tháng",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Phí thường niên thấp nhất danh mục BIDV — thẻ để bắt đầu, không điều kiện phức tạp",
+          "Tư vấn cho khách hàng mới mở thẻ, nhạy cảm với phí thường niên và muốn sản phẩm dễ bắt đầu."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-mastercard-moneyverse",
+      "tenThe": "BIDV Mastercard Moneyverse",
+      "anhGoc": "./public/assets/cards/mastercard-moneyverse.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Mastercard Moneyverse.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Mastercard",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Moneyverse",
+        "nhanDien": "Khách hàng thích tích điểm k",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Miễn phí 2 năm đầu cho 100% khách hàng (kể cả KH thông thường)",
+        "Không giới hạn điểm tích lũy hàng tháng",
+        "Tích điểm theo ngày — không cần đạt ngưỡng DS tháng",
+        "Mastercard",
+        "Moneyverse"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [],
+      "chuongTrinhKhuyenMaiLienQuan": [],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách mua sắm online",
+          "nhuCau": [
+            "Hoàn tiền",
+            "Ví điện tử",
+            "Mua sắm sàn TMĐT"
+          ],
+          "phanVanThuongGap": "Tôi đã có thẻ ngân hàng khác",
+          "goiYTuVan": "Điểm khác biệt là chọn thẻ đúng nhóm chi tiêu online để tối ưu hoàn tiền, không nhất thiết thay thế thẻ hiện tại."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Miễn phí 2 năm đầu cho 100% khách hàng",
+        "hanMucHoanTienTichDiem": "Hoàn tiền tích điểm: KHÔNG GIỚI HẠN!",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Miễn phí 2 năm đầu cho tất cả — không giới hạn điểm tháng, tích mỗi ngày không cần điều kiện",
+          "Phù hợp khách hàng không muốn bị ràng buộc ngưỡng doanh số tháng và thích tích điểm đều đặn hằng ngày."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-visa-easy",
+      "tenThe": "BIDV Visa Easy",
+      "anhGoc": "./public/assets/cards/visa-easy.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Visa Easy.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Visa",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "Easy",
+        "nhanDien": "Mass",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Phí thường niên thấp nhất dòng tín dụng BIDV: 200.000 VNĐ/năm",
+        "Trả góp 0% lãi suất tại hơn 5.000 đối tác liên kết",
+        "Lãi suất từ 12%/năm (theo biểu phí niêm yết 21/11/2025)",
+        "Visa",
+        "Easy"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-google-pay-2026",
+          "tenChuongTrinh": "Gán thẻ BIDV vào Google Pay",
+          "nhom": "Ví điện tử",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2025-11-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Ưu đãi cho khách hàng liên kết thẻ Visa/Mastercard BIDV vào Google Pay trong thời gian chương trình.",
+          "coChe": [
+            "Áp dụng cho thẻ tín dụng và ghi nợ quốc tế hợp lệ",
+            "Mỗi CIF hưởng ưu đãi theo giới hạn thể lệ",
+            "Có thể kết hợp làm kịch bản kích hoạt sau mở thẻ"
+          ],
+          "nganSach": "Đến khi hết ngân sách hoặc hết thời gian",
+          "nguon": "https://bidv.com.vn/vn/ca-nhan/khuyen-mai/khuyen-mai-bao-hiem/chi-tiet/%21ut/p/z1/pZbfc6I6FMf_lvvg4xkOJITwaF3bWtuqbd2uvOwkECRXAWvBXfevv4eunbvTO8Y6F0eE5BzC53t-RC_xvnlJpXZ2qRpbV2pN94tEfMf-KPBH6E8mAzFAMb-9DO-vGBMB957fDHzsy-vBBO9xPgywfznl4b28RZTMS477z8Z48McjRx8_5z-OBX8zkF-5j-I6vBSPd9wfzoTLfxqg99VLvGST2sxb-MhDJqUPcZDHwCMZgoxzAUZwHos8ivMw6KzTqtk0hbfQNtv1MFVQFarq4apo96aCUtkealVDYU3Zw62ikQbeB0BVUNmqoMFqCQdf0DaFdK_NFrb2dfWuyfGXTv5Ennx5vCDkYDrz-QVe9SO3fyda8pmYOhZw-JPq7vU7g8QRsuGpmA4_mRMOwMSdcs9dlMlE-v3AH8hgMnm4RBRD5HP2NI6DC-Y0CB_G0cHAVRen3uLDErLPhrTEdHor5_zq6Ua8P-GIDvKEwSgM3QZ3V-8UjupakNTR0VQdkZY7a35486reltROHv-ttixXmukUIdBCApc6Au1Luoo0V2GaCcEy7xq9m1MVTC3K_v3ykvSpMuuqMT8b75ujNDObFrBroSlMD9sWMmVhWdfLtdmovZtnNnDwcJMiV1qDCEQAXKgcpKEQAXKgcpKErnWuZCoZpkDE3TJe6Z8K8UvPYFKqEndr3kE6wqysoagurrslktaLzmm539F0T6WtLzehA3bTQPfrAfKzcZ5GDWTOe6zwE7F6P6zQGFVE0jdBRqPNYhzo-MDu6yZnM1ZKgi659vtY9bAhkVdTqN3VV1OUbFLy0NLTe0-8eyk4LrSjub92WpqAh44KkCqDZWkN61NXSHfy7sX9cCGREilkKuc8ZcD8TEEcGIYwjlUsRGAxPBL9ri2cKcQjjqlBpD0kCMrGbjgQa08DSKsg68E6ulWk-hvlDLc9dqZ0zEfkSaTuMQuAsiyFGllKpBtJnmYnCwP8Y5v827TPpGksQq27L9Hu4bCldLU1lbZ3-vmq2LaUAVXEJPw2RmsodPzHixwk_tfXfnNo3zyT8f38SNuV8Pi8l29vugNXDkD7yx1NerHflQMs9-3VxD4kOl-X3u6abKJ9hcbP7ddv_6x8KpaVg/?urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2FBIDV%2Fca-nhan%2Fkhuyen-mai%2Fdich-vu-the%2Fuu-dai-googlepay"
+        },
+        {
+          "maChuongTrinh": "promo-loyal-loan-customer",
+          "tenChuongTrinh": "Ưu đãi khách hàng vay vốn thân thiết",
+          "nhom": "Bán chéo",
+          "trangThai": "ending",
+          "thoiGian": {
+            "batDau": "2026-05-01",
+            "ketThuc": "2026-05-31"
+          },
+          "tomTat": "Ưu đãi dành riêng khách hàng vay vốn nhận tin nhắn trên BIDV SmartBanking hoặc từ tổng đài.",
+          "coChe": [
+            "Khuyến khích đăng ký mới sản phẩm dịch vụ",
+            "Có thể bao gồm thẻ tín dụng, tiết kiệm, thanh toán hóa đơn định kỳ",
+            "Cần kiểm tra khách hàng có thuộc tệp nhận ưu đãi"
+          ],
+          "nganSach": "Theo thông báo BIDV",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/thong-bao/ngan-hang-so/chuong-trinh-uu-dai-khach-hang-vay"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Gia đình chi tiêu đều",
+          "nhuCau": [
+            "Siêu thị",
+            "Y tế",
+            "Giáo dục",
+            "Quản lý chi tiêu"
+          ],
+          "phanVanThuongGap": "Sợ phát sinh nợ thẻ",
+          "goiYTuVan": "Có thể đặt hạn mức phù hợp và trích nợ tự động qua BIDV SmartBanking để kiểm soát dòng tiền."
+        },
+        {
+          "nhom": "Khách mở thẻ lần đầu",
+          "nhuCau": [
+            "Phí thấp",
+            "Dễ hiểu",
+            "Dễ kích hoạt",
+            "Hạn mức vừa phải"
+          ],
+          "phanVanThuongGap": "Không rõ dùng thẻ tín dụng có lợi gì",
+          "goiYTuVan": "Bắt đầu bằng thẻ phí thấp, hạn mức vừa phải; dùng cho giao dịch có kế hoạch và tận dụng miễn lãi, ưu đãi mở mới."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "Phí thường niên 200.000 VNĐ/năm; lãi suất từ 12%/năm",
+        "hanMucHoanTienTichDiem": "Chưa thấy hạn mức hoàn tiền/tích điểm trong nội dung trích xuất",
+        "laiSuat": "Phí thường niên 200.000 VNĐ/năm; lãi suất từ 12%/năm",
+        "dieuKienCanLuuY": [
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "Phí thấp nhất tín dụng BIDV — 200.000/năm, trả góp 0%, quản lý qua SmartBanking",
+          "Thẻ mở rộng tập khách hàng mới, phù hợp khách muốn thẻ tín dụng phí thấp, quản lý dễ trên SmartBanking, có nhu cầu trả góp."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    },
+    {
+      "maThe": "bidv-mastercard-world-travel",
+      "tenThe": "BIDV Mastercard World Travel",
+      "anhGoc": "./public/assets/cards/mastercard-travel.png",
+      "anhChuanHoa": "./public/assets/cards/the chuan hoa/BIDV Mastercard World Travel.png",
+      "thongTinPhanLoai": {
+        "mangThe": "Mastercard",
+        "loaiThe": "Tín dụng quốc tế",
+        "hangThe": "World Travel",
+        "nhanDien": "Du lịch",
+        "trangThai": "active"
+      },
+      "tinhNangDacTrung": [
+        "Phòng chờ QT: 1 lượt/KH/quý (tối đa 4 lượt/năm)",
+        "Phòng chờ nội địa ga quốc tế: 1 lượt/quý (tối đa 4 lượt/năm)",
+        "Bảo hiểm du lịch và trễ chuyến lên đến 11,65 tỷ VNĐ",
+        "Mastercard",
+        "travel"
+      ],
+      "chuongTrinhKhuyenMaiHienCo": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        }
+      ],
+      "chuongTrinhKhuyenMaiLienQuan": [
+        {
+          "maChuongTrinh": "promo-open-card-q2-2026",
+          "tenChuongTrinh": "Ưu đãi mở mới thẻ tín dụng BIDV Q2/2026",
+          "nhom": "Mở mới thẻ",
+          "trangThai": "dang_hieu_luc",
+          "thoiGian": {
+            "batDau": "2026-04-01",
+            "ketThuc": "2026-06-30"
+          },
+          "tomTat": "Miễn phí thường niên năm đầu khi đạt doanh số kích hoạt; hoàn 30% trong 30 ngày đầu cho giao dịch đủ điều kiện.",
+          "coChe": [
+            "Classic: hoàn 30% tối đa 500.000 VND hoặc theo hạng khách hàng",
+            "Platinum/Ultimate/World: hoàn 30% tối đa 1.000.000 VND cho khách lần đầu mở thẻ",
+            "Giao dịch tối thiểu từ 200.000 VND"
+          ],
+          "nganSach": "Theo thể lệ BIDV",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/0af09a24-86ba-4edf-aa77-b7676305142b/The%2Ble%2Bchuong%2Btrinh%2Bmo%2Bmoi%2Bthe%2B2026.pdf?CACHEID=ROOTWORKSPACE-0af09a24-86ba-4edf-aa77-b7676305142b-pTNPTef&MOD=AJPERES"
+        },
+        {
+          "maChuongTrinh": "promo-foreign-spend-2026",
+          "tenChuongTrinh": "Ưu đãi chi tiêu trực tiếp tại nước ngoài",
+          "nhom": "Chi tiêu nước ngoài",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-23",
+            "ketThuc": "2026-04-30"
+          },
+          "tomTat": "Hoàn tiền theo doanh số chi tiêu trực tiếp tại nước ngoài cho thẻ tín dụng quốc tế BIDV.",
+          "coChe": [
+            "Hoàn 5% với doanh số từ 10 triệu đến dưới 20 triệu VND",
+            "Mức hoàn và ngân sách theo từng ngưỡng doanh số",
+            "Dùng tốt để nhắc lại khi tư vấn thẻ du lịch"
+          ],
+          "nganSach": "Theo từng ngưỡng ngân sách",
+          "nguon": "https://bidv.com.vn/bidv/ca-nhan/khuyen-mai/dich-vu-the/uu-dai-nuoc-ngoai"
+        },
+        {
+          "maChuongTrinh": "promo-vietqr-thailand",
+          "tenChuongTrinh": "Vi vu Thái Lan - Hoàn đến 6.500.000đ",
+          "nhom": "Thanh toán quốc tế",
+          "trangThai": "ended",
+          "thoiGian": {
+            "batDau": "2026-02-14",
+            "ketThuc": "2026-05-10"
+          },
+          "tomTat": "Chương trình hoàn tiền cho thanh toán mua hàng tại chỗ bằng hình thức VietQR Global.",
+          "coChe": [
+            "Có cơ chế giải hoàn tiền theo kỳ",
+            "Phù hợp khách du lịch Thái Lan",
+            "Nên lưu trong kho chiến dịch đã kết thúc để tham khảo"
+          ],
+          "nganSach": "Theo thể lệ chương trình",
+          "nguon": "https://bidv.com.vn/wps/wcm/connect/8a9b0b05-ce97-4d7b-8807-55ef17f34e74/VietQRGlobal%2BBIDV%2B2026%2BTnC.pdf?CVID=pNAV493&MOD=AJPERES"
+        }
+      ],
+      "khachHangTiemNang": [
+        {
+          "nhom": "Khách hàng cao cấp / đi công tác",
+          "nhuCau": [
+            "Phòng chờ",
+            "Bảo hiểm",
+            "Hạn mức cao",
+            "Thanh toán nước ngoài"
+          ],
+          "phanVanThuongGap": "Phí thường niên cao",
+          "goiYTuVan": "Mình nên quy đổi phí thành giá trị quyền lợi thực dùng: phòng chờ, bảo hiểm, đặc quyền sân bay và hạn mức phục vụ công tác."
+        }
+      ],
+      "chiTietThe": {
+        "phiThuongNien": "0% phí ngoại tệ; nội dung định vị nhắc tầm 1,6tr/năm",
+        "hanMucHoanTienTichDiem": "Chưa thấy hạn mức hoàn tiền/tích điểm trong nội dung trích xuất",
+        "laiSuat": "Cần kiểm chứng theo biểu phí BIDV",
+        "dieuKienCanLuuY": [
+          "Loại thẻ chính xác: tín dụng/ghi nợ/hybrid; điều kiện phát hành",
+          "Thời gian hiệu lực và điều kiện áp dụng của ưu đãi"
+        ],
+        "quyenLoiVaTinhNangKhac": [
+          "0% phí ngoại tệ + phòng chờ sân bay không cần đặt trước + bảo hiểm 11,65 tỷ — thẻ du lịch toàn diện nhất tầm 1,6tr/năm",
+          "Tư vấn cho khách hàng du lịch/công tác, cần 0% phí ngoại tệ, phòng chờ sân bay và bảo hiểm du lịch."
+        ],
+        "taiLieuLienQuan": [],
+        "nguonThamChieu": "https://card.nganhangso-hadong.online/"
+      }
+    }
+  ]
+}

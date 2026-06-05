@@ -1,74 +1,60 @@
-# BIDV Card Sales Hub
+# BIDV Card Lookup
 
-Web quản lý thông tin sản phẩm thẻ BIDV, chương trình khuyến mại và hỗ trợ tư vấn bán hàng. Bản hiện tại là frontend tĩnh, chạy trực tiếp bằng Node.js, không cần cài thêm package.
+Web React + Vite + Tailwind CSS dùng để tra cứu thông tin sản phẩm thẻ và khuyến mại thẻ BIDV.
 
-## Tính năng đã triển khai
+## Chức năng
 
-- Dashboard tổng quan: số lượng thẻ, khuyến mại còn hiệu lực, cảnh báo sắp hết hạn, thẻ ưu tiên bán.
-- Kho sản phẩm thẻ: tìm kiếm, lọc theo mạng thẻ, hạng thẻ, loại thẻ, xem dạng card hoặc bảng.
-- Chi tiết thẻ: tab Tổng quan, Điều kiện, Ưu đãi, Kịch bản, Tài liệu.
-- Quản lý khuyến mại: lọc trạng thái, nhóm chương trình, xem cơ chế, thẻ áp dụng và nguồn thể lệ.
-- So sánh thẻ: chọn 2-4 thẻ để so sánh phí, hạn mức, hạng thẻ, điểm mạnh.
-- Trợ lý tư vấn: chọn chân dung khách hàng, nhận thẻ đề xuất, lời thoại telesale, tin nhắn Zalo, email và phản hồi từ chối.
-- Copy nhanh nội dung tư vấn.
-- Responsive cho desktop, tablet và mobile.
+- Trang chủ có thanh tìm kiếm lớn và nhóm tra cứu nhanh: Du lịch, Hoàn tiền, Ăn uống, Mua sắm, Trả góp, Khách hàng cao cấp.
+- Danh sách thẻ có bộ lọc theo loại thẻ, hạng thẻ, tổ chức thẻ, nhóm ưu đãi và nhu cầu khách hàng.
+- Danh sách khuyến mại có bộ lọc theo trạng thái, nhóm ưu đãi, tổ chức thẻ và nhu cầu.
+- Trang chi tiết từng thẻ, hiển thị biểu phí, quyền lợi, nhóm khách hàng phù hợp và khuyến mại đang áp dụng.
+- Trang chi tiết từng chương trình khuyến mại, hiển thị thời gian, điều kiện, quyền lợi và thẻ áp dụng.
+- So sánh tối đa 3 thẻ.
+- Cảnh báo chương trình sắp hết hạn.
+- Nút liên hệ tư vấn chung.
 
-## Cấu trúc thư mục
+## Cấu trúc dữ liệu
 
-```text
-.
-├── index.html
-├── server.js
-├── scripts/check.js
-├── public/
-│   └── assets/
-│       ├── brand/
-│       └── cards/
-└── src/
-    ├── components/
-    ├── data/
-    ├── utils/
-    ├── main.js
-    └── styles.css
-```
+Dữ liệu đọc từ JSON trong `public/data`:
 
-## Cách chạy
+- `cards.json`: thông tin sản phẩm thẻ.
+- `promotions.json`: thông tin khuyến mại.
+- `categories.json`: nhóm nhu cầu tra cứu nhanh.
+- `partners.json`: thông tin đối tác.
 
-Máy hiện tại có Node.js nhưng không có `npm`, vì vậy chạy trực tiếp:
+Script `scripts/generate-data.cjs` sinh lại JSON từ dữ liệu gốc trong `du lieu the/du-lieu-the-bidv.json` và bộ nguồn khuyến mại đã tổng hợp.
+
+## Cài đặt và chạy local
 
 ```bash
-node server.js
+npm install
+npm run generate:data
+npm run check:data
+npm run dev
 ```
 
-Sau đó mở:
+Mở địa chỉ Vite hiển thị trên terminal, thường là `http://127.0.0.1:5173`.
 
-```text
-http://localhost:4173
-```
-
-Nếu muốn kiểm tra cấu trúc và cú pháp:
+## Build
 
 ```bash
-node scripts/check.js
+npm run build
+npm run preview
 ```
 
-## Nguồn dữ liệu
+## Deploy GitHub Pages
 
-Dữ liệu trong `src/data` là mock data có cấu trúc gần API thật. Thông tin được tổng hợp từ:
+Repo đã có workflow tại `.github/workflows/deploy-pages.yml`.
 
-- Website chính thức BIDV về sản phẩm thẻ tín dụng.
-- Các trang khuyến mại/thể lệ BIDV.
-- Bộ ảnh thẻ và tài liệu đang có trong thư mục dự án.
-- Nguồn tham khảo do người dùng cung cấp: `https://card.nganhangso-hadong.online/`.
-- Nguồn tham khảo bổ sung danh mục thẻ: `https://sosanhthe.vn/ngan-hang/bidv`.
+1. Push code lên branch `main`.
+2. Vào GitHub repo, mở `Settings > Pages`.
+3. Chọn `Source: GitHub Actions`.
+4. Chạy workflow `Deploy GitHub Pages` hoặc push commit mới.
 
-Khi đưa vào vận hành thật, cần kiểm tra lại biểu phí, điều kiện phát hành, thể lệ khuyến mại và ngày hiệu lực theo văn bản BIDV mới nhất.
+Vite đang dùng `base: "./"` để app chạy ổn khi deploy dưới subpath của GitHub Pages.
 
-## Hướng phát triển tiếp theo
+## Ghi chú vận hành
 
-- Kết nối backend và database thay cho mock data.
-- Thêm màn admin thêm/sửa/ẩn sản phẩm thẻ và khuyến mại.
-- Thêm phân quyền người dùng.
-- Upload file thể lệ và ảnh thẻ từ giao diện admin.
-- Lưu lịch sử chỉnh sửa và người phê duyệt.
-- Tích hợp CRM hoặc biểu mẫu ghi nhận kết quả tư vấn.
+- Khi cập nhật dữ liệu thẻ, sửa file nguồn hoặc JSON rồi chạy lại `npm run check:data`.
+- Khi thêm ảnh thẻ hoặc ảnh khuyến mại, đặt vào `public/assets` và dùng đường dẫn bắt đầu bằng `/assets/...` trong JSON.
+- Thông tin khuyến mại/biểu phí cần đối chiếu lại nguồn BIDV hoặc thể lệ đối tác trước khi tư vấn chính thức.
